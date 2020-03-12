@@ -10,23 +10,24 @@ Pli ĝenerale, se vi aŭdus vorton de la ĝenerala grupo vi pripensus ion, kiun 
 
 Mi esperas ke la pli multo de ofte uzataj vortoj estu de la ĝenerala grupo, kaj ke tiu grupo estu sufiĉe malgranda por ke ĉiu povas lerni ĝin facile. Kiam oni volas paroli pri pli precizaj ideoj, oni povas serĉi la ĝustajn vortojn de la faka grupo.
 
-## Fakaj
+## Fakoj
 
 arta
 astra
 besta
 elektronika
 ekonomia
-gramatika
 ĥemia
 konstrua
 korpa
 kuira
 kuraca
 landa
+lingva
 loka
 manĝa
 matematika
+mebla
 metia
 mezura
 milita
