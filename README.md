@@ -10,37 +10,10 @@ Pli ĝenerale, se vi aŭdus vorton de la ĝenerala grupo vi pripensus ion, kiun 
 
 Mi esperas ke la pli multo de ofte uzataj vortoj estu de la ĝenerala grupo, kaj ke tiu grupo estu sufiĉe malgranda por ke ĉiu povas lerni ĝin facile. Kiam oni volas paroli pri pli precizaj ideoj, oni povas serĉi la ĝustajn vortojn de la faka grupo.
 
-## Fakoj
+## Dosieroj
 
-arta
-astra
-besta
-elektronika
-ekonomia
-ĥemia
-konstrua
-korpa
-kuira
-kuraca
-landa
-lingva
-loka
-manĝa
-matematika
-mebla
-metia
-mezura
-milita
-muzika
-persona
-planta
-religia
-socia
-ŝtofa
-tempa
-tera
-vesta
-viva
+* fakoj.js - proksimume, iom subjektiva, listo de fakoj kun mallongaj priskrboj.
+* radidkoj.js - listo de vortradiko, inkluzive de listo de fakoj kiu povas enhavi ĉiun.
 
 ## xxx
 
