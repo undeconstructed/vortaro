@@ -1,27 +1,35 @@
 [
   {
     "nomo": "ĝenerala",
-    "pri": "ĝeneralaj vortoj, kies signojoj estas ĝeneralaj kompreneble"
+    "pri": "ĝeneralaj vortoj, kies signojoj estas ĝenerale kompreneblaj"
   },
   {
     "nomo": "kerna",
-    "pri": "vortoj kiu donas al Esperanto sian esencan strukturon"
+    "pri": "vortoj kiu donas al Esperanto sian esencan strukturon, kaj estas uzebla sen finaĵo"
   },
   {
     "nomo": "xxx",
-    "pri": "radikoj kies signifo estas konstuebla el (ne tro de) aliaj radikoj"
+    "pri": "radikoj kies signifo estas konstuebla el (ne tro de) aliaj radikoj, aŭ kiu havas neklaran signifon"
+  },
+  {
+    "nomo": "???",
+    "pri": "vortoj kiu bezonas pli ĝusta fako"
   },
   {
     "nomo": "arta",
-    "pri": "artaj vortoj"
+    "pri": "vortoj pri artaj aferoj"
   },
   {
     "nomo": "astra",
-    "pri": "astraj vortoj"
+    "pri": "vortoj pri la grandaj objektoj en la kosmo"
   },
   {
     "nomo": "besta",
     "pri": "bestaj vortoj, precipe specioj"
+  },
+  {
+    "nomo": "danca",
+    "pri": "nomoj de dancoj, dancaĵoj, dancagoj, ktp"
   },
   {
     "nomo": "elektronika",
@@ -29,47 +37,55 @@
   },
   {
     "nomo": "ekonomia",
-    "pri": "ekonomiaj vortoj"
+    "pri": "ekonomiaj vortoj, inkluzive de nomoj de valutoj"
   },
   {
     "nomo": "ĥemia",
-    "pri": "ĥemiaj vortoj"
+    "pri": "ĥemiaj vortoj, inkluzive de nomoj de elementoj"
   },
   {
     "nomo": "kolora",
-    "pri": "koloraj vortoj"
+    "pri": "nomoj da koloroj"
   },
   {
     "nomo": "konstrua",
-    "pri": "konstruaj vortoj"
+    "pri": "vortoj pri konstruo"
   },
   {
     "nomo": "korpa",
-    "pri", "partoj de homo aŭ besta korpo, kaj rilataj procesoj ktp."
+    "pri": "partoj de homo aŭ besta korpo, kaj rilataj procesoj ktp."
   },
   {
     "nomo": "kuira",
-    "pri": "kuiraj vortoj"
+    "pri": "vortoj pri la arto de kuiro"
   },
   {
     "nomo": "kuraca",
-    "pri": "kuracaj vortoj"
+    "pri": "nomoj da malsanoj, kuraciloj, ktp"
   },
   {
     "nomo": "landa",
-    "pri": "landaj vortoj"
+    "pri": "nomoj de landoj, aktualaj aŭ ne"
+  },
+  {
+    "nomo": "leĝa",
+    "pri": "vortoj kies signifo estas difinita de leĝoj"
   },
   {
     "nomo": "litera",
-    "pri": "nomoj de literoj"
+    "pri": "nomoj de literoj de iu skribsistemo"
   },
   {
     "nomo": "lingva",
-    "pri": "lingvaj vortoj"
+    "pri": "vortoj pri lingvo, gramatiko, ktp"
   },
   {
     "nomo": "loka",
     "pri": "nomoj de partoj de la mondo"
+  },
+  {
+    "nomo": "luda",
+    "pri": "nomoj de ludoj, ludiloj, ktp"
   },
   {
     "nomo": "manĝa",
@@ -81,7 +97,7 @@
   },
   {
     "nomo": "mebla",
-    "pri": "meblaj vortoj"
+    "pri": "nomoj de mebloj"
   },
   {
     "nomo": "metia",
@@ -89,11 +105,11 @@
   },
   {
     "nomo": "mezura",
-    "pri": "mezuraj vortoj"
+    "pri": "mezuraj vortoj, precipe aktualaj kaj antikvaj unuoj"
   },
   {
     "nomo": "milita",
-    "pri": "militaj vortoj"
+    "pri": "militaj vortoj, precipe nomoj de militiloj"
   },
   {
     "nomo": "muzika",
@@ -108,6 +124,10 @@
     "pri": "plantaj vortoj, precipe specioj"
   },
   {
+    "nomo": "politka",
+    "pri": "politka vortoj"
+  },
+  {
     "nomo": "popola",
     "pri": "nomoj de popoloj, etnoj, ktp"
   },
@@ -117,11 +137,11 @@
   },
   {
     "nomo": "socia",
-    "pri": "sociaj vortoj"
+    "pri": "vortoj pri la organizo de socio, kaj ĝiaj oficistoj"
   },
   {
     "nomo": "ŝtofa",
-    "pri": "ŝtofaj vortoj"
+    "pri": "nomoj de ŝtofoj"
   },
   {
     "nomo": "tempa",
@@ -136,11 +156,15 @@
     "pri": "vestoj, partoj de vestoj, priskriboj de vestoj, ktp"
   },
   {
+    "nomo": "vetera",
+    "pri": "vortoj pri la vetero"
+  },
+  {
     "nomo": "vetura",
-    "pri", "nomoj de veturiloj, ktp"
+    "pri": "nomoj de veturiloj, ktp"
   },
   {
     "nomo": "viva",
-    "pri": "vivaj vortoj"
+    "pri": "vortoj pri la sistemoj de vivo"
   }
 ]
