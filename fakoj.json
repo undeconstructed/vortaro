@@ -16,14 +16,6 @@
     "pri": "vortoj kiu bezonas pli ĝusta fako"
   },
   {
-    "nomo": "arta",
-    "pri": "vortoj pri artaj aferoj"
-  },
-  {
-    "nomo": "astra",
-    "pri": "vortoj pri la grandaj objektoj en la kosmo"
-  },
-  {
     "nomo": "besta",
     "pri": "bestaj vortoj, precipe specioj"
   },
@@ -44,6 +36,10 @@
     "pri": "vortoj pri la plej fundamentaj aĵoj en la universo"
   },
   {
+    "nomo": "grafika",
+    "pri": "pri grafikoj kaj la grafikaj artoj"
+  },
+  {
     "nomo": "ĥemia",
     "pri": "ĥemiaj vortoj, inkluzive de nomoj de elementoj"
   },
@@ -58,6 +54,10 @@
   {
     "nomo": "korpa",
     "pri": "partoj de homo aŭ besta korpo, kaj rilataj procesoj ktp."
+  },
+  {
+    "nomo": "kosma",
+    "pri": "pri la universo preter la mondo"
   },
   {
     "nomo": "kuira",
@@ -93,7 +93,7 @@
   },
   {
     "nomo": "luda",
-    "pri": "nomoj de ludoj, ludiloj, ktp"
+    "pri": "nomoj de sportoj, ludoj, ludiloj, ktp"
   },
   {
     "nomo": "manĝa",
@@ -120,8 +120,12 @@
     "pri": "militaj vortoj, precipe nomoj de militiloj"
   },
   {
+    "nomo": "mita",
+    "pri": "precipe bestoj de mitoj"
+  },
+  {
     "nomo": "muzika",
-    "pri": "muzikaj vortoj, inkluzive de multaj malnovaj unuoj"
+    "pri": "muzikaj vortoj"
   },
   {
     "nomo": "persona",
@@ -132,8 +136,8 @@
     "pri": "plantaj vortoj, precipe specioj"
   },
   {
-    "nomo": "politka",
-    "pri": "politka vortoj"
+    "nomo": "politika",
+    "pri": "politikaj vortoj"
   },
   {
     "nomo": "popola",
