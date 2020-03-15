@@ -22,3 +22,7 @@ La grupo "xxx" estas vortoj de la AV kiu ne estas regulaj, aŭ ne estas bone dif
 La grupo "???" estas neterna, sed enhavas vortojn por kiuj mi ne povas decidi pri fakojn.
 
 La grupo "kerna" estas por fundamentaj vortoj kiuj ne bezonas finaĵon.
+
+## Problemoj
+
+Multaj vortoj havas ne-Esperantaj afiksoj, ekz. "mono/", "/graf/", "/log/", "/skop/".

@@ -84,6 +84,10 @@
     "pri": "vortoj pri lingvo, gramatiko, ktp"
   },
   {
+    "nomo": "lingvarta",
+    "pri": "vortoj pri prozo, poezio, ktp"
+  },
+  {
     "nomo": "loka",
     "pri": "nomoj de partoj de la mondo"
   },
@@ -105,7 +109,7 @@
   },
   {
     "nomo": "metia",
-    "pri": "metiaj vortoj"
+    "pri": "pri kion oni povas fari per la manoj"
   },
   {
     "nomo": "mezura",
@@ -154,6 +158,10 @@
   {
     "nomo": "tera",
     "pri": "nomoj de aĵo kaj eco kiu priskribas la fizika tero"
+  },
+  {
+    "nomo": "teatra",
+    "pri": "pri teatraj aferoj"
   },
   {
     "nomo": "vesta",
