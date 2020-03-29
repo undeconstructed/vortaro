@@ -12,8 +12,9 @@ Mi esperas ke la plimulto de ofte uzataj vortoj estu de la ĝenerala grupo, kaj 
 
 ## Dosieroj
 
-* fakoj.json - proksimume, iom subjektiva, listo de fakoj kun mallongaj priskrboj.
-* radidkoj.json - listo de vortradiko, inkluzive de listo de fakoj kiu povas enhavi ĉiun.
+* [fakoj.json] - proksimume, iom subjektiva, listo de fakoj kun mallongaj priskrboj.
+* [radidkoj.json] - listo de vortradiko, inkluzive de listo de fakoj kiu povas enhavi ĉiun.
+* [ekzemploj.json] - ekzemplaj frazoj por klarigi radikojn
 
 ## Strangaj fakoj
 
