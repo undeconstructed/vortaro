@@ -12,18 +12,40 @@ Mi esperas ke la plimulto de ofte uzataj vortoj estu de la ĝenerala grupo, kaj 
 
 ## Dosieroj
 
-* [fakoj.json] - proksimume, iom subjektiva, listo de fakoj kun mallongaj priskrboj.
-* [radidkoj.json] - listo de vortradiko, inkluzive de listo de fakoj kiu povas enhavi ĉiun.
-* [ekzemploj.json] - ekzemplaj frazoj por klarigi radikojn
+* [fakoj.json]() - proksimume, iom subjektiva, listo de fakoj kun mallongaj priskrboj.
+* [radidkoj.json]() - listo de vortradiko, inkluzive de listo de fakoj kiu povas enhavi ĉiun.
+* [ekzemploj.json]() - ekzemplaj frazoj por klarigi radikojn
 
 ## Strangaj fakoj
 
 La grupo "xxx" estas vortoj de la AV kiu ne estas regulaj, aŭ ne estas bone difinitaj, aŭ estas facile anstaŭigebla per kunmetaĵoj.
 
-La grupo "???" estas neterna, sed enhavas vortojn por kiuj mi ne povas decidi pri fakojn.
+La grupo "???" estas ne eterna, sed enhavas vortojn por kiuj mi ne povas decidi pri fakojn.
 
 La grupo "kerna" estas por fundamentaj vortoj kiuj ne bezonas finaĵon.
 
 ## Problemoj
 
 Multaj vortoj havas ne-Esperantaj afiksoj, ekz. "mono/", "/graf/", "/log/", "/skop/".
+
+## Komandoj
+
+Ĉiuj fakoj:
+
+`cat radikoj.json | jq -r '.[] .fakoj[]' | sort | uniq`
+
+Priskribataj fakoj:
+
+`cat fakoj.json | jq -r '.[] .nomo' | sort`
+
+Vortoj laŭ fako:
+
+`cat radikoj.json | jq -r '.[] | select(.fakoj | contains(["ĝenerala"])) | .radiko' | sed 's/\///g'`
+
+Vortoj uzataj en ekzemploj:
+
+`cat ekzemploj.json | jq -r '.[]' | tr '[A-ZĈĜĤĴŜŬ]' '[a-zĉĝĥĵŝŭ]' | sed 's/[^a-zĉĝĥĵŝŭ]/\n/g' | sort | uniq`
+
+Vortoj sen ekzemploj:
+
+`comm -13 <(cat ekzemploj.json | jq -r '.[]' | tr '[A-ZĈĜĤĴŜŬ]' '[a-zĉĝĥĵŝŭ]' | sed 's/[^a-zĉĝĥĵŝŭ]/\n/g' | sort | uniq) <(cat radikoj.json | jq -r '.[] | select(.fakoj | contains(["ĝenerala"])) | .radiko' | sed 's/\///g' | sort)`
