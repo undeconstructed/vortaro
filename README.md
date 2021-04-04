@@ -1,32 +1,45 @@
 # Vortaro
 
-Provo krei novan Esperantan vortaron el la Akademia Vortaro (AV). La ĉefaj principoj:
+Provo krei novan Esperantan vortaron el la Akademia Vortaro (AV), kaj indiki kiel uzebla estas ĉiu vorto.
 
-* Ĝeneralaj vortoj estu uzebla por ĝenerala parolo. Eble ili ne havas tute precizaj signifoj, sed tio ne gravas ĉar ili uzeblas por komuniki nemezurablaj ideoj. Foje oni devos kunmeti vortojn, aŭ uzi pli ol unu, sed tio estas laŭ la spirito de Esperanto.
+## Fontoj
 
-* Fakaj vortoj havu precizajn signifojn, kiujn ĉiu en la fako devas antaŭe scii por bone kompreni. Ofte ili havos pli de precizecon ol estas bezonata por ĝenerala parolo, sed oni povas uzi ilin se ĉiu en la konversacio komprenos.
+f = fundamento
+a = aldono
+n = neoficiala
 
-Pli ĝenerale, se vi aŭdus vorton de la ĝenerala grupo vi pripensus ion, kiun vi vortigus tiel. Se vi aŭdus vorton de la faka grupo vi pripensus la saman aferon kiun pripensas la parolanta.
+## Specoj
 
-Mi esperas ke la plimulto de ofte uzataj vortoj estu de la ĝenerala grupo, kaj ke tiu grupo estu sufiĉe malgranda por ke ĉiu povas lerni ĝin facile. Kiam oni volas paroli pri pli precizaj ideoj, oni povas serĉi la ĝustajn vortojn de faka grupo.
+### e = esperanta
 
-## Dosieroj
+kernaj partoj de la lingvo.
 
-* [fakoj.json]() - proksimume, iom subjektiva, listo de fakoj kun mallongaj priskrboj.
-* [radidkoj.json]() - listo de vortradiko, inkluzive de listo de fakoj kiu povas enhavi ĉiun.
-* [ekzemploj.json]() - ekzemplaj frazoj por klarigi radikojn
+### a = abstrakta
 
-## Strangaj fakoj
+se tempo subite haltus, abstraktaj aferoj ne plu ekzistos.
+tuj uzeblaj kiel verboj, adjektivoj, adverboj - la substantivo kutima estas la ago aŭ la rezulto.
+ĝenerale estas la plej potenca, ĉar oni povas libere uzi ul', aĵ', il', ist' ktp..
 
-La grupo "xxx" estas vortoj de la AV kiu ne estas regulaj, aŭ ne estas bone difinitaj, aŭ estas facile anstaŭigebla per kunmetaĵoj.
+### k = konkreta
 
-La grupo "???" estas ne eterna, sed enhavas vortojn por kiuj mi ne povas decidi pri fakojn.
+se tempo subite haltus, konkretaj aferoj plu ekzistos.
+la substantivo estas la aĵo mem.
+la aliaj formoj signifias "esti kiel la aĵo", aŭ "fari per la aĵo".
 
-La grupo "kerna" estas por fundamentaj vortoj kiuj ne bezonas finaĵon.
+### n = nomoj
 
-## Problemoj
+nomo por unu el kelkaj aferoj da sama speco.
 
-Multaj vortoj havas ne-Esperantaj afiksoj, ekz. "mono/", "/graf/", "/log/", "/skop/".
+## Niveloj
+
+0 1 = ĉiuj komprenos, ekz. "sub"
+1 2 = ofta vorto, ĝenerale komprenebla, ekz. "striki"
+2 3 = faka vorto, kiu eble ne estas ĝenerale konata, ekz. "sturgo"
+4 4 = neniu komprenus sen speciala intereso, ekz. "stofo", "stupo"
+
+## Bone?
+
+Ĉu la vorto havas gravajn problemojn, ekz. ĝi ne havas veran radikon, kiel "teism'".
 
 ## Komandoj
 

@@ -16,8 +16,8 @@
     "pri": "vortoj kiu bezonas pli ĝusta fako"
   },
   {
-    "nomo": "besta",
-    "pri": "bestaj vortoj, precipe specioj"
+    "nomo": "besto",
+    "pri": "specoj de besto"
   },
   {
     "nomo": "danca",
@@ -44,7 +44,7 @@
     "pri": "ĥemiaj vortoj, inkluzive de nomoj de elementoj"
   },
   {
-    "nomo": "kolora",
+    "nomo": "koloro",
     "pri": "nomoj da koloroj"
   },
   {
@@ -76,7 +76,7 @@
     "pri": "vortoj kies signifo estas difinita de leĝoj"
   },
   {
-    "nomo": "litera",
+    "nomo": "litero",
     "pri": "nomoj de literoj de iu skribsistemo"
   },
   {
@@ -132,15 +132,11 @@
     "pri": "nomoj ofte uzata de personoj"
   },
   {
-    "nomo": "planta",
-    "pri": "plantaj vortoj, precipe specioj"
+    "nomo": "planto",
+    "pri": "nomoj de plantoj"
   },
   {
-    "nomo": "politika",
-    "pri": "politikaj vortoj"
-  },
-  {
-    "nomo": "popola",
+    "nomo": "popolo",
     "pri": "nomoj de popoloj, etnoj, ktp"
   },
   {
@@ -161,7 +157,7 @@
   },
   {
     "nomo": "tera",
-    "pri": "nomoj de aĵo kaj eco kiu priskribas la fizika tero"
+    "pri": "nomoj de aĵoj kaj ecoj kiu priskribas la fizika mondo"
   },
   {
     "nomo": "teatra",
