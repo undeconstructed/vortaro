@@ -10545,8 +10545,8 @@
     "fonto": "f",
     "bona": true,
     "nivelo": 2,
-    "fakoj": [,
-      "ĝenerala"
+    "fakoj": [
+      "ĝenerala",
       "vesta"
     ],
     "tradukoj": {
@@ -60350,7 +60350,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "ĝenerala"
+      "ĝenerala",
       "kosma",
       "terena"
     ],
