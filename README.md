@@ -35,7 +35,7 @@ nomo por unu el kelkaj aferoj da sama speco.
 0 1 = ĉiuj komprenos, ekz. "sub"
 1 2 = ofta vorto, ĝenerale komprenebla, ekz. "striki"
 2 3 = faka vorto, kiu eble ne estas ĝenerale konata, ekz. "sturgo"
-4 4 = neniu komprenus sen speciala intereso, ekz. "stofo", "stupo"
+3 4 = neniu komprenus sen speciala intereso, ekz. "stofo", "stupo"
 
 ## Bone?
 

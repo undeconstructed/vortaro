@@ -88,7 +88,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "tera"
+      "terena"
     ],
     "tradukoj": {
       "en": "abyss, chasm"
@@ -789,7 +789,7 @@
   },
   {
     "radiko": "afrik'",
-    "speco": "k",
+    "speco": "n",
     "fonto": "a",
     "bona": true,
     "nivelo": 2,
@@ -1643,7 +1643,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "popolo"
+      "popola"
     ],
     "tradukoj": {
       "en": "Albanian (people)"
@@ -2334,7 +2334,7 @@
   },
   {
     "radiko": "amerik'",
-    "speco": "k",
+    "speco": "n",
     "fonto": "a",
     "bona": true,
     "nivelo": 2,
@@ -2800,7 +2800,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "popolo"
+      "popola"
     ],
     "tradukoj": {
       "en": "English (people)"
@@ -3012,8 +3012,9 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "prepozicio",
-      "kerna"
+      "kerna",
+      "konjunkcio",
+      "prepozicio"
     ],
     "tradukoj": {
       "en": "instead of"
@@ -3035,7 +3036,7 @@
   },
   {
     "radiko": "antarkt'",
-    "speco": "k",
+    "speco": "n",
     "fonto": "a",
     "bona": true,
     "nivelo": 2,
@@ -3160,7 +3161,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "tera"
+      "terena"
     ],
     "tradukoj": {
       "en": "antipode"
@@ -3675,7 +3676,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "popolo"
+      "popola"
     ],
     "tradukoj": {
       "en": "Arab (people)"
@@ -3994,7 +3995,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "tera"
+      "terena"
     ],
     "vidu": "insul'ar'",
     "tradukoj": {
@@ -4187,7 +4188,7 @@
     "bona": false,
     "nivelo": 2,
     "fakoj": [
-      "tera"
+      "terena"
     ],
     "vidu": "arĥipelag'",
     "tradukoj": {
@@ -4238,7 +4239,7 @@
   },
   {
     "radiko": "arkt'",
-    "speco": "k",
+    "speco": "n",
     "fonto": "a",
     "bona": true,
     "nivelo": 2,
@@ -4296,7 +4297,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "popolo"
+      "popola"
     ],
     "tradukoj": {
       "en": "Armenian (people)"
@@ -4954,7 +4955,7 @@
   },
   {
     "radiko": "atlantik'",
-    "speco": "k",
+    "speco": "n",
     "fonto": "a",
     "bona": true,
     "nivelo": 2,
@@ -5015,7 +5016,7 @@
     "nivelo": 2,
     "fakoj": [
       "ĝenerala",
-      "tera"
+      "terena"
     ],
     "tradukoj": {
       "en": "atmosphere"
@@ -5190,7 +5191,7 @@
       "persona"
     ],
     "tradukoj": {
-      "en": "(man’s name)"
+      "en": "August (man’s name)"
     }
   },
   {
@@ -5596,7 +5597,7 @@
   },
   {
     "radiko": "azi'",
-    "speco": "k",
+    "speco": "n",
     "fonto": "a",
     "bona": true,
     "nivelo": 2,
@@ -5772,8 +5773,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "vetura",
-      "???"
+      "ĝenerala",
+      "vetura"
     ],
     "tradukoj": {
       "en": "ballast"
@@ -5851,7 +5852,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "???"
+      "fizika"
     ],
     "tradukoj": {
       "en": "ballistics, science of projectiles"
@@ -6019,10 +6020,9 @@
     "speco": "k",
     "fonto": "a",
     "bona": true,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
-      "ĝenerala",
-      "???"
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "ribbon-like scroll, band, streamer"
@@ -6357,7 +6357,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "tera"
+      "terena"
     ],
     "tradukoj": {
       "en": "basin (wide space for water)"
@@ -6542,7 +6542,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "???"
+      "komerca"
     ],
     "tradukoj": {
       "en": "bazaar, oriental marketplace"
@@ -6595,7 +6595,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "???"
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "bed (garden)"
@@ -6687,7 +6687,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "popolo"
+      "popola"
     ],
     "tradukoj": {
       "en": "Belgian (people)"
@@ -6787,7 +6787,7 @@
   },
   {
     "radiko": "berlin'",
-    "speco": "k",
+    "speco": "n",
     "fonto": "a",
     "bona": true,
     "nivelo": 2,
@@ -7113,21 +7113,21 @@
     "fakoj": [
       "ĝenerala"
     ],
-    "vidu": "viv'stud'ist'",
+    "vidu": "viv'stud'",
     "tradukoj": {
-      "en": "biologist"
+      "en": "biology"
     }
   },
   {
     "radiko": "biologi'",
-    "speco": "a",
+    "speco": "k",
     "fonto": "a",
-    "bona": true,
+    "bona": false,
     "nivelo": 2,
     "fakoj": [
       "ĝenerala"
     ],
-    "vidu": "viv'stud'",
+    "vidu": "biolog' viv'stud'",
     "tradukoj": {
       "en": "biology"
     }
@@ -7166,7 +7166,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "popolo"
+      "popola"
     ],
     "tradukoj": {
       "en": "Burmese (people)"
@@ -7233,7 +7233,7 @@
     "nivelo": 2,
     "fakoj": [
       "ĝenerala",
-      "komputa"
+      "komputila"
     ],
     "tradukoj": {
       "en": "bit (computing); bit/ok/o=byte"
@@ -7285,7 +7285,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "koloro"
+      "kolora"
     ],
     "tradukoj": {
       "en": "white"
@@ -7416,7 +7416,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "koloro"
+      "kolora"
     ],
     "tradukoj": {
       "en": "blue"
@@ -7455,6 +7455,7 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "kerna",
       "litero"
     ],
     "tradukoj": {
@@ -7743,7 +7744,7 @@
     "nivelo": 2,
     "fakoj": [
       "ĝenerala",
-      "tera"
+      "terena"
     ],
     "tradukoj": {
       "en": "grove (of trees, etc.)"
@@ -8101,7 +8102,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "popolo"
+      "popola"
     ],
     "tradukoj": {
       "en": "Brit (resident of Britain)"
@@ -8297,7 +8298,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "koloro"
+      "kolora"
     ],
     "tradukoj": {
       "en": "brown"
@@ -8533,7 +8534,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "popolo"
+      "popola"
     ],
     "tradukoj": {
       "en": "Bulgarian (people)"
@@ -8606,7 +8607,7 @@
   },
   {
     "radiko": "burd'",
-    "speco": "n",
+    "speco": "k",
     "fonto": "f",
     "bona": true,
     "nivelo": 2,
@@ -9171,7 +9172,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "popolo"
+      "popola"
     ],
     "tradukoj": {
       "en": "gypsy"
@@ -9462,8 +9463,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "ĝenerala",
-      "???"
+      "ilo",
+      "matematika"
     ],
     "tradukoj": {
       "en": "compass (instrument for drawing circles)"
@@ -9569,7 +9570,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "???"
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "cistern, reservoir, tank"
@@ -9954,7 +9955,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "???"
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "chassis"
@@ -10153,7 +10154,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "every, every kind of"
@@ -10167,7 +10168,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "for every reason"
@@ -10181,7 +10182,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "always"
@@ -10195,7 +10196,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "everywhere"
@@ -10209,7 +10210,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "in every manner"
@@ -10236,7 +10237,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "everyone’s"
@@ -10314,7 +10315,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "popolo"
+      "popola"
     ],
     "tradukoj": {
       "en": "inhabitant of China"
@@ -10328,7 +10329,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "everything"
@@ -10342,7 +10343,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "all, the whole quantity"
@@ -10370,7 +10371,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "each, every one"
@@ -10519,7 +10520,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "popolo"
+      "popola"
     ],
     "tradukoj": {
       "en": "Danish (people)"
@@ -10544,8 +10545,9 @@
     "fonto": "f",
     "bona": true,
     "nivelo": 2,
-    "fakoj": [
-      "???"
+    "fakoj": [,
+      "ĝenerala"
+      "vesta"
     ],
     "tradukoj": {
       "en": "dandy, a man who gives exaggerated attention to dress"
@@ -11025,7 +11027,7 @@
     "bona": false,
     "nivelo": 2,
     "fakoj": [
-      "xxx"
+      "ĝenerala"
     ],
     "vidu": "deklar’aĵ’",
     "tradukoj": {
@@ -11184,7 +11186,7 @@
     "nivelo": 2,
     "fakoj": [
       "litero",
-      "tera"
+      "terena"
     ],
     "tradukoj": {
       "en": "greek letter delta"
@@ -11578,7 +11580,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "tera"
+      "terena"
     ],
     "tradukoj": {
       "en": "desert"
@@ -12082,7 +12084,7 @@
     "nivelo": 2,
     "fakoj": [
       "ĝenerala",
-      "tera"
+      "terena"
     ],
     "vidu": "inund'eg'",
     "tradukoj": {
@@ -13182,8 +13184,9 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "kerna",
       "prepozicio",
-      "kerna"
+      "konjunkcio"
     ],
     "tradukoj": {
       "en": "while"
@@ -13569,6 +13572,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "kerna",
+      "ekkrio",
       "prefikso",
       "ĝenerala"
     ],
@@ -13977,7 +13982,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "tera"
+      "terena"
     ],
     "tradukoj": {
       "en": "equator"
@@ -14617,9 +14622,9 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "xxx"
+      "ĝenerala"
     ],
-    "vidu": "insekt'stud'ist'",
+    "vidu": "insekt'stud''",
     "tradukoj": {
       "en": "entomologist"
     }
@@ -14631,11 +14636,11 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "xxx"
+      "ĝenerala"
     ],
     "vidu": "insekt'stud'",
     "tradukoj": {
-      "en": "entomology (study of insects)"
+      "en": "entomology"
     }
   },
   {
@@ -15208,7 +15213,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "popolo"
+      "popola"
     ],
     "tradukoj": {
       "en": "Estonian (people)"
@@ -15387,13 +15392,14 @@
   },
   {
     "radiko": "etimolog'",
-    "speco": "k",
+    "speco": "a",
     "fonto": "a",
     "bona": true,
     "nivelo": 2,
     "fakoj": [
       "lingva"
     ],
+    "vidu": "vort'stud'",
     "tradukoj": {
       "en": "etymologist"
     }
@@ -15402,19 +15408,18 @@
     "radiko": "etimologi'",
     "speco": "k",
     "fonto": "a",
-    "bona": true,
+    "bona": false,
     "nivelo": 2,
     "fakoj": [
       "lingva"
     ],
-    "vidu": "vort'de'ven'stud'",
     "tradukoj": {
       "en": "etymology (study of word origins)"
     }
   },
   {
     "radiko": "etiolog'",
-    "speco": "k",
+    "speco": "a",
     "fonto": "a",
     "bona": true,
     "nivelo": 2,
@@ -15422,7 +15427,7 @@
       "kuraca"
     ],
     "tradukoj": {
-      "en": "etiologist"
+      "en": "etiology (study of the causes of disease)"
     }
   },
   {
@@ -15445,7 +15450,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "popolo"
+      "popola"
     ],
     "tradukoj": {
       "en": "Ethiopian (people)"
@@ -17137,15 +17142,16 @@
     "nivelo": 2,
     "fakoj": [
       "ĝenerala",
-      "???"
+      "teatra"
     ],
+    "vidu": "kin'aĵ'",
     "tradukoj": {
       "en": "film (as of a movie or photograph)"
     }
   },
   {
     "radiko": "filolog'",
-    "speco": "k",
+    "speco": "a",
     "fonto": "a",
     "bona": true,
     "nivelo": 2,
@@ -17153,7 +17159,7 @@
       "lingvarta"
     ],
     "tradukoj": {
-      "en": "philologist"
+      "en": "philology (study of literature)"
     }
   },
   {
@@ -17334,16 +17340,16 @@
     "fakoj": [
       "kuraca"
     ],
-    "vidu": "korp'stud'ist'",
+    "vidu": "viv'stud'",
     "tradukoj": {
-      "en": "physiologist"
+      "en": "physiology (study of living systems)"
     }
   },
   {
     "radiko": "fiziologi'",
     "speco": "k",
     "fonto": "a",
-    "bona": true,
+    "bona": false,
     "nivelo": 2,
     "fakoj": [
       "kuraca"
@@ -17362,7 +17368,7 @@
     "fakoj": [
       "ĝenerala"
     ],
-    "vidu": "vizaĝ'stud'",
+    "vidu": "vizaĝ'",
     "tradukoj": {
       "en": "physionomy (facial characteristics and expressions)"
     }
@@ -17374,7 +17380,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "tera"
+      "terena"
     ],
     "tradukoj": {
       "en": "fjord"
@@ -17491,7 +17497,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "koloro"
+      "kolora"
     ],
     "tradukoj": {
       "en": "yellow"
@@ -18302,7 +18308,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "popolo"
+      "popola"
     ],
     "tradukoj": {
       "en": "French (people)"
@@ -19516,7 +19522,7 @@
       "ĝenerala"
     ],
     "tradukoj": {
-      "en": "genealogist"
+      "en": "genealogy (study of family history)"
     }
   },
   {
@@ -19658,7 +19664,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "tera",
+      "terena",
       "fizika"
     ],
     "tradukoj": {
@@ -19672,7 +19678,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "tera"
+      "terena"
     ],
     "vidu": "teren'stud'ist'",
     "tradukoj": {
@@ -19686,7 +19692,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "tera"
+      "terena"
     ],
     "vidu": "teren'stud'",
     "tradukoj": {
@@ -19695,30 +19701,28 @@
   },
   {
     "radiko": "geolog'",
-    "speco": "k",
+    "speco": "a",
     "fonto": "a",
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "tera",
+      "terena",
       "fizika"
     ],
-    "vidu": "ter'stud'ist'",
     "tradukoj": {
-      "en": "geologist"
+      "en": "geology (study of planetry stucture)"
     }
   },
   {
     "radiko": "geologi'",
     "speco": "k",
     "fonto": "a",
-    "bona": true,
+    "bona": false,
     "nivelo": 2,
     "fakoj": [
-      "tera",
+      "terena",
       "fizika"
     ],
-    "vidu": "ter'stud'",
     "tradukoj": {
       "en": "geology"
     }
@@ -19733,14 +19737,14 @@
       "matematika"
     ],
     "tradukoj": {
-      "en": "geometer"
+      "en": "geometry (study of shapes)"
     }
   },
   {
     "radiko": "geometri'",
     "speco": "k",
     "fonto": "a",
-    "bona": true,
+    "bona": false,
     "nivelo": 2,
     "fakoj": [
       "matematika"
@@ -19782,7 +19786,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "popolo"
+      "popola"
     ],
     "tradukoj": {
       "en": "German (people)"
@@ -20228,7 +20232,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "tera"
+      "terena"
     ],
     "tradukoj": {
       "en": "gulf"
@@ -20354,23 +20358,23 @@
   },
   {
     "radiko": "grafolog'",
-    "speco": "k",
+    "speco": "a",
     "fonto": "a",
     "bona": true,
     "nivelo": 2,
     "fakoj": [
       "lingva"
     ],
-    "vidu": "man'skrib'stud'ist'",
+    "vidu": "man'skrib'stud'",
     "tradukoj": {
-      "en": "handwriting expert"
+      "en": "graphology (study of handwriting)"
     }
   },
   {
     "radiko": "grafologi'",
     "speco": "k",
     "fonto": "a",
-    "bona": true,
+    "bona": false,
     "nivelo": 2,
     "fakoj": [
       "lingva"
@@ -20590,7 +20594,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "popolo"
+      "popola"
     ],
     "tradukoj": {
       "en": "Greek (people)"
@@ -20722,7 +20726,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "koloro"
+      "kolora"
     ],
     "tradukoj": {
       "en": "grey"
@@ -21633,7 +21637,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "popolo"
+      "popola"
     ],
     "tradukoj": {
       "en": "Hebrew"
@@ -22373,7 +22377,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "popolo"
+      "popola"
     ],
     "tradukoj": {
       "en": "Spanish (people)"
@@ -22861,7 +22865,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "popolo"
+      "popola"
     ],
     "tradukoj": {
       "en": "Hungarian (people)"
@@ -22874,7 +22878,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ekkrio"
+      "ekkrio",
+      "kerna"
     ],
     "tradukoj": {
       "en": "hurray"
@@ -23047,7 +23052,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "of some kind"
@@ -23061,7 +23066,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "for some reason"
@@ -23075,7 +23080,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "at some time"
@@ -23097,7 +23102,7 @@
   {
     "radiko": "iĉ'",
     "speco": "e",
-    "fonto": "a",
+    "fonto": "n",
     "bona": true,
     "nivelo": 0,
     "fakoj": [
@@ -23277,7 +23282,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "somewhere"
@@ -23291,7 +23296,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "somehow"
@@ -23305,7 +23310,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "someone’s"
@@ -24451,7 +24456,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "tera"
+      "terena"
     ],
     "tradukoj": {
       "en": "island"
@@ -24808,7 +24813,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "something"
@@ -24822,7 +24827,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "a little, some quantity"
@@ -24953,7 +24958,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "lando"
+      "landa"
     ],
     "tradukoj": {
       "en": "Iceland"
@@ -25007,7 +25012,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "tera"
+      "terena"
     ],
     "tradukoj": {
       "en": "isthmus"
@@ -25034,7 +25039,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "popolo"
+      "popola"
     ],
     "tradukoj": {
       "en": "Italian (people)"
@@ -25048,7 +25053,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "someone"
@@ -25166,7 +25171,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "popolo"
+      "popola"
     ],
     "tradukoj": {
       "en": "inhabitant of Japan"
@@ -25210,7 +25215,7 @@
       "kerna"
     ],
     "tradukoj": {
-      "en": "can be rendered by various English prepositions"
+      "en": "sintactic preposition"
     }
   },
   {
@@ -25367,7 +25372,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "popolo"
+      "popola"
     ],
     "tradukoj": {
       "en": "Jew, Jewish"
@@ -28417,7 +28422,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "of what kind"
@@ -28431,7 +28436,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "why"
@@ -28445,7 +28450,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "when"
@@ -28472,7 +28477,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "where"
@@ -28486,7 +28491,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "how"
@@ -28500,7 +28505,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "whose"
@@ -28595,7 +28600,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "what"
@@ -28609,7 +28614,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "how much"
@@ -28729,7 +28734,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "who, which"
@@ -30789,6 +30794,7 @@
     "fakoj": [
       "lingva"
     ],
+    "vidu": "fraz'en'konduk'il'",
     "tradukoj": {
       "en": "conjunction (grammar)"
     }
@@ -31284,7 +31290,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "tera"
+      "terena"
     ],
     "vidu": "mond’part’",
     "tradukoj": {
@@ -32399,7 +32405,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "tera"
+      "terena"
     ],
     "tradukoj": {
       "en": "crater"
@@ -32505,7 +32511,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "popolo"
+      "popola"
     ],
     "tradukoj": {
       "en": "creole"
@@ -32898,8 +32904,9 @@
     "bona": false,
     "nivelo": 2,
     "fakoj": [
-      "xxx"
+      "ĝenerala"
     ],
+    "vidu": "laŭ'temp'",
     "tradukoj": {
       "en": "chronology"
     }
@@ -32911,9 +32918,9 @@
     "bona": false,
     "nivelo": 2,
     "fakoj": [
-      "xxx"
+      "fizika"
     ],
-    "vidu": "temp'mezur'il'",
+    "vidu": "temp'mezur'il' horloĝ'",
     "tradukoj": {
       "en": "chronometer"
     }
@@ -33269,7 +33276,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "???"
+      "teatra"
     ],
     "tradukoj": {
       "en": "backdrop (in theater); backstage"
@@ -33363,7 +33370,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "???"
+      "kuraca"
     ],
     "tradukoj": {
       "en": "cupping-glass (medical device)"
@@ -33664,7 +33671,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "???"
+      "matematika"
     ],
     "tradukoj": {
       "en": "quadrature"
@@ -34087,7 +34094,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "tera",
+      "terena",
       "ĥemia"
     ],
     "tradukoj": {
@@ -34101,7 +34108,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "tera"
+      "terena"
     ],
     "tradukoj": {
       "en": "lake"
@@ -34114,7 +34121,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "tera"
+      "terena"
     ],
     "tradukoj": {
       "en": "lagoon"
@@ -34140,7 +34147,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "???"
+      "ĝenerala",
+      "materiala"
     ],
     "tradukoj": {
       "en": "lacquer"
@@ -34153,8 +34161,9 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "???"
+      "socia"
     ],
+    "vidu": "serv'ist'",
     "tradukoj": {
       "en": "lackey, footman, manservant"
     }
@@ -34546,7 +34555,7 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "tera",
+      "terena",
       "mezura"
     ],
     "tradukoj": {
@@ -34573,7 +34582,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "popolo"
+      "popola"
     ],
     "tradukoj": {
       "en": "Latvian (people)"
@@ -34678,7 +34687,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "tera"
+      "terena"
     ],
     "tradukoj": {
       "en": "avalanche"
@@ -34704,7 +34713,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "koloro"
+      "kolora"
     ],
     "tradukoj": {
       "en": "azure, sky blue"
@@ -34730,7 +34739,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "???"
+      "ĝenerala",
+      "materiala"
     ],
     "tradukoj": {
       "en": "leather"
@@ -34876,9 +34886,9 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "xxx"
+      "ĝenerala"
     ],
-    "vidu": "vort'list'",
+    "vidu": "vort'list' vort'ar' vort'stok' vort'proviz'",
     "tradukoj": {
       "en": "lexicon"
     }
@@ -35230,9 +35240,9 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
-      "xxx"
+      "ĝenerala"
     ],
     "vidu": "lern’ej’",
     "tradukoj": {
@@ -35664,7 +35674,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "???"
+      "ĝenerala",
+      "vesta"
     ],
     "tradukoj": {
       "en": "livery, servant’s uniform"
@@ -35691,7 +35702,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "???"
+      "korpa"
     ],
     "tradukoj": {
       "en": "lobe"
@@ -35797,7 +35808,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "xxx"
+      "ĝenerala"
     ],
     "vidu": "fidel'",
     "tradukoj": {
@@ -35837,7 +35848,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "xxx"
+      "vetura"
     ],
     "tradukoj": {
       "en": "steam-powered car or tractor"
@@ -35902,7 +35913,7 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "tera",
+      "terena",
       "mezura"
     ],
     "tradukoj": {
@@ -36230,7 +36241,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "???"
+      "mebla"
     ],
     "tradukoj": {
       "en": "chandelier"
@@ -36243,7 +36254,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "ĝenerala"
+      "metia"
     ],
     "tradukoj": {
       "en": "solder, join metals with solder"
@@ -36321,7 +36332,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "???"
+      "ĝenerala",
+      "komerca"
     ],
     "tradukoj": {
       "en": "emporium, large shop, department store"
@@ -36653,7 +36665,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "xxx"
+      "korpa"
     ],
     "vidu": "pied'artik'",
     "tradukoj": {
@@ -37064,7 +37076,7 @@
     "nivelo": 2,
     "fakoj": [
       "ĝenerala",
-      "tera"
+      "terena"
     ],
     "tradukoj": {
       "en": "sea"
@@ -37104,7 +37116,7 @@
     "nivelo": 2,
     "fakoj": [
       "ĝenerala",
-      "tera"
+      "terena"
     ],
     "tradukoj": {
       "en": "marsh, swamp"
@@ -37775,7 +37787,7 @@
   },
   {
     "radiko": "mediterane'",
-    "speco": "k",
+    "speco": "n",
     "fonto": "a",
     "bona": true,
     "nivelo": 2,
@@ -38217,7 +38229,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "tera",
+      "terena",
       "matematika"
     ],
     "tradukoj": {
@@ -38375,7 +38387,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "filozofia"
+      "filozofa"
     ],
     "tradukoj": {
       "en": "metaphysics"
@@ -38987,7 +38999,7 @@
   },
   {
     "radiko": "mineralog'",
-    "speco": "k",
+    "speco": "a",
     "fonto": "a",
     "bona": false,
     "nivelo": 2,
@@ -38996,7 +39008,7 @@
     ],
     "vidu": "mineral'stud'ist'",
     "tradukoj": {
-      "en": "minerologist"
+      "en": "minerology (study of minerals)"
     }
   },
   {
@@ -39233,7 +39245,7 @@
     "bona": true,
     "nivelo": 3,
     "fakoj": [
-      "mezuro",
+      "mezura",
       "unuo"
     ],
     "tradukoj": {
@@ -39347,16 +39359,16 @@
   },
   {
     "radiko": "mitolog'",
-    "speco": "k",
+    "speco": "a",
     "fonto": "a",
     "bona": false,
     "nivelo": 2,
     "fakoj": [
       "ĝenerala"
     ],
-    "vidu": "mit'stud'ist'",
+    "vidu": "mit'stud'",
     "tradukoj": {
-      "en": "mythologist"
+      "en": "mythology"
     }
   },
   {
@@ -39368,7 +39380,7 @@
     "fakoj": [
       "ĝenerala"
     ],
-    "vidu": "mit'ar' mit'stud'",
+    "vidu": "mit'stud'",
     "tradukoj": {
       "en": "mythology"
     }
@@ -41008,7 +41020,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "not any kind of"
@@ -41022,7 +41034,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "for no reason"
@@ -41036,7 +41048,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "never"
@@ -41050,7 +41062,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "nowhere"
@@ -41064,7 +41076,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "in no way, not anyhow, by no means"
@@ -41078,7 +41090,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "no one’s"
@@ -41092,7 +41104,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "nothing"
@@ -41106,7 +41118,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "none, no amount"
@@ -41120,7 +41132,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "nobody"
@@ -41305,7 +41317,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "koloro"
+      "kolora"
     ],
     "tradukoj": {
       "en": "black"
@@ -41318,7 +41330,7 @@
     "bona": false,
     "nivelo": 2,
     "fakoj": [
-      "filozofia"
+      "filozofa"
     ],
     "vidu": "ne'kred'ism'",
     "tradukoj": {
@@ -41332,7 +41344,7 @@
     "bona": false,
     "nivelo": 2,
     "fakoj": [
-      "filozofia"
+      "filozofa"
     ],
     "vidu": "ne'kred'ist'",
     "tradukoj": {
@@ -41611,9 +41623,9 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "xxx"
+      "ĝenerala"
     ],
-    "vidu": "nom', nur'nom' laŭ'nom'",
+    "vidu": "nom' nur'nom' laŭ'nom'",
     "tradukoj": {
       "en": "nominal, existing in name only"
     }
@@ -41677,7 +41689,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "popolo"
+      "popola"
     ],
     "tradukoj": {
       "en": "Norwegian (people)"
@@ -41982,7 +41994,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "tera"
+      "terena"
     ],
     "tradukoj": {
       "en": "oasis"
@@ -42193,7 +42205,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "tera"
+      "terena"
     ],
     "tradukoj": {
       "en": "ocean"
@@ -42910,7 +42922,7 @@
     "nivelo": 2,
     "fakoj": [
       "ĝenerala",
-      "filozofia"
+      "filozofa"
     ],
     "vidu": "jes'ism'",
     "tradukoj": {
@@ -42925,7 +42937,7 @@
     "nivelo": 2,
     "fakoj": [
       "ĝenerala",
-      "filozofia"
+      "filozofa"
     ],
     "vidu": "jes'ist'",
     "tradukoj": {
@@ -43265,16 +43277,16 @@
   },
   {
     "radiko": "ornitolog'",
-    "speco": "k",
+    "speco": "a",
     "fonto": "a",
-    "bona": false,
+    "bona": true,
     "nivelo": 2,
     "fakoj": [
       "besta"
     ],
     "vidu": "bird'stud'",
     "tradukoj": {
-      "en": "ornithologist"
+      "en": "ornithology (study of birds)"
     }
   },
   {
@@ -43298,7 +43310,7 @@
     "bona": false,
     "nivelo": 2,
     "fakoj": [
-      "tera"
+      "terena"
     ],
     "vidu": "mont'stud'",
     "tradukoj": {
@@ -43545,7 +43557,7 @@
     "bona": false,
     "nivelo": 2,
     "fakoj": [
-      "filozofia"
+      "filozofa"
     ],
     "vidu": "pac'ism', pac'em', pac'em'ism'",
     "tradukoj": {
@@ -43559,7 +43571,7 @@
     "bona": false,
     "nivelo": 2,
     "fakoj": [
-      "filozofia"
+      "filozofa"
     ],
     "vidu": "pac'ul', pac'em'ul'",
     "tradukoj": {
@@ -43797,7 +43809,7 @@
     "fakoj": [
       "ĝenerala"
     ],
-    "vidu": "mal'nov'viv'stud'ist'",
+    "vidu": "paleon'stud'",
     "tradukoj": {
       "en": "paleontologist"
     }
@@ -43811,7 +43823,7 @@
     "fakoj": [
       "ĝenerala"
     ],
-    "vidu": "mal'nov'viv'stud'",
+    "vidu": "paleon'stud'",
     "tradukoj": {
       "en": "paleontology (study of ancient life from fossils)"
     }
@@ -44932,7 +44944,7 @@
     "bona": false,
     "nivelo": 2,
     "fakoj": [
-      "xxx"
+      "kuraca"
     ],
     "vidu": "mal'san'stud'",
     "tradukoj": {
@@ -44985,9 +44997,9 @@
     "bona": false,
     "nivelo": 2,
     "fakoj": [
-      "xxx"
+      "ĝenerala"
     ],
-    "vidu": "propra'land'ist'",
+    "vidu": "naci'ist'",
     "tradukoj": {
       "en": "patriot"
     }
@@ -44999,9 +45011,9 @@
     "bona": false,
     "nivelo": 2,
     "fakoj": [
-      "xxx"
+      "ĝenerala"
     ],
-    "vidu": "propra'land'ism'",
+    "vidu": "naci'ism'",
     "tradukoj": {
       "en": "patriotism"
     }
@@ -45878,8 +45890,9 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
+      "ĝenerala",
       "grafika",
-      "???"
+      "matematika"
     ],
     "tradukoj": {
       "en": "perspective"
@@ -45944,7 +45957,7 @@
     "bona": false,
     "nivelo": 2,
     "fakoj": [
-      "filozofia"
+      "filozofa"
     ],
     "vidu": "ne'ism'",
     "tradukoj": {
@@ -45958,7 +45971,7 @@
     "bona": false,
     "nivelo": 2,
     "fakoj": [
-      "filozofia"
+      "filozofa"
     ],
     "vidu": "ne'ist'",
     "tradukoj": {
@@ -46221,7 +46234,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "popolo",
+      "popola",
       "mita"
     ],
     "tradukoj": {
@@ -46864,7 +46877,7 @@
     "nivelo": 2,
     "fakoj": [
       "ĝenerala",
-      "???"
+      "materiala"
     ],
     "tradukoj": {
       "en": "plastic (material)"
@@ -47434,7 +47447,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "popolo"
+      "popola"
     ],
     "tradukoj": {
       "en": "Pole"
@@ -47619,7 +47632,7 @@
     "nivelo": 2,
     "fakoj": [
       "ĝenerala",
-      "tera"
+      "terena"
     ],
     "tradukoj": {
       "en": "pole (of the Earth, etc.)"
@@ -47713,7 +47726,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "???"
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "pontoon"
@@ -47792,7 +47805,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "???"
+      "ĝenerala",
+      "materiala"
     ],
     "tradukoj": {
       "en": "porcelain, fine china"
@@ -48379,6 +48393,7 @@
     "fakoj": [
       "lingva"
     ],
+    "vidu": "rol'vort'et'",
     "tradukoj": {
       "en": "preposition"
     }
@@ -49059,7 +49074,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "tera"
+      "terena"
     ],
     "tradukoj": {
       "en": "promontory, high point of land"
@@ -49800,7 +49815,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "koloro"
+      "kolora"
     ],
     "tradukoj": {
       "en": "crimson red"
@@ -49945,7 +49960,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "koloro"
+      "kolora"
     ],
     "tradukoj": {
       "en": "purple"
@@ -50128,7 +50143,7 @@
     "bona": false,
     "nivelo": 2,
     "fakoj": [
-      "filozofia"
+      "filozofa"
     ],
     "vidu": "raci'ism'",
     "tradukoj": {
@@ -50142,7 +50157,7 @@
     "bona": false,
     "nivelo": 2,
     "fakoj": [
-      "filozofia"
+      "filozofa"
     ],
     "vidu": "raci'ist'",
     "tradukoj": {
@@ -50170,7 +50185,7 @@
     "nivelo": 2,
     "fakoj": [
       "ĝenerala",
-      "???"
+      "fizika"
     ],
     "tradukoj": {
       "en": "radar"
@@ -50638,7 +50653,7 @@
     "bona": false,
     "nivelo": 2,
     "fakoj": [
-      "filozofia"
+      "filozofa"
     ],
     "vidu": "real'ism'",
     "tradukoj": {
@@ -51776,7 +51791,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "tera"
+      "terena"
     ],
     "tradukoj": {
       "en": "reef, ridge of rock"
@@ -52134,7 +52149,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "tera"
+      "terena"
     ],
     "tradukoj": {
       "en": "river"
@@ -52256,7 +52271,7 @@
     "nivelo": 2,
     "fakoj": [
       "ĝenerala",
-      "tera"
+      "terena"
     ],
     "vidu": "ŝton'eg'",
     "tradukoj": {
@@ -52616,7 +52631,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "koloro"
+      "kolora"
     ],
     "tradukoj": {
       "en": "red"
@@ -52694,7 +52709,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "popolo"
+      "popola"
     ],
     "tradukoj": {
       "en": "Romanian"
@@ -52707,7 +52722,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "popolo"
+      "popola"
     ],
     "tradukoj": {
       "en": "Russian"
@@ -54219,7 +54234,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "???"
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "set of dishes, plates, etc."
@@ -54300,7 +54315,7 @@
     "fakoj": [
       "ĝenerala",
       "tempa",
-      "tera"
+      "terena"
     ],
     "tradukoj": {
       "en": "season"
@@ -54433,7 +54448,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "???"
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "seal (verb)"
@@ -55119,7 +55134,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "koloro"
+      "kolora"
     ],
     "tradukoj": {
       "en": "scarlet"
@@ -55513,7 +55528,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "xxx"
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "slip (of paper), index card"
@@ -55674,7 +55689,7 @@
     "bona": false,
     "nivelo": 2,
     "fakoj": [
-      "filozofia"
+      "filozofa"
     ],
     "tradukoj": {
       "en": "sophism, fallacy, false reasoning"
@@ -55687,7 +55702,7 @@
     "bona": false,
     "nivelo": 2,
     "fakoj": [
-      "filozofia"
+      "filozofa"
     ],
     "tradukoj": {
       "en": "sophist"
@@ -55887,7 +55902,7 @@
     "nivelo": 2,
     "fakoj": [
       "tempa",
-      "tera"
+      "terena"
     ],
     "tradukoj": {
       "en": "summer"
@@ -56772,7 +56787,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "tera"
+      "terena"
     ],
     "tradukoj": {
       "en": "stalagmite"
@@ -56785,7 +56800,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "tera"
+      "terena"
     ],
     "tradukoj": {
       "en": "stalactite"
@@ -57036,7 +57051,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "tera"
+      "terena"
     ],
     "tradukoj": {
       "en": "steppe, sandy plain"
@@ -58179,7 +58194,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "popolo"
+      "popola"
     ],
     "tradukoj": {
       "en": "Swede"
@@ -60161,9 +60176,9 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "xxx"
+      "ĝenerala"
     ],
-    "vidu": "inklin'",
+    "vidu": "em' inklin'",
     "tradukoj": {
       "en": "tendency"
     }
@@ -60336,6 +60351,8 @@
     "nivelo": 2,
     "fakoj": [
       "ĝenerala"
+      "kosma",
+      "terena"
     ],
     "tradukoj": {
       "en": "earth"
@@ -60616,7 +60633,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "such, that kind of"
@@ -60630,7 +60647,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "therefore, for that reason"
@@ -60644,7 +60661,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "then"
@@ -60685,7 +60702,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "there"
@@ -60699,7 +60716,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "thus, so; in that way"
@@ -60713,7 +60730,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "that one’s"
@@ -60897,7 +60914,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "that (thing)"
@@ -60911,7 +60928,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "so much, that quantity"
@@ -61017,7 +61034,7 @@
     "nivelo": 0,
     "fakoj": [
       "kerna",
-      "tabela"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "that (one) (person or thing)"
@@ -61295,7 +61312,7 @@
     "nivelo": 2,
     "fakoj": [
       "ĝenerala",
-      "tera"
+      "terena"
     ],
     "tradukoj": {
       "en": "peat, turf, sod"
@@ -62059,7 +62076,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "tera"
+      "terena"
     ],
     "tradukoj": {
       "en": "waterspout"
@@ -62126,7 +62143,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "tera"
+      "terena"
     ],
     "tradukoj": {
       "en": "tropic"
@@ -62614,7 +62631,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "popolo"
+      "popola"
     ],
     "tradukoj": {
       "en": "Turk"
@@ -62666,11 +62683,11 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "historia"
+      "ĝenerala"
     ],
     "vidu": "konkurs’",
     "tradukoj": {
-      "en": "medieval tournament"
+      "en": "tournament"
     }
   },
   {
@@ -63426,7 +63443,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "tera"
+      "terena"
     ],
     "tradukoj": {
       "en": "valley"
@@ -64137,7 +64154,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "koloro"
+      "kolora"
     ],
     "tradukoj": {
       "en": "green"
@@ -65429,7 +65446,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "tera"
+      "terena"
     ],
     "tradukoj": {
       "en": "volcano"

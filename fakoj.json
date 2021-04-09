@@ -8,15 +8,43 @@
     "pri": "vortoj kiu donas al Esperanto sian esencan strukturon, kaj estas uzebla sen finaĵo"
   },
   {
-    "nomo": "xxx",
-    "pri": "radikoj kies signifo estas konstuebla el (ne tro de) aliaj radikoj, aŭ kiu havas neklaran signifon"
+    "nomo": "artikolo",
+    "pri": "la gramatika artikolo"
   },
   {
-    "nomo": "???",
-    "pri": "vortoj kiu bezonas pli ĝusta fako"
+    "nomo": "ekkrio",
+    "pri": "ekkrioj"
   },
   {
-    "nomo": "besto",
+    "nomo": "finaĵo",
+    "pri": "gramatikaj finaĵoj"
+  },
+  {
+    "nomo": "konjunkcio",
+    "pri": "konjunkcioj"
+  },
+  {
+    "nomo": "prefikso",
+    "pri": "vortoj plej ofte uzata kiel prefiksoj"
+  },
+  {
+    "nomo": "prepozicio",
+    "pri": "prepozicioj"
+  },
+  {
+    "nomo": "pronomo",
+    "pri": "pronomoj"
+  },
+  {
+    "nomo": "sufikso",
+    "pri": "vortoj plej ofte uzata kiel sufiksoj"
+  },
+  {
+    "nomo": "tabelvorto",
+    "pri": "tabelvortoj"
+  },
+  {
+    "nomo": "besta",
     "pri": "specoj de besto"
   },
   {
@@ -32,6 +60,10 @@
     "pri": "ekonomiaj vortoj, inkluzive de nomoj de valutoj"
   },
   {
+    "nomo": "filozofa",
+    "pri": "pri manieroj por rigardi la universon"
+  },
+  {
     "nomo": "fizika",
     "pri": "vortoj pri la plej fundamentaj aĵoj en la universo"
   },
@@ -40,12 +72,20 @@
     "pri": "pri grafikoj kaj la grafikaj artoj"
   },
   {
+    "nomo": "historia",
+    "pri": "pri historiaj epokoj, ktp"
+  },
+  {
     "nomo": "ĥemia",
     "pri": "ĥemiaj vortoj, inkluzive de nomoj de elementoj"
   },
   {
-    "nomo": "koloro",
+    "nomo": "kolora",
     "pri": "nomoj da koloroj"
+  },
+  {
+    "nomo": "komputila",
+    "pri": "komputilaj vortoj"
   },
   {
     "nomo": "konstrua",
@@ -66,6 +106,10 @@
   {
     "nomo": "kuraca",
     "pri": "nomoj da malsanoj, kuraciloj, ktp"
+  },
+  {
+    "nomo": "ilo",
+    "pri": "nomoj da iloj"
   },
   {
     "nomo": "landa",
@@ -104,6 +148,10 @@
     "pri": "matematikaj vortoj"
   },
   {
+    "nomo": "materiala",
+    "pri": "specoj de materialo"
+  },
+  {
     "nomo": "mebla",
     "pri": "nomoj de mebloj"
   },
@@ -132,11 +180,11 @@
     "pri": "nomoj ofte uzata de personoj"
   },
   {
-    "nomo": "planto",
+    "nomo": "planta",
     "pri": "nomoj de plantoj"
   },
   {
-    "nomo": "popolo",
+    "nomo": "popola",
     "pri": "nomoj de popoloj, etnoj, ktp"
   },
   {
@@ -156,12 +204,20 @@
     "pri": "nomoj de partoj de la semajno, jaro, ktp"
   },
   {
-    "nomo": "tera",
-    "pri": "nomoj de aĵoj kaj ecoj kiu priskribas la fizika mondo"
+    "nomo": "terena",
+    "pri": "nomoj de aĵoj kaj ecoj kiu priskribas fizika mondo"
   },
   {
     "nomo": "teatra",
     "pri": "pri teatraj aferoj"
+  },
+  {
+    "nomo": "titola",
+    "pri": "titoloj por apartaj roloj, rangoj, ktp"
+  },
+  {
+    "nomo": "unuo",
+    "pri": "nomoj de mezuraj unuoj"
   },
   {
     "nomo": "vesta",
