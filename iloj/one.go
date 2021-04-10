@@ -4,9 +4,12 @@ import (
 	"bufio"
 	"encoding/csv"
 	"encoding/json"
+	"errors"
+	"fmt"
 	"io"
 	"log"
 	"os"
+	"path/filepath"
 	"sort"
 	"strconv"
 	"strings"
@@ -34,12 +37,12 @@ type Entry struct {
 	Tradukoj map[string]string `json:"tradukoj"`
 }
 
-func readOldJSON() []Entry {
-	j := json.NewDecoder(bufio.NewReader(os.Stdin))
+func readOldJSON(in io.Reader) ([]Entry, error) {
+	j := json.NewDecoder(in)
 	var l0 []OldEntry
 	err := j.Decode(&l0)
 	if err != nil {
-		log.Fatalln("error decoding old json:", err)
+		return nil, err
 	}
 	var l []Entry
 	for _, e0 := range l0 {
@@ -49,86 +52,31 @@ func readOldJSON() []Entry {
 		e := Entry{Radiko: e0.Radiko, Fakoj: e0.Fakoj, Vidu: e0.Vidu, Tradukoj: tradukoj}
 		l = append(l, e)
 	}
-	return l
+	return l, nil
 }
 
-func readFileLines(f string) []string {
-	fd, err := os.Open(f)
-	if err != nil {
-		log.Fatalln("error opening file:", err)
-	}
-	fs := bufio.NewScanner(fd)
-	var lines []string
-	for fs.Scan() {
-		lines = append(lines, fs.Text())
-	}
-	err = fs.Err()
-	if err != nil {
-		log.Fatalln("error readind file lines:", err)
-	}
-	return lines
-}
-
-func readFundamento() map[string]bool {
-	m := map[string]bool{}
-	for _, f := range readFileLines("fundamento") {
-		m[f] = true
-	}
-	return m
-}
-
-func readJSON() []Entry {
-	j := json.NewDecoder(bufio.NewReader(os.Stdin))
+func readJSON(in io.Reader) ([]Entry, error) {
+	j := json.NewDecoder(in)
 	var l []Entry
 	err := j.Decode(&l)
 	if err != nil {
-		log.Fatalln("error reading json:", err)
+		return nil, err
 	}
-	return l
+	return l, nil
 }
 
-func writeJSON(l []Entry) {
-	w := bufio.NewWriter(os.Stdout)
-	j := json.NewEncoder(w)
+func writeJSON(out io.Writer, l []Entry) error {
+	j := json.NewEncoder(out)
+	j.SetIndent("", "  ")
 	err := j.Encode(l)
 	if err != nil {
-		log.Fatalln("error encoding json:", err)
+		return err
 	}
-	err = w.Flush()
-	if err != nil {
-		log.Fatalln("error flushing json:", err)
-	}
+	return nil
 }
 
-func writeCSV(l []Entry) {
-	w := csv.NewWriter(os.Stdout)
-
-	r := []string{"radiko", "speco", "bona", "fonto", "nivelo", "fakoj", "vidu", "en"}
-	if err := w.Write(r); err != nil {
-		log.Fatalln("error writing csv header:", err)
-	}
-
-	for _, e := range l {
-		bona := "j"
-		if !e.Bona {
-			bona = "n"
-		}
-		nivelo := strconv.Itoa(e.Nivelo)
-		r = []string{e.Radiko, e.Speco, bona, e.Fonto, nivelo, strings.Join(e.Fakoj, ";"), e.Vidu, e.Tradukoj["en"]}
-		if err := w.Write(r); err != nil {
-			log.Fatalln("error writing csv record:", err)
-		}
-	}
-
-	w.Flush()
-
-	if err := w.Error(); err != nil {
-		log.Fatalln("error flushing csv:", err)
-	}
-}
-
-func readCSV() []Entry {
-	r := csv.NewReader(bufio.NewReader(os.Stdin))
+func readCSV(in io.Reader) ([]Entry, error) {
+	r := csv.NewReader(in)
 
 	seenHeader := false
 	var l = []Entry{}
@@ -138,7 +86,7 @@ func readCSV() []Entry {
 			break
 		}
 		if err != nil {
-			log.Fatalln("error reading record:", err)
+			return nil, err
 		}
 
 		if !seenHeader {
@@ -169,7 +117,35 @@ func readCSV() []Entry {
 		l = append(l, e)
 	}
 
-	return l
+	return l, nil
+}
+
+func writeCSV(out io.Writer, l []Entry) error {
+	w := csv.NewWriter(out)
+
+	r := []string{"radiko", "speco", "bona", "fonto", "nivelo", "fakoj", "vidu", "en"}
+	if err := w.Write(r); err != nil {
+		return err
+	}
+
+	for _, e := range l {
+		bona := "j"
+		if !e.Bona {
+			bona = "n"
+		}
+		nivelo := strconv.Itoa(e.Nivelo)
+		r = []string{e.Radiko, e.Speco, bona, e.Fonto, nivelo, strings.Join(e.Fakoj, ";"), e.Vidu, e.Tradukoj["en"]}
+		if err := w.Write(r); err != nil {
+			return err
+		}
+	}
+
+	w.Flush()
+	if err := w.Error(); err != nil {
+		return err
+	}
+
+	return nil
 }
 
 func contains(l []string, s string) bool {
@@ -188,6 +164,31 @@ func runeIndex(r rune) int {
 		}
 	}
 	return -1
+}
+
+func readFileLines(f string) []string {
+	fd, err := os.Open(f)
+	if err != nil {
+		log.Fatalf("error opening file: %v\n", err)
+	}
+	fs := bufio.NewScanner(fd)
+	var lines []string
+	for fs.Scan() {
+		lines = append(lines, fs.Text())
+	}
+	err = fs.Err()
+	if err != nil {
+		log.Fatalf("error readind file lines: %v\n", err)
+	}
+	return lines
+}
+
+func readFundamento() map[string]bool {
+	m := map[string]bool{}
+	for _, f := range readFileLines("fundamento") {
+		m[f] = true
+	}
+	return m
 }
 
 func rootLess(a, b string) bool {
@@ -291,15 +292,82 @@ func filterPrefix(l []Entry, prefix string) []Entry {
 	})
 }
 
+func readEntries(spec string) ([]Entry, error) {
+	fname := filepath.Base(spec)
+	format := filepath.Ext(spec)
+	fname = strings.TrimSuffix(fname, format)
+
+	var in *os.File
+	if fname == "-" {
+		in = os.Stdin
+	} else {
+		var err error
+		in, err = os.Open(spec)
+		if err != nil {
+			return nil, err
+		}
+	}
+
+	switch format {
+	case ".csv":
+		return readCSV(in)
+	case ".json":
+		return readJSON(in)
+	default:
+		return nil, errors.New("no understand " + spec)
+	}
+}
+
+func writeEntries(spec string, l []Entry) error {
+	fname := filepath.Base(spec)
+	format := filepath.Ext(spec)
+	fname = strings.TrimSuffix(fname, format)
+
+	var out *os.File
+	if fname == "-" {
+		out = os.Stdout
+	} else {
+		var err error
+		out, err = os.OpenFile(spec, os.O_RDWR|os.O_CREATE, 0644)
+		if err != nil {
+			return err
+		}
+	}
+
+	switch format {
+	case ".csv":
+		return writeCSV(out, l)
+	case ".json":
+		return writeJSON(out, l)
+	default:
+		return writeJSON(out, l)
+		// return errors.New("no understand " + spec)
+	}
+}
+
 func main() {
-	// l := readOldJSON()
-	l := readJSON()
-	// l := readCSV()
+	if len(os.Args) != 3 {
+		fmt.Fprintf(os.Stderr, "Usage: %s <in> <out>\n", os.Args[0])
+		os.Exit(1)
+	}
+
+	inspec, outspec := os.Args[1], os.Args[2]
+
+	l, err := readEntries(inspec)
+	if err != nil {
+		log.Fatalf("cannot read %s: %v\n", inspec, err)
+	}
+	fmt.Fprintf(os.Stderr, "in: %d\n", len(l))
+
 	// l = markFundamento(l)
 	// l = changePunc(l)
-	// l = filterFako(l, os.Args[1])
-	// l = filterPrefix(l, os.Args[1])
+	// l = filterFako(l, fako)
+	// l = filterPrefix(l, prefix)
 	l = sortEntries(l)
-	writeJSON(l)
-	// writeCSV(l)
+
+	err = writeEntries(outspec, l)
+	if err != nil {
+		log.Fatalf("cannot read %s: %v\n", inspec, err)
+	}
+	fmt.Fprintf(os.Stderr, "out: %d\n", len(l))
 }
