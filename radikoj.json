@@ -6,7 +6,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "finaĵo"
+      "finaĵo",
+      "adjektivo"
     ],
     "tradukoj": {
       "en": "adjective marker"
@@ -1980,7 +1981,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala"
+      "ĝenerala",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "at least"
@@ -2917,7 +2919,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala"
+      "ĝenerala",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "also"
@@ -2930,7 +2933,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala"
+      "ĝenerala",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "yet, still"
@@ -3372,7 +3376,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala"
+      "ĝenerala",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "scarcely"
@@ -4498,7 +4503,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "finaĵo"
+      "finaĵo",
+      "verbo"
     ],
     "tradukoj": {
       "en": "present tense verb marker"
@@ -5830,7 +5836,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala"
+      "ĝenerala",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "soon"
@@ -10182,7 +10189,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "adjektivo"
     ],
     "tradukoj": {
       "en": "every, every kind of"
@@ -10196,7 +10204,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "for every reason"
@@ -10210,7 +10219,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "always"
@@ -10224,7 +10234,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "everywhere"
@@ -10238,7 +10249,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "in every manner"
@@ -10265,7 +10277,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "adjektivo"
     ],
     "tradukoj": {
       "en": "everyone’s"
@@ -10357,7 +10370,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "substantivo"
     ],
     "tradukoj": {
       "en": "everything"
@@ -10371,7 +10385,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "all, the whole quantity"
@@ -10399,7 +10414,9 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "adjektivo",
+      "substantivo"
     ],
     "tradukoj": {
       "en": "each, every one"
@@ -12638,7 +12655,8 @@
     "nivelo": 0,
     "fakoj": [
       "konjunkcio",
-      "ĝenerala"
+      "ĝenerala",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "then, indeed, however"
@@ -13277,7 +13295,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "finaĵo"
+      "finaĵo",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "adverb marker"
@@ -13617,7 +13636,7 @@
     }
   },
   {
-    "radiko": "ek'",
+    "radiko": "ek",
     "speco": "e",
     "fonto": "f",
     "bona": true,
@@ -17955,7 +17974,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala"
+      "ĝenerala",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "away, forth, off"
@@ -22218,7 +22238,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala"
+      "ĝenerala",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "yesterday"
@@ -22534,7 +22555,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala"
+      "ĝenerala",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "today"
@@ -23087,7 +23109,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "finaĵo"
+      "finaĵo",
+      "verbo"
     ],
     "tradukoj": {
       "en": "infinite verb marker"
@@ -23114,7 +23137,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "adjektivo"
     ],
     "tradukoj": {
       "en": "of some kind"
@@ -23128,7 +23152,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "for some reason"
@@ -23142,7 +23167,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "at some time"
@@ -23343,7 +23369,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "somewhere"
@@ -23357,7 +23384,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "somehow"
@@ -23371,7 +23399,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "adjektivo"
     ],
     "tradukoj": {
       "en": "someone’s"
@@ -24886,7 +24915,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "substantivo"
     ],
     "tradukoj": {
       "en": "something"
@@ -24900,7 +24930,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "a little, some quantity"
@@ -25017,7 +25048,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "finaĵo"
+      "finaĵo",
+      "verbo"
     ],
     "tradukoj": {
       "en": "past tense verb marker"
@@ -25125,7 +25157,9 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "adjektivo",
+      "substantivo"
     ],
     "tradukoj": {
       "en": "someone"
@@ -25177,7 +25211,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala"
+      "ĝenerala",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "emphatic particle"
@@ -25216,7 +25251,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala"
+      "ĝenerala",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "already"
@@ -25298,7 +25334,8 @@
     "nivelo": 0,
     "fakoj": [
       "ekkrio",
-      "ĝenerala"
+      "ĝenerala",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "behold, lo"
@@ -25416,7 +25453,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala"
+      "ĝenerala",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "the (ju. . .des = the. . .the)"
@@ -25824,7 +25862,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala"
+      "ĝenerala",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "just now, not long ago"
@@ -28503,7 +28542,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "adjektivo"
     ],
     "tradukoj": {
       "en": "of what kind"
@@ -28517,7 +28557,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "why"
@@ -28531,7 +28572,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "when"
@@ -28558,7 +28600,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "where"
@@ -28572,7 +28615,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "how"
@@ -28586,7 +28630,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "adjektivo"
     ],
     "tradukoj": {
       "en": "whose"
@@ -28681,7 +28726,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "substantivo"
     ],
     "tradukoj": {
       "en": "what"
@@ -28695,7 +28741,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "how much"
@@ -28815,7 +28862,9 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "adjektivo",
+      "substantivo"
     ],
     "tradukoj": {
       "en": "who, which"
@@ -38179,7 +38228,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala"
+      "ĝenerala",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "self"
@@ -39210,7 +39260,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala"
+      "ĝenerala",
+      "konjunkcio"
     ],
     "tradukoj": {
       "en": "minus"
@@ -40088,7 +40139,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala"
+      "ĝenerala",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "tomorrow"
@@ -40978,7 +41030,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala"
+      "ĝenerala",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "no, not"
@@ -41151,7 +41204,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "adjektivo"
     ],
     "tradukoj": {
       "en": "not any kind of"
@@ -41165,7 +41219,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "for no reason"
@@ -41179,7 +41234,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "never"
@@ -41193,7 +41249,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "nowhere"
@@ -41207,7 +41264,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "in no way, not anyhow, by no means"
@@ -41221,7 +41279,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "adjektivo"
     ],
     "tradukoj": {
       "en": "no one’s"
@@ -41235,7 +41294,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "substantivo"
     ],
     "tradukoj": {
       "en": "nothing"
@@ -41249,7 +41309,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "none, no amount"
@@ -41263,7 +41324,9 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "adjektivo",
+      "substantivo"
     ],
     "tradukoj": {
       "en": "nobody"
@@ -42048,7 +42111,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala"
+      "ĝenerala",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "now"
@@ -42075,7 +42139,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala"
+      "ĝenerala",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "only (adverb)"
@@ -42101,7 +42166,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "finaĵo"
+      "finaĵo",
+      "substantivo"
     ],
     "tradukoj": {
       "en": "noun marker"
@@ -42642,7 +42708,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala"
+      "ĝenerala",
+      "konjunkcio"
     ],
     "tradukoj": {
       "en": "than"
@@ -43507,7 +43574,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "finaĵo"
+      "finaĵo",
+      "verbo"
     ],
     "tradukoj": {
       "en": "future tense verb marker"
@@ -47142,7 +47210,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala"
+      "ĝenerala",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "most"
@@ -47246,7 +47315,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala"
+      "ĝenerala",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "more"
@@ -47311,7 +47381,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala"
+      "ĝenerala",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "farther, further"
@@ -47391,7 +47462,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala"
+      "ĝenerala",
+      "konjunkcio"
     ],
     "tradukoj": {
       "en": "plus"
@@ -48580,7 +48652,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala"
+      "ĝenerala",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "almost"
@@ -59716,7 +59789,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala"
+      "ĝenerala",
+      "konjunkcio"
     ],
     "tradukoj": {
       "en": "however, nevertheless"
@@ -60822,7 +60896,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "adjektivo"
     ],
     "tradukoj": {
       "en": "such, that kind of"
@@ -60836,7 +60911,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "therefore, for that reason"
@@ -60850,7 +60926,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "then"
@@ -60891,7 +60968,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "there"
@@ -60905,7 +60983,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "thus, so; in that way"
@@ -60919,7 +60998,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "adjektivo"
     ],
     "tradukoj": {
       "en": "that one’s"
@@ -61103,7 +61183,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "substantivo"
     ],
     "tradukoj": {
       "en": "that (thing)"
@@ -61117,7 +61198,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "so much, that quantity"
@@ -61223,7 +61305,9 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto"
+      "tabelvorto",
+      "adjektivo",
+      "substantivo"
     ],
     "tradukoj": {
       "en": "that (one) (person or thing)"
@@ -61921,7 +62005,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala"
+      "ĝenerala",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "very"
@@ -62582,7 +62667,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala"
+      "ĝenerala",
+      "adverbo"
     ],
     "tradukoj": {
       "en": "immediately"
@@ -62938,7 +63024,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "finaĵo"
+      "finaĵo",
+      "verbo"
     ],
     "tradukoj": {
       "en": "volative verb marker"
@@ -63367,7 +63454,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "finaĵo"
+      "finaĵo",
+      "verbo"
     ],
     "tradukoj": {
       "en": "conditional verb marker"

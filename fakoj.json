@@ -4,6 +4,14 @@
     "pri": "ĝeneralaj vortoj, kies signojoj estas ĝenerale kompreneblaj"
   },
   {
+    "nomo": "adjektivo",
+    "pri": "vortoj kiuj estas adjektiva eĉ sen finaĵo"
+  },
+  {
+    "nomo": "adverbo",
+    "pri": "vortoj kiuj estas adverba eĉ sen finaĵo"
+  },
+  {
     "nomo": "artikolo",
     "pri": "la gramatika artikolo"
   },
@@ -32,12 +40,20 @@
     "pri": "pronomoj"
   },
   {
+    "nomo": "substantivo",
+    "pri": "vortoj kiuj estas substantiva eĉ sen finaĵo"
+  },
+  {
     "nomo": "sufikso",
     "pri": "vortoj plej ofte uzata kiel sufiksoj"
   },
   {
     "nomo": "tabelvorto",
     "pri": "tabelvortoj"
+  },
+  {
+    "nomo": "verbo",
+    "pri": "vortoj kiuj estas verba eĉ sen finaĵo"
   },
   {
     "nomo": "besta",
