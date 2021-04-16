@@ -445,7 +445,7 @@
     "radiko": "adjutant'",
     "speco": "k",
     "fonto": "a",
-    "bona": false,
+    "bona": true,
     "nivelo": 2,
     "fakoj": [
       "milita",
@@ -500,7 +500,7 @@
     "radiko": "admiral'",
     "speco": "k",
     "fonto": "a",
-    "bona": false,
+    "bona": true,
     "nivelo": 2,
     "fakoj": [
       "milita",
@@ -5429,7 +5429,7 @@
   },
   {
     "radiko": "aŭtun'",
-    "speco": "n",
+    "speco": "k",
     "fonto": "f",
     "bona": true,
     "nivelo": 0,
@@ -5617,7 +5617,7 @@
     "speco": "n",
     "fonto": "a",
     "bona": true,
-    "nivelo": 1,
+    "nivelo": 0,
     "fakoj": [
       "loka"
     ],
@@ -6943,7 +6943,7 @@
   },
   {
     "radiko": "bibliotek'",
-    "speco": "n",
+    "speco": "k",
     "fonto": "a",
     "bona": true,
     "nivelo": 2,
@@ -7712,7 +7712,7 @@
     "speco": "k",
     "fonto": "f",
     "bona": true,
-    "nivelo": 2,
+    "nivelo": 1,
     "fakoj": [
       "ĝenerala"
     ],
@@ -8920,10 +8920,11 @@
     "nivelo": 0,
     "fakoj": [
       "matematika",
-      "ĝenerala"
+      "ĝenerala",
+      "nombro"
     ],
     "tradukoj": {
-      "en": "hundred"
+      "en": "hundred (100)"
     }
   },
   {
@@ -10945,10 +10946,11 @@
     "nivelo": 0,
     "fakoj": [
       "matematika",
-      "ĝenerala"
+      "ĝenerala",
+      "nombro"
     ],
     "tradukoj": {
-      "en": "ten"
+      "en": "ten (10)"
     }
   },
   {
@@ -13139,10 +13141,11 @@
     "nivelo": 0,
     "fakoj": [
       "matematika",
-      "ĝenerala"
+      "ĝenerala",
+      "nombro"
     ],
     "tradukoj": {
-      "en": "two"
+      "en": "two (2)"
     }
   },
   {
@@ -15662,7 +15665,7 @@
     "speco": "n",
     "fonto": "a",
     "bona": true,
-    "nivelo": 1,
+    "nivelo": 0,
     "fakoj": [
       "loka"
     ],
@@ -24239,7 +24242,7 @@
     "speco": "a",
     "fonto": "a",
     "bona": true,
-    "nivelo": 2,
+    "nivelo": 0,
     "fakoj": [
       "ĝenerala"
     ],
@@ -33850,10 +33853,11 @@
     "nivelo": 0,
     "fakoj": [
       "matematika",
-      "ĝenerala"
+      "ĝenerala",
+      "nombro"
     ],
     "tradukoj": {
-      "en": "four"
+      "en": "four (4)"
     }
   },
   {
@@ -33996,10 +34000,11 @@
     "nivelo": 0,
     "fakoj": [
       "matematika",
-      "ĝenerala"
+      "ĝenerala",
+      "nombro"
     ],
     "tradukoj": {
-      "en": "five"
+      "en": "five (5)"
     }
   },
   {
@@ -38920,7 +38925,8 @@
     "nivelo": 0,
     "fakoj": [
       "matematika",
-      "ĝenerala"
+      "ĝenerala",
+      "nombro"
     ],
     "tradukoj": {
       "en": "thousand (1000)"
@@ -40905,10 +40911,11 @@
     "nivelo": 0,
     "fakoj": [
       "matematika",
-      "ĝenerala"
+      "ĝenerala",
+      "nombro"
     ],
     "tradukoj": {
-      "en": "nine"
+      "en": "nine (9)"
     }
   },
   {
@@ -42000,10 +42007,11 @@
     "nivelo": 0,
     "fakoj": [
       "matematika",
-      "ĝenerala"
+      "ĝenerala",
+      "nombro"
     ],
     "tradukoj": {
-      "en": "zero, nought"
+      "en": "zero, nought (0)"
     }
   },
   {
@@ -42476,10 +42484,11 @@
     "nivelo": 0,
     "fakoj": [
       "matematika",
-      "ĝenerala"
+      "ĝenerala",
+      "nombro"
     ],
     "tradukoj": {
-      "en": "eight"
+      "en": "eight (8)"
     }
   },
   {
@@ -48779,7 +48788,7 @@
   },
   {
     "radiko": "printemp'",
-    "speco": "n",
+    "speco": "k",
     "fonto": "f",
     "bona": true,
     "nivelo": 0,
@@ -54193,10 +54202,11 @@
     "nivelo": 0,
     "fakoj": [
       "matematika",
-      "ĝenerala"
+      "ĝenerala",
+      "nombro"
     ],
     "tradukoj": {
-      "en": "seven"
+      "en": "seven (7)"
     }
   },
   {
@@ -54419,10 +54429,11 @@
     "nivelo": 0,
     "fakoj": [
       "matematika",
-      "ĝenerala"
+      "ĝenerala",
+      "nombro"
     ],
     "tradukoj": {
-      "en": "six"
+      "en": "six (6)"
     }
   },
   {
@@ -56068,10 +56079,10 @@
   },
   {
     "radiko": "somer'",
-    "speco": "n",
+    "speco": "k",
     "fonto": "f",
     "bona": true,
-    "nivelo": 1,
+    "nivelo": 0,
     "fakoj": [
       "tempa",
       "terena"
@@ -62028,10 +62039,11 @@
     "nivelo": 0,
     "fakoj": [
       "matematika",
-      "ĝenerala"
+      "ĝenerala",
+      "nombro"
     ],
     "tradukoj": {
-      "en": "three"
+      "en": "three (3)"
     }
   },
   {
@@ -63211,10 +63223,11 @@
     "nivelo": 0,
     "fakoj": [
       "matematika",
-      "ĝenerala"
+      "ĝenerala",
+      "nombro"
     ],
     "tradukoj": {
-      "en": "one"
+      "en": "one (1)"
     }
   },
   {
@@ -64994,7 +65007,7 @@
   },
   {
     "radiko": "vintr'",
-    "speco": "n",
+    "speco": "k",
     "fonto": "f",
     "bona": true,
     "nivelo": 0,
