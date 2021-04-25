@@ -6,8 +6,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "finaĵo",
-      "adjektivo"
+      "adjektivo",
+      "finaĵo"
     ],
     "tradukoj": {
       "en": "adjective marker"
@@ -30,11 +30,11 @@
     "radiko": "abat'",
     "speco": "k",
     "fonto": "f",
-    "bona": false,
+    "bona": true,
     "nivelo": 3,
     "fakoj": [
       "religia",
-      "titolo"
+      "titola"
     ],
     "vidu": "monaĥ'ej'estr'",
     "tradukoj": {
@@ -102,7 +102,7 @@
     "nivelo": 3,
     "fakoj": [
       "socia",
-      "titolo"
+      "titola"
     ],
     "vidu": "lern'ej'an'",
     "tradukoj": {
@@ -154,7 +154,7 @@
     "speco": "a",
     "fonto": "f",
     "bona": true,
-    "nivelo": 0,
+    "nivelo": 1,
     "fakoj": [
       "ĝenerala"
     ],
@@ -180,10 +180,10 @@
     "speco": "k",
     "fonto": "f",
     "bona": true,
-    "nivelo": 0,
+    "nivelo": 1,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "apricot"
@@ -340,8 +340,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "sufikso",
-      "ĝenerala"
+      "ĝenerala",
+      "sufikso"
     ],
     "tradukoj": {
       "en": "contemptible, wretched"
@@ -354,8 +354,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "ĝenerala",
-      "ekonomia"
+      "ekonomia",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "buy"
@@ -368,8 +368,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "sufikso",
-      "ĝenerala"
+      "ĝenerala",
+      "sufikso"
     ],
     "tradukoj": {
       "en": "denotes duration of action"
@@ -450,7 +450,7 @@
     "nivelo": 2,
     "fakoj": [
       "milita",
-      "titolo"
+      "titola"
     ],
     "vidu": "oficir’",
     "tradukoj": {
@@ -462,7 +462,7 @@
     "speco": "a",
     "fonto": "f",
     "bona": true,
-    "nivelo": 0,
+    "nivelo": 1,
     "fakoj": [
       "ĝenerala"
     ],
@@ -475,7 +475,7 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
@@ -505,7 +505,7 @@
     "nivelo": 2,
     "fakoj": [
       "milita",
-      "titolo"
+      "titola"
     ],
     "vidu": "oficir’",
     "tradukoj": {
@@ -517,7 +517,7 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "milita"
     ],
@@ -556,7 +556,7 @@
     "speco": "a",
     "fonto": "f",
     "bona": true,
-    "nivelo": 0,
+    "nivelo": 1,
     "fakoj": [
       "ĝenerala"
     ],
@@ -571,8 +571,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "viva",
-      "ĥemia"
+      "ĥemia",
+      "viva"
     ],
     "tradukoj": {
       "en": "adrenaline"
@@ -676,7 +676,7 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala",
       "vetura"
@@ -722,7 +722,7 @@
       "ĝenerala"
     ],
     "tradukoj": {
-      "en": "affair, matter"
+      "en": "affair, matter, thing"
     }
   },
   {
@@ -770,7 +770,7 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
@@ -782,7 +782,7 @@
     "radiko": "afrank'",
     "speco": "k",
     "fonto": "a",
-    "bona": false,
+    "bona": true,
     "nivelo": 3,
     "fakoj": [
       "ĝenerala"
@@ -809,7 +809,7 @@
     "radiko": "afust'",
     "speco": "k",
     "fonto": "a",
-    "bona": false,
+    "bona": true,
     "nivelo": 3,
     "fakoj": [
       "milita"
@@ -1049,8 +1049,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "garlic"
@@ -1076,8 +1076,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "sufikso",
-      "ĝenerala"
+      "ĝenerala",
+      "sufikso"
     ],
     "tradukoj": {
       "en": "made from or possessing the quality of"
@@ -1143,8 +1143,8 @@
     "bona": false,
     "nivelo": 2,
     "fakoj": [
-      "ĝenerala",
-      "fizika"
+      "fizika",
+      "ĝenerala"
     ],
     "vidu": "pli'rapid'ig'",
     "tradukoj": {
@@ -1422,7 +1422,7 @@
     "speco": "a",
     "fonto": "a",
     "bona": true,
-    "nivelo": 0,
+    "nivelo": 1,
     "fakoj": [
       "ĝenerala"
     ],
@@ -1596,6 +1596,7 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "ĝenerala",
       "prepozicio"
     ],
     "tradukoj": {
@@ -1753,8 +1754,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "metia",
-      "ilo"
+      "ilo",
+      "metia"
     ],
     "tradukoj": {
       "en": "awl, punch"
@@ -1941,8 +1942,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "manĝa",
-      "ĥemia"
+      "ĥemia",
+      "manĝa"
     ],
     "tradukoj": {
       "en": "alcohol"
@@ -1981,8 +1982,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala",
-      "adverbo"
+      "adverbo",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "at least"
@@ -2147,7 +2148,7 @@
   },
   {
     "radiko": "am'",
-    "speco": "k",
+    "speco": "a",
     "fonto": "f",
     "bona": true,
     "nivelo": 0,
@@ -2258,8 +2259,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "metia",
-      "ilo"
+      "ilo",
+      "metia"
     ],
     "tradukoj": {
       "en": "anvil"
@@ -2546,8 +2547,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "sufikso",
-      "ĝenerala"
+      "ĝenerala",
+      "sufikso"
     ],
     "tradukoj": {
       "en": "inhabitant, member"
@@ -2626,8 +2627,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "pineapple"
@@ -2919,8 +2920,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala",
-      "adverbo"
+      "adverbo",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "also"
@@ -2933,8 +2934,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala",
-      "adverbo"
+      "adverbo",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "yet, still"
@@ -2948,8 +2949,8 @@
     "nivelo": 2,
     "fakoj": [
       "ĝenerala",
-      "vetura",
-      "ilo"
+      "ilo",
+      "vetura"
     ],
     "tradukoj": {
       "en": "anchor"
@@ -3043,8 +3044,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "sufikso",
-      "ĝenerala"
+      "ĝenerala",
+      "sufikso"
     ],
     "tradukoj": {
       "en": "present active participle marker"
@@ -3070,8 +3071,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "prepozicio",
-      "ĝenerala"
+      "ĝenerala",
+      "prepozicio"
     ],
     "tradukoj": {
       "en": "before"
@@ -3376,8 +3377,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala",
-      "adverbo"
+      "adverbo",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "scarcely"
@@ -3665,8 +3666,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "prepozicio",
-      "ĝenerala"
+      "ĝenerala",
+      "prepozicio"
     ],
     "tradukoj": {
       "en": "nearby"
@@ -3679,8 +3680,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "sufikso",
-      "ĝenerala"
+      "ĝenerala",
+      "sufikso"
     ],
     "tradukoj": {
       "en": "a collection of objects"
@@ -3706,8 +3707,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "grafika",
-      "danca"
+      "danca",
+      "grafika"
     ],
     "tradukoj": {
       "en": "arabesque (design or dance)"
@@ -3731,7 +3732,7 @@
     "speco": "a",
     "fonto": "f",
     "bona": true,
-    "nivelo": 2,
+    "nivelo": 1,
     "fakoj": [
       "ĝenerala"
     ],
@@ -4124,8 +4125,8 @@
     "nivelo": 2,
     "fakoj": [
       "ĝenerala",
-      "matematika",
-      "konstrua"
+      "konstrua",
+      "matematika"
     ],
     "tradukoj": {
       "en": "arc, curve"
@@ -4476,8 +4477,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "artichoke"
@@ -4691,8 +4692,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "asparagus"
@@ -4850,8 +4851,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "sufikso",
-      "ĝenerala"
+      "ĝenerala",
+      "sufikso"
     ],
     "tradukoj": {
       "en": "present passive participle marker"
@@ -5117,8 +5118,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "konjunkcio",
-      "ĝenerala"
+      "ĝenerala",
+      "konjunkcio"
     ],
     "tradukoj": {
       "en": "or"
@@ -5492,8 +5493,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "hazelnut"
@@ -5506,8 +5507,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "oats"
@@ -5583,7 +5584,7 @@
     "speco": "k",
     "fonto": "f",
     "bona": true,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
@@ -5598,8 +5599,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "avocado"
@@ -5716,8 +5717,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "manĝa",
-      "kuira"
+      "kuira",
+      "manĝa"
     ],
     "tradukoj": {
       "en": "bake"
@@ -5730,8 +5731,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "viva",
-      "besta"
+      "besta",
+      "viva"
     ],
     "tradukoj": {
       "en": "bacterium"
@@ -5836,8 +5837,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala",
-      "adverbo"
+      "adverbo",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "soon"
@@ -5978,12 +5979,12 @@
     "speco": "a",
     "fonto": "f",
     "bona": true,
-    "nivelo": 0,
+    "nivelo": 1,
     "fakoj": [
       "ĝenerala"
     ],
     "tradukoj": {
-      "en": "bathe"
+      "en": "bathe (sth)"
     }
   },
   {
@@ -6006,8 +6007,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "banana"
@@ -6114,8 +6115,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "leĝa",
-      "ekonomia"
+      "ekonomia",
+      "leĝa"
     ],
     "tradukoj": {
       "en": "bankrupt"
@@ -6271,8 +6272,8 @@
     "radiko": "barelief'",
     "speco": "k",
     "fonto": "a",
-    "bona": true,
-    "nivelo": 2,
+    "bona": false,
+    "nivelo": 3,
     "fakoj": [
       "grafika",
       "konstrua"
@@ -6357,7 +6358,7 @@
     "nivelo": 2,
     "fakoj": [
       "socia",
-      "titolo"
+      "titola"
     ],
     "vidu": "nobel’",
     "tradukoj": {
@@ -6516,8 +6517,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "milita",
-      "elektronika"
+      "elektronika",
+      "milita"
     ],
     "tradukoj": {
       "en": "battery (military or electrical)"
@@ -6557,8 +6558,8 @@
     "nivelo": 2,
     "fakoj": [
       "ĥemia",
-      "terena",
-      "materiala"
+      "materiala",
+      "terena"
     ],
     "tradukoj": {
       "en": "basalt (rock)"
@@ -6860,8 +6861,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "beet"
@@ -6969,8 +6970,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "vetura",
-      "luda"
+      "luda",
+      "vetura"
     ],
     "tradukoj": {
       "en": "bicycle"
@@ -7169,8 +7170,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala",
-      "besta"
+      "besta",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "bird"
@@ -7499,8 +7500,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "prefikso",
-      "ĝenerala"
+      "ĝenerala",
+      "prefikso"
     ],
     "tradukoj": {
       "en": "relation by marriage"
@@ -7908,7 +7909,7 @@
     "nivelo": 2,
     "fakoj": [
       "religia",
-      "titolo"
+      "titola"
     ],
     "tradukoj": {
       "en": "Brahman (Hindu priest)"
@@ -7974,8 +7975,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "cabbage"
@@ -8614,7 +8615,7 @@
   },
   {
     "radiko": "bulten'",
-    "speco": "n",
+    "speco": "k",
     "fonto": "a",
     "bona": true,
     "nivelo": 2,
@@ -8627,7 +8628,7 @@
   },
   {
     "radiko": "bulvard'",
-    "speco": "n",
+    "speco": "k",
     "fonto": "a",
     "bona": true,
     "nivelo": 2,
@@ -8805,7 +8806,7 @@
     "nivelo": 2,
     "fakoj": [
       "socia",
-      "titolo"
+      "titola"
     ],
     "vidu": "reĝ’ monarĥ’",
     "tradukoj": {
@@ -8871,8 +8872,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "celery"
@@ -8885,8 +8886,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "ĥemia"
+      "ĥemia",
+      "planta"
     ],
     "tradukoj": {
       "en": "cellulose"
@@ -8926,8 +8927,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "matematika",
       "ĝenerala",
+      "matematika",
       "nombro"
     ],
     "tradukoj": {
@@ -8998,6 +8999,7 @@
     "fakoj": [
       "ĝenerala"
     ],
+    "vidu": "mez'",
     "tradukoj": {
       "en": "center, middle"
     }
@@ -9049,8 +9051,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "onion"
@@ -9141,8 +9143,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "pronomo",
-      "ĝenerala"
+      "ĝenerala",
+      "pronomo"
     ],
     "tradukoj": {
       "en": "thou"
@@ -9168,8 +9170,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "quince, fruit of the quince tree"
@@ -9340,8 +9342,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "chicory (plant)"
@@ -9420,8 +9422,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "cinnamon"
@@ -9513,8 +9515,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "matematika",
-      "ĝenerala"
+      "ĝenerala",
+      "matematika"
     ],
     "tradukoj": {
       "en": "circle"
@@ -9592,8 +9594,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "ĝenerala",
-      "elektronika"
+      "elektronika",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "circuit (e.g. electrical)"
@@ -9659,8 +9661,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "lemon"
@@ -9884,8 +9886,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "konjunkcio",
-      "ĝenerala"
+      "ĝenerala",
+      "konjunkcio"
     ],
     "tradukoj": {
       "en": "because, for, since"
@@ -10016,8 +10018,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "prepozicio",
-      "ĝenerala"
+      "ĝenerala",
+      "prepozicio"
     ],
     "tradukoj": {
       "en": "at"
@@ -10096,8 +10098,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "cherry"
@@ -10164,6 +10166,7 @@
     "fakoj": [
       "konstrua"
     ],
+    "vidu": "trab'",
     "tradukoj": {
       "en": "rafter, beam"
     }
@@ -10188,9 +10191,9 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "adjektivo",
       "ĝenerala",
-      "tabelvorto",
-      "adjektivo"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "every, every kind of"
@@ -10203,9 +10206,9 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "adverbo",
       "ĝenerala",
-      "tabelvorto",
-      "adverbo"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "for every reason"
@@ -10218,9 +10221,9 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "adverbo",
       "ĝenerala",
-      "tabelvorto",
-      "adverbo"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "always"
@@ -10233,9 +10236,9 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "adverbo",
       "ĝenerala",
-      "tabelvorto",
-      "adverbo"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "everywhere"
@@ -10248,9 +10251,9 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "adverbo",
       "ĝenerala",
-      "tabelvorto",
-      "adverbo"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "in every manner"
@@ -10276,9 +10279,9 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "adjektivo",
       "ĝenerala",
-      "tabelvorto",
-      "adjektivo"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "everyone’s"
@@ -10370,8 +10373,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto",
-      "substantivo"
+      "substantivo",
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "everything"
@@ -10384,9 +10387,9 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "adverbo",
       "ĝenerala",
-      "tabelvorto",
-      "adverbo"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "all, the whole quantity"
@@ -10399,8 +10402,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "prepozicio",
-      "ĝenerala"
+      "ĝenerala",
+      "prepozicio"
     ],
     "tradukoj": {
       "en": "around"
@@ -10413,10 +10416,10 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala",
-      "tabelvorto",
       "adjektivo",
-      "substantivo"
+      "ĝenerala",
+      "substantivo",
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "each, every one"
@@ -10442,8 +10445,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "sufikso",
-      "ĝenerala"
+      "ĝenerala",
+      "sufikso"
     ],
     "tradukoj": {
       "en": "affectionate diminutive of masculine names"
@@ -10482,8 +10485,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "konjunkcio",
-      "ĝenerala"
+      "ĝenerala",
+      "konjunkcio"
     ],
     "tradukoj": {
       "en": "whether"
@@ -10496,8 +10499,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "prepozicio",
-      "ĝenerala"
+      "ĝenerala",
+      "prepozicio"
     ],
     "tradukoj": {
       "en": "is used instead of “de” after words expressing weight or measure"
@@ -10510,8 +10513,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "date (fruit)"
@@ -10682,8 +10685,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "prepozicio",
-      "ĝenerala"
+      "ĝenerala",
+      "prepozicio"
     ],
     "tradukoj": {
       "en": "of, from"
@@ -10962,8 +10965,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "matematika",
       "ĝenerala",
+      "matematika",
       "nombro"
     ],
     "tradukoj": {
@@ -11033,7 +11036,7 @@
     "nivelo": 2,
     "fakoj": [
       "religia",
-      "titolo"
+      "titola"
     ],
     "tradukoj": {
       "en": "dean (eccesiastical or of a college)"
@@ -11243,7 +11246,7 @@
     "speco": "a",
     "fonto": "a",
     "bona": true,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
@@ -11256,7 +11259,7 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
@@ -11494,8 +11497,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "ĝenerala",
-      "grafika"
+      "grafika",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "design, depict, draw"
@@ -11560,8 +11563,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "ĝenerala",
-      "fizika"
+      "fizika",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "detect"
@@ -11666,8 +11669,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "religia",
-      "mita"
+      "mita",
+      "religia"
     ],
     "tradukoj": {
       "en": "God"
@@ -11775,7 +11778,7 @@
     "nivelo": 2,
     "fakoj": [
       "religia",
-      "titolo"
+      "titola"
     ],
     "tradukoj": {
       "en": "deacon"
@@ -12322,8 +12325,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "prefikso",
-      "ĝenerala"
+      "ĝenerala",
+      "prefikso"
     ],
     "tradukoj": {
       "en": "denotes separation"
@@ -12654,9 +12657,9 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "konjunkcio",
+      "adverbo",
       "ĝenerala",
-      "adverbo"
+      "konjunkcio"
     ],
     "tradukoj": {
       "en": "then, indeed, however"
@@ -12736,7 +12739,7 @@
     "nivelo": 2,
     "fakoj": [
       "ĝenerala",
-      "titolo"
+      "titola"
     ],
     "tradukoj": {
       "en": "doctor (title)"
@@ -13158,8 +13161,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "matematika",
       "ĝenerala",
+      "matematika",
       "nombro"
     ],
     "tradukoj": {
@@ -13227,7 +13230,7 @@
     "nivelo": 2,
     "fakoj": [
       "socia",
-      "titolo"
+      "titola"
     ],
     "vidu": "nobel’",
     "tradukoj": {
@@ -13255,8 +13258,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "prepozicio",
-      "konjunkcio"
+      "konjunkcio",
+      "prepozicio"
     ],
     "tradukoj": {
       "en": "while"
@@ -13295,8 +13298,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "finaĵo",
-      "adverbo"
+      "adverbo",
+      "finaĵo"
     ],
     "tradukoj": {
       "en": "adverb marker"
@@ -13335,8 +13338,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "sufikso",
-      "ĝenerala"
+      "ĝenerala",
+      "sufikso"
     ],
     "tradukoj": {
       "en": "able, possible"
@@ -13388,8 +13391,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "sufikso",
-      "ĝenerala"
+      "ĝenerala",
+      "sufikso"
     ],
     "tradukoj": {
       "en": "denotes qualities"
@@ -13415,8 +13418,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "religia",
-      "ĝenerala"
+      "ĝenerala",
+      "religia"
     ],
     "tradukoj": {
       "en": "Eden"
@@ -13547,8 +13550,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "sufikso",
-      "ĝenerala"
+      "ĝenerala",
+      "sufikso"
     ],
     "tradukoj": {
       "en": "denotes increase of degree"
@@ -13628,8 +13631,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "sufikso",
-      "ĝenerala"
+      "ĝenerala",
+      "sufikso"
     ],
     "tradukoj": {
       "en": "place where an action occurs"
@@ -13643,8 +13646,8 @@
     "nivelo": 0,
     "fakoj": [
       "ekkrio",
-      "prefikso",
-      "ĝenerala"
+      "ĝenerala",
+      "prefikso"
     ],
     "tradukoj": {
       "en": "denotes a sudden or momentary action"
@@ -13748,8 +13751,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "prefikso",
-      "ĝenerala"
+      "ĝenerala",
+      "prefikso"
     ],
     "tradukoj": {
       "en": "ex-, late"
@@ -13762,7 +13765,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "titolo"
+      "titola"
     ],
     "tradukoj": {
       "en": "Excellency (title)"
@@ -13879,8 +13882,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "ĝenerala",
-      "fizika"
+      "fizika",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "explode"
@@ -13959,8 +13962,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "prepozicio",
-      "ĝenerala"
+      "ĝenerala",
+      "prepozicio"
     ],
     "tradukoj": {
       "en": "outside, out of"
@@ -14066,8 +14069,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "ĝenerala",
       "fizika",
+      "ĝenerala",
       "ĥemia"
     ],
     "tradukoj": {
@@ -14200,8 +14203,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "prepozicio",
-      "ĝenerala"
+      "ĝenerala",
+      "prepozicio"
     ],
     "tradukoj": {
       "en": "from, out from"
@@ -14214,8 +14217,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "ĝenerala",
-      "fizika"
+      "fizika",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "elastic"
@@ -14280,8 +14283,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "ĝenerala",
-      "fizika"
+      "fizika",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "electricity"
@@ -14401,8 +14404,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "sufikso",
-      "ĝenerala"
+      "ĝenerala",
+      "sufikso"
     ],
     "tradukoj": {
       "en": "inclined to"
@@ -14426,7 +14429,7 @@
     "radiko": "emancip'",
     "speco": "a",
     "fonto": "a",
-    "bona": true,
+    "bona": false,
     "nivelo": 2,
     "fakoj": [
       "ĝenerala"
@@ -14456,8 +14459,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "ĝenerala",
-      "grafika"
+      "grafika",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "emblem"
@@ -14535,7 +14538,7 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "titolo"
+      "titola"
     ],
     "tradukoj": {
       "en": "Eminence (title)"
@@ -14601,8 +14604,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "prepozicio",
-      "ĝenerala"
+      "ĝenerala",
+      "prepozicio"
     ],
     "tradukoj": {
       "en": "in (when followed by the accusative—into)"
@@ -14628,8 +14631,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "sufikso",
-      "ĝenerala"
+      "ĝenerala",
+      "sufikso"
     ],
     "tradukoj": {
       "en": "that which must be done"
@@ -14642,8 +14645,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "endive (plant)"
@@ -14656,8 +14659,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "ĝenerala",
-      "fizika"
+      "fizika",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "energy"
@@ -14869,7 +14872,7 @@
     "nivelo": 2,
     "fakoj": [
       "religia",
-      "titolo"
+      "titola"
     ],
     "tradukoj": {
       "en": "bishop"
@@ -14947,8 +14950,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "sufikso",
-      "ĝenerala"
+      "ĝenerala",
+      "sufikso"
     ],
     "tradukoj": {
       "en": "one of many objects of the same kind"
@@ -15301,8 +15304,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "sufikso",
-      "ĝenerala"
+      "ĝenerala",
+      "sufikso"
     ],
     "tradukoj": {
       "en": "chief, boss"
@@ -15342,8 +15345,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "sufikso",
-      "ĝenerala"
+      "ĝenerala",
+      "sufikso"
     ],
     "tradukoj": {
       "en": "denotes dimunition of degree"
@@ -15818,8 +15821,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "broad bean"
@@ -16021,7 +16024,7 @@
     "nivelo": 3,
     "fakoj": [
       "religia",
-      "titolo"
+      "titola"
     ],
     "vidu": "monaĥ’",
     "tradukoj": {
@@ -16426,8 +16429,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "konstrua",
-      "ĝenerala"
+      "ĝenerala",
+      "konstrua"
     ],
     "tradukoj": {
       "en": "facade, face of a building"
@@ -16557,8 +16560,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "kidney bean"
@@ -16797,8 +16800,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "fennel (plant)"
@@ -17089,8 +17092,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "fig"
@@ -17589,7 +17592,7 @@
     "speco": "a",
     "fonto": "f",
     "bona": true,
-    "nivelo": 2,
+    "nivelo": 1,
     "fakoj": [
       "ĝenerala"
     ],
@@ -17686,7 +17689,7 @@
       "planta"
     ],
     "tradukoj": {
-      "en": "flower, bloom, blossom (vb.)"
+      "en": "flower"
     }
   },
   {
@@ -17749,8 +17752,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "ĝenerala",
-      "fizika"
+      "fizika",
+      "ĝenerala"
     ],
     "vidu": "flu'",
     "tradukoj": {
@@ -17819,7 +17822,7 @@
       "ĝenerala"
     ],
     "tradukoj": {
-      "en": "time (e.g. three times etc.)"
+      "en": "time, occurence)"
     }
   },
   {
@@ -17856,8 +17859,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "ĝenerala",
-      "fizika"
+      "fizika",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "focus"
@@ -17974,8 +17977,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala",
-      "adverbo"
+      "adverbo",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "away, forth, off"
@@ -18197,8 +18200,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "ĝenerala",
-      "grafika"
+      "grafika",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "photograph"
@@ -18225,8 +18228,8 @@
     "bona": false,
     "nivelo": 2,
     "fakoj": [
-      "ĝenerala",
-      "grafika"
+      "grafika",
+      "ĝenerala"
     ],
     "vidu": "fot'",
     "tradukoj": {
@@ -18240,8 +18243,8 @@
     "bona": false,
     "nivelo": 2,
     "fakoj": [
-      "ĝenerala",
-      "grafika"
+      "grafika",
+      "ĝenerala"
     ],
     "vidu": "fot'ad'",
     "tradukoj": {
@@ -18255,8 +18258,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "strawberry"
@@ -18374,8 +18377,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "raspberry"
@@ -18623,8 +18626,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "manĝa",
-      "kuira"
+      "kuira",
+      "manĝa"
     ],
     "tradukoj": {
       "en": "fry"
@@ -19099,7 +19102,7 @@
     "speco": "a",
     "fonto": "f",
     "bona": true,
-    "nivelo": 2,
+    "nivelo": 1,
     "fakoj": [
       "ĝenerala"
     ],
@@ -19466,8 +19469,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "ĝenerala",
       "fizika",
+      "ĝenerala",
       "ĥemia"
     ],
     "tradukoj": {
@@ -19533,8 +19536,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "prefikso",
-      "ĝenerala"
+      "ĝenerala",
+      "prefikso"
     ],
     "tradukoj": {
       "en": "of both sexes"
@@ -19640,7 +19643,7 @@
     "nivelo": 1,
     "fakoj": [
       "milita",
-      "titolo"
+      "titola"
     ],
     "vidu": "oficir’",
     "tradukoj": {
@@ -19746,8 +19749,8 @@
     "bona": true,
     "nivelo": 3,
     "fakoj": [
-      "terena",
-      "fizika"
+      "fizika",
+      "terena"
     ],
     "tradukoj": {
       "en": "geodesy"
@@ -19788,8 +19791,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "terena",
-      "fizika"
+      "fizika",
+      "terena"
     ],
     "tradukoj": {
       "en": "geology (study of planetry stucture)"
@@ -19802,8 +19805,8 @@
     "bona": false,
     "nivelo": 2,
     "fakoj": [
-      "terena",
-      "fizika"
+      "fizika",
+      "terena"
     ],
     "tradukoj": {
       "en": "geology"
@@ -20405,7 +20408,7 @@
     "nivelo": 2,
     "fakoj": [
       "socia",
-      "titolo"
+      "titola"
     ],
     "vidu": "nobel’",
     "tradukoj": {
@@ -20527,8 +20530,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "pomegranate (fruit)"
@@ -20584,8 +20587,8 @@
     "fakoj": [
       "ĝenerala",
       "ĥemia",
-      "manĝa",
-      "kuira"
+      "kuira",
+      "manĝa"
     ],
     "tradukoj": {
       "en": "grease, fat"
@@ -20638,8 +20641,8 @@
     "nivelo": 2,
     "fakoj": [
       "ĝenerala",
-      "viva",
-      "kuraca"
+      "kuraca",
+      "viva"
     ],
     "tradukoj": {
       "en": "pregnant"
@@ -20836,8 +20839,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "gooseberry (fruit)"
@@ -20995,8 +20998,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "guava"
@@ -21323,8 +21326,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "prepozicio",
-      "ĝenerala"
+      "ĝenerala",
+      "prepozicio"
     ],
     "tradukoj": {
       "en": "up to, until"
@@ -22238,8 +22241,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala",
-      "adverbo"
+      "adverbo",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "yesterday"
@@ -22555,8 +22558,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala",
-      "adverbo"
+      "adverbo",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "today"
@@ -22582,11 +22585,11 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala",
-      "besta"
+      "besta",
+      "ĝenerala"
     ],
     "tradukoj": {
-      "en": "man (the species)"
+      "en": "human"
     }
   },
   {
@@ -22847,8 +22850,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "ĝenerala",
-      "besta"
+      "besta",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "hoof"
@@ -23136,9 +23139,9 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "adjektivo",
       "ĝenerala",
-      "tabelvorto",
-      "adjektivo"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "of some kind"
@@ -23151,9 +23154,9 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "adverbo",
       "ĝenerala",
-      "tabelvorto",
-      "adverbo"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "for some reason"
@@ -23166,9 +23169,9 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "adverbo",
       "ĝenerala",
-      "tabelvorto",
-      "adverbo"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "at some time"
@@ -23194,8 +23197,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "sufikso",
-      "ĝenerala"
+      "ĝenerala",
+      "sufikso"
     ],
     "tradukoj": {
       "en": "ending of masculine words"
@@ -23208,8 +23211,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "sufikso",
-      "ĝenerala"
+      "ĝenerala",
+      "sufikso"
     ],
     "tradukoj": {
       "en": "child, young one"
@@ -23368,9 +23371,9 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "adverbo",
       "ĝenerala",
-      "tabelvorto",
-      "adverbo"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "somewhere"
@@ -23383,9 +23386,9 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "adverbo",
       "ĝenerala",
-      "tabelvorto",
-      "adverbo"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "somehow"
@@ -23398,9 +23401,9 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "adjektivo",
       "ĝenerala",
-      "tabelvorto",
-      "adjektivo"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "someone’s"
@@ -23413,8 +23416,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "sufikso",
-      "ĝenerala"
+      "ĝenerala",
+      "sufikso"
     ],
     "tradukoj": {
       "en": "to cause to be"
@@ -23440,8 +23443,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "sufikso",
-      "ĝenerala"
+      "ĝenerala",
+      "sufikso"
     ],
     "tradukoj": {
       "en": "to become"
@@ -23480,8 +23483,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "sufikso",
-      "ĝenerala"
+      "ĝenerala",
+      "sufikso"
     ],
     "tradukoj": {
       "en": "instrument, tool"
@@ -23507,8 +23510,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "pronomo",
-      "ĝenerala"
+      "ĝenerala",
+      "pronomo"
     ],
     "tradukoj": {
       "en": "they"
@@ -23769,9 +23772,9 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
+      "fizika",
       "ĝenerala",
-      "vivq",
-      "fizika"
+      "viva"
     ],
     "vidu": "em’",
     "tradukoj": {
@@ -23798,8 +23801,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "sufikso",
-      "ĝenerala"
+      "ĝenerala",
+      "sufikso"
     ],
     "tradukoj": {
       "en": "ending of feminine words"
@@ -23865,8 +23868,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "sufikso",
-      "ĝenerala"
+      "ĝenerala",
+      "sufikso"
     ],
     "tradukoj": {
       "en": "worthy of"
@@ -24167,8 +24170,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "sufikso",
-      "ĝenerala"
+      "ĝenerala",
+      "sufikso"
     ],
     "tradukoj": {
       "en": "holder for"
@@ -24201,6 +24204,19 @@
     }
   },
   {
+    "radiko": "inĝen'",
+    "speco": "k",
+    "fonto": "n",
+    "bona": true,
+    "nivelo": 1,
+    "fakoj": [
+      "ĝenerala"
+    ],
+    "tradukoj": {
+      "en": "engineer"
+    }
+  },
+  {
     "radiko": "inĝenier'",
     "speco": "k",
     "fonto": "f",
@@ -24209,6 +24225,7 @@
     "fakoj": [
       "ĝenerala"
     ],
+    "vidu": "inĝen'",
     "tradukoj": {
       "en": "engineer"
     }
@@ -24593,8 +24610,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "sufikso",
-      "ĝenerala"
+      "ĝenerala",
+      "sufikso"
     ],
     "tradukoj": {
       "en": "past active participle marker"
@@ -24673,8 +24690,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "prepozicio",
-      "ĝenerala"
+      "ĝenerala",
+      "prepozicio"
     ],
     "tradukoj": {
       "en": "between, among"
@@ -24833,8 +24850,8 @@
     "nivelo": 2,
     "fakoj": [
       "ĝenerala",
-      "vetera",
-      "terena"
+      "terena",
+      "vetera"
     ],
     "tradukoj": {
       "en": "inundate, flood"
@@ -24915,8 +24932,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto",
-      "substantivo"
+      "substantivo",
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "something"
@@ -24929,9 +24946,9 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "adverbo",
       "ĝenerala",
-      "tabelvorto",
-      "adverbo"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "a little, some quantity"
@@ -25075,8 +25092,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "sufikso",
-      "ĝenerala"
+      "ĝenerala",
+      "sufikso"
     ],
     "tradukoj": {
       "en": "-ism (doctrine, movement, principle)"
@@ -25102,8 +25119,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "sufikso",
-      "ĝenerala"
+      "ĝenerala",
+      "sufikso"
     ],
     "tradukoj": {
       "en": "person occupied with"
@@ -25129,8 +25146,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "sufikso",
-      "ĝenerala"
+      "ĝenerala",
+      "sufikso"
     ],
     "tradukoj": {
       "en": "past passive participle marker"
@@ -25156,10 +25173,10 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala",
-      "tabelvorto",
       "adjektivo",
-      "substantivo"
+      "ĝenerala",
+      "substantivo",
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "someone"
@@ -25211,8 +25228,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala",
-      "adverbo"
+      "adverbo",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "emphatic particle"
@@ -25251,8 +25268,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala",
-      "adverbo"
+      "adverbo",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "already"
@@ -25319,8 +25336,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "prepozicio",
-      "ĝenerala"
+      "ĝenerala",
+      "prepozicio"
     ],
     "tradukoj": {
       "en": "sintactic preposition"
@@ -25333,9 +25350,9 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "adverbo",
       "ekkrio",
-      "ĝenerala",
-      "adverbo"
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "behold, lo"
@@ -25453,8 +25470,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala",
-      "adverbo"
+      "adverbo",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "the (ju. . .des = the. . .the)"
@@ -25521,8 +25538,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "walnut"
@@ -25862,8 +25879,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala",
-      "adverbo"
+      "adverbo",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "just now, not long ago"
@@ -26022,8 +26039,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "coffee"
@@ -26062,8 +26079,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "konjunkcio",
-      "ĝenerala"
+      "ĝenerala",
+      "konjunkcio"
     ],
     "tradukoj": {
       "en": "and"
@@ -26115,8 +26132,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "cocoa"
@@ -26273,7 +26290,7 @@
     "nivelo": 2,
     "fakoj": [
       "socia",
-      "titolo"
+      "titola"
     ],
     "vidu": "monarĥ’",
     "tradukoj": {
@@ -26865,7 +26882,7 @@
     "nivelo": 3,
     "fakoj": [
       "religia",
-      "titolo"
+      "titola"
     ],
     "tradukoj": {
       "en": "canon, member of a cathedral chapter"
@@ -27024,7 +27041,7 @@
     "nivelo": 1,
     "fakoj": [
       "milita",
-      "titolo"
+      "titola"
     ],
     "vidu": "oficir’",
     "tradukoj": {
@@ -27079,8 +27096,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "caper (plant)"
@@ -27094,7 +27111,7 @@
     "nivelo": 2,
     "fakoj": [
       "milita",
-      "titolo"
+      "titola"
     ],
     "vidu": "oficir’",
     "tradukoj": {
@@ -27160,8 +27177,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "Capsicum (hot peppers)"
@@ -27277,7 +27294,7 @@
     "radiko": "karakteriz'",
     "speco": "a",
     "fonto": "a",
-    "bona": true,
+    "bona": false,
     "nivelo": 2,
     "fakoj": [
       "ĝenerala"
@@ -27476,8 +27493,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "clove (plant)"
@@ -27556,8 +27573,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "carob-bean, locust-bean (fruit)"
@@ -27583,8 +27600,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "carrot"
@@ -27781,8 +27798,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "vesta",
-      "milita"
+      "milita",
+      "vesta"
     ],
     "vidu": "kap’ŝirm’il’",
     "tradukoj": {
@@ -27915,8 +27932,8 @@
     "bona": true,
     "nivelo": 3,
     "fakoj": [
-      "religia",
-      "konstrua"
+      "konstrua",
+      "religia"
     ],
     "tradukoj": {
       "en": "catafalque (decorated stage for a coffin)"
@@ -28299,8 +28316,8 @@
     "nivelo": 1,
     "fakoj": [
       "ĝenerala",
-      "lingva",
-      "leĝa"
+      "leĝa",
+      "lingva"
     ],
     "tradukoj": {
       "en": "case (grammar, medicine, or law)"
@@ -28365,8 +28382,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "konjunkcio",
-      "ĝenerala"
+      "ĝenerala",
+      "konjunkcio"
     ],
     "tradukoj": {
       "en": "that (conjunction)"
@@ -28541,9 +28558,9 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "adjektivo",
       "ĝenerala",
-      "tabelvorto",
-      "adjektivo"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "of what kind"
@@ -28556,9 +28573,9 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "adverbo",
       "ĝenerala",
-      "tabelvorto",
-      "adverbo"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "why"
@@ -28571,9 +28588,9 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "adverbo",
       "ĝenerala",
-      "tabelvorto",
-      "adverbo"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "when"
@@ -28599,9 +28616,9 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "adverbo",
       "ĝenerala",
-      "tabelvorto",
-      "adverbo"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "where"
@@ -28614,9 +28631,9 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "adverbo",
       "ĝenerala",
-      "tabelvorto",
-      "adverbo"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "how"
@@ -28629,9 +28646,9 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "adjektivo",
       "ĝenerala",
-      "tabelvorto",
-      "adjektivo"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "whose"
@@ -28726,8 +28743,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto",
-      "substantivo"
+      "substantivo",
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "what"
@@ -28740,9 +28757,9 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "adverbo",
       "ĝenerala",
-      "tabelvorto",
-      "adverbo"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "how much"
@@ -28833,7 +28850,7 @@
     "speco": "a",
     "fonto": "f",
     "bona": true,
-    "nivelo": 0,
+    "nivelo": 1,
     "fakoj": [
       "ĝenerala"
     ],
@@ -28861,10 +28878,10 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala",
-      "tabelvorto",
       "adjektivo",
-      "substantivo"
+      "ĝenerala",
+      "substantivo",
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "who, which"
@@ -29615,7 +29632,7 @@
       "ĝenerala"
     ],
     "tradukoj": {
-      "en": "collect"
+      "en": "collect (things)"
     }
   },
   {
@@ -29642,7 +29659,7 @@
       "ĝenerala"
     ],
     "tradukoj": {
-      "en": "to be angry"
+      "en": "be angry"
     }
   },
   {
@@ -29758,7 +29775,7 @@
     "nivelo": 2,
     "fakoj": [
       "milita",
-      "titolo"
+      "titola"
     ],
     "vidu": "oficir’",
     "tradukoj": {
@@ -29788,7 +29805,7 @@
       "ĝenerala"
     ],
     "tradukoj": {
-      "en": "color"
+      "en": "colour, color"
     }
   },
   {
@@ -29945,7 +29962,7 @@
       "ĝenerala"
     ],
     "tradukoj": {
-      "en": "commence, begin"
+      "en": "start (sth)"
     }
   },
   {
@@ -30128,8 +30145,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "ĝenerala",
       "ekonomia",
+      "ĝenerala",
       "leĝa"
     ],
     "tradukoj": {
@@ -30461,7 +30478,7 @@
       "ĝenerala"
     ],
     "tradukoj": {
-      "en": "know, recognize, be acquainted with (as a person, etc.)"
+      "en": "know, recognize (sb, sth)"
     }
   },
   {
@@ -30943,8 +30960,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "ĝenerala",
-      "besta"
+      "besta",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "shell"
@@ -31326,7 +31343,7 @@
     "nivelo": 2,
     "fakoj": [
       "socia",
-      "titolo"
+      "titola"
     ],
     "tradukoj": {
       "en": "consul"
@@ -31549,8 +31566,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "prepozicio",
-      "ĝenerala"
+      "ĝenerala",
+      "prepozicio"
     ],
     "tradukoj": {
       "en": "against, in opposition to"
@@ -31789,7 +31806,7 @@
       "ĝenerala"
     ],
     "tradukoj": {
-      "en": "copy, duplicate, reproduce"
+      "en": "copy (sth)"
     }
   },
   {
@@ -32300,8 +32317,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "manĝa",
-      "kuira"
+      "kuira",
+      "manĝa"
     ],
     "tradukoj": {
       "en": "cutlet, chop, small piece of meat"
@@ -32314,8 +32331,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "ŝtofa",
-      "planta"
+      "planta",
+      "ŝtofa"
     ],
     "tradukoj": {
       "en": "cotton"
@@ -32445,8 +32462,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "ĝenerala",
-      "grafika"
+      "grafika",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "pencil"
@@ -32642,8 +32659,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "horseradish (plant)"
@@ -32708,8 +32725,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "watercress (plant)"
@@ -32996,8 +33013,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "prepozicio",
-      "ĝenerala"
+      "ĝenerala",
+      "prepozicio"
     ],
     "tradukoj": {
       "en": "except, besides, apart from"
@@ -33341,8 +33358,8 @@
     "nivelo": 1,
     "fakoj": [
       "ĝenerala",
-      "manĝa",
-      "kuira"
+      "kuira",
+      "manĝa"
     ],
     "tradukoj": {
       "en": "a cake"
@@ -33368,8 +33385,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "cucumber (vegetable)"
@@ -33382,8 +33399,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "pumpkin, gourd, squash"
@@ -33476,8 +33493,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "cumin (plant)"
@@ -33490,8 +33507,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "prepozicio",
-      "ĝenerala"
+      "ĝenerala",
+      "prepozicio"
     ],
     "tradukoj": {
       "en": "with"
@@ -33648,8 +33665,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "fizika",
-      "elektronika"
+      "elektronika",
+      "fizika"
     ],
     "tradukoj": {
       "en": "electrical current"
@@ -33806,8 +33823,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "matematika",
-      "ĝenerala"
+      "ĝenerala",
+      "matematika"
     ],
     "tradukoj": {
       "en": "square"
@@ -33873,8 +33890,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "konjunkcio",
-      "ĝenerala"
+      "ĝenerala",
+      "konjunkcio"
     ],
     "tradukoj": {
       "en": "although"
@@ -33901,8 +33918,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "matematika",
       "ĝenerala",
+      "matematika",
       "nombro"
     ],
     "tradukoj": {
@@ -33981,8 +33998,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "konjunkcio",
-      "ĝenerala"
+      "ĝenerala",
+      "konjunkcio"
     ],
     "tradukoj": {
       "en": "as if"
@@ -34022,7 +34039,7 @@
     "nivelo": 3,
     "fakoj": [
       "socia",
-      "titolo"
+      "titola"
     ],
     "tradukoj": {
       "en": "quaestor (ancient Roman official)"
@@ -34048,8 +34065,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "matematika",
       "ĝenerala",
+      "matematika",
       "nombro"
     ],
     "tradukoj": {
@@ -34246,8 +34263,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "terena",
-      "ĥemia"
+      "ĥemia",
+      "terena"
     ],
     "tradukoj": {
       "en": "lava"
@@ -34258,7 +34275,7 @@
     "speco": "k",
     "fonto": "f",
     "bona": true,
-    "nivelo": 2,
+    "nivelo": 0,
     "fakoj": [
       "terena"
     ],
@@ -34271,7 +34288,7 @@
     "speco": "k",
     "fonto": "a",
     "bona": true,
-    "nivelo": 0,
+    "nivelo": 2,
     "fakoj": [
       "terena"
     ],
@@ -34353,8 +34370,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "lettuce"
@@ -34420,8 +34437,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "mebla",
-      "ilo"
+      "ilo",
+      "mebla"
     ],
     "tradukoj": {
       "en": "lamp"
@@ -34447,8 +34464,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "ŝtofa",
-      "materiala"
+      "materiala",
+      "ŝtofa"
     ],
     "tradukoj": {
       "en": "wool"
@@ -34710,8 +34727,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "terena",
-      "mezura"
+      "mezura",
+      "terena"
     ],
     "tradukoj": {
       "en": "latitude"
@@ -34751,8 +34768,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "prepozicio",
-      "ĝenerala"
+      "ĝenerala",
+      "prepozicio"
     ],
     "tradukoj": {
       "en": "according to"
@@ -35056,8 +35073,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "ĝenerala",
-      "fizika"
+      "fizika",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "lens"
@@ -35070,8 +35087,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "lentil"
@@ -35242,7 +35259,7 @@
     "nivelo": 2,
     "fakoj": [
       "milita",
-      "titolo"
+      "titola"
     ],
     "tradukoj": {
       "en": "lieutenant"
@@ -35281,8 +35298,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "pronomo",
-      "ĝenerala"
+      "ĝenerala",
+      "pronomo"
     ],
     "tradukoj": {
       "en": "he"
@@ -35692,7 +35709,7 @@
       "ĝenerala"
     ],
     "tradukoj": {
-      "en": "list, register, roll (of persons or things)"
+      "en": "list (of items)"
     }
   },
   {
@@ -35783,7 +35800,7 @@
       "ĝenerala"
     ],
     "tradukoj": {
-      "en": "liter"
+      "en": "litre, liter"
     }
   },
   {
@@ -36060,7 +36077,7 @@
       "ĝenerala"
     ],
     "tradukoj": {
-      "en": "long"
+      "en": "long (distance, time, etc)"
     }
   },
   {
@@ -36070,8 +36087,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "terena",
-      "mezura"
+      "mezura",
+      "terena"
     ],
     "tradukoj": {
       "en": "longitude"
@@ -36098,7 +36115,7 @@
     "nivelo": 2,
     "fakoj": [
       "socia",
-      "titolo"
+      "titola"
     ],
     "vidu": "nobel’",
     "tradukoj": {
@@ -36490,8 +36507,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "ĝenerala",
-      "ekonomia"
+      "ekonomia",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "emporium, large shop, department store"
@@ -36517,8 +36534,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "ĝenerala",
-      "fizika"
+      "fizika",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "magnet"
@@ -36572,8 +36589,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "maize, corn"
@@ -36612,7 +36629,7 @@
     "bona": true,
     "nivelo": 3,
     "fakoj": [
-      "metia"
+      "materiala"
     ],
     "tradukoj": {
       "en": "majolica (Italian ceramic)"
@@ -36639,7 +36656,7 @@
     "nivelo": 2,
     "fakoj": [
       "milita",
-      "titolo"
+      "titola"
     ],
     "vidu": "oficir’",
     "tradukoj": {
@@ -36785,8 +36802,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "prefikso",
-      "ĝenerala"
+      "ĝenerala",
+      "prefikso"
     ],
     "tradukoj": {
       "en": "denotes opposites"
@@ -36839,8 +36856,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "prepozicio",
-      "ĝenerala"
+      "ĝenerala",
+      "prepozicio"
     ],
     "tradukoj": {
       "en": "in spite of"
@@ -36945,7 +36962,7 @@
     "nivelo": 3,
     "fakoj": [
       "socia",
-      "titolo"
+      "titola"
     ],
     "tradukoj": {
       "en": "mandaren (Chinese official)"
@@ -36998,8 +37015,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "mango"
@@ -37081,6 +37098,7 @@
       "ĝenerala",
       "socia"
     ],
+    "vidu": "amas'protest'",
     "tradukoj": {
       "en": "manifestation, public demonstration"
     }
@@ -37398,7 +37416,7 @@
     "nivelo": 2,
     "fakoj": [
       "socia",
-      "titolo"
+      "titola"
     ],
     "vidu": "nobel’",
     "tradukoj": {
@@ -37506,7 +37524,7 @@
     "nivelo": 2,
     "fakoj": [
       "milita",
-      "titolo"
+      "titola"
     ],
     "vidu": "oficir’",
     "tradukoj": {
@@ -37560,8 +37578,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "ĝenerala",
-      "fizika"
+      "fizika",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "mass (as in physics)"
@@ -37720,8 +37738,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "yerba mate (plant)"
@@ -37748,6 +37766,7 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "ĝenerala",
       "tempa"
     ],
     "tradukoj": {
@@ -38200,8 +38219,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "melon"
@@ -38214,8 +38233,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "eggplant"
@@ -38228,8 +38247,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala",
-      "adverbo"
+      "adverbo",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "self"
@@ -38240,7 +38259,7 @@
     "speco": "k",
     "fonto": "f",
     "bona": true,
-    "nivelo": 2,
+    "nivelo": 1,
     "fakoj": [
       "ĝenerala"
     ],
@@ -38400,8 +38419,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "terena",
-      "matematika"
+      "matematika",
+      "terena"
     ],
     "tradukoj": {
       "en": "meridian"
@@ -38427,8 +38446,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "wild cherry (tree)"
@@ -38800,8 +38819,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "pronomo",
-      "ĝenerala"
+      "ĝenerala",
+      "pronomo"
     ],
     "tradukoj": {
       "en": "I"
@@ -38866,8 +38885,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "almond"
@@ -38974,8 +38993,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "matematika",
       "ĝenerala",
+      "matematika",
       "nombro"
     ],
     "tradukoj": {
@@ -39002,8 +39021,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "millet (grass)"
@@ -39068,7 +39087,7 @@
     "speco": "a",
     "fonto": "f",
     "bona": true,
-    "nivelo": 0,
+    "nivelo": 1,
     "fakoj": [
       "ĝenerala",
       "milita"
@@ -39150,8 +39169,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "religia",
-      "konstrua"
+      "konstrua",
+      "religia"
     ],
     "tradukoj": {
       "en": "minaret, turret of a mosque"
@@ -39288,8 +39307,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "tempa",
       "mezura",
+      "tempa",
       "unuo"
     ],
     "tradukoj": {
@@ -39461,8 +39480,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "prefikso",
-      "ĝenerala"
+      "ĝenerala",
+      "prefikso"
     ],
     "tradukoj": {
       "en": "mis-, incorrectly, in error"
@@ -39727,9 +39746,9 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
+      "fizika",
       "ĝenerala",
-      "matematika",
-      "fizika"
+      "matematika"
     ],
     "tradukoj": {
       "en": "modulate"
@@ -39768,8 +39787,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "ĥemia",
-      "fizika"
+      "fizika",
+      "ĥemia"
     ],
     "tradukoj": {
       "en": "molecule"
@@ -40139,8 +40158,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala",
-      "adverbo"
+      "adverbo",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "tomorrow"
@@ -40166,9 +40185,9 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "metia",
       "konstrua",
-      "materiala"
+      "materiala",
+      "metia"
     ],
     "tradukoj": {
       "en": "mortar"
@@ -40207,8 +40226,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "ĝenerala",
-      "besta"
+      "besta",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "musk (odiferous substance from animals)"
@@ -40221,8 +40240,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "religia",
-      "konstrua"
+      "konstrua",
+      "religia"
     ],
     "tradukoj": {
       "en": "mosque"
@@ -40262,7 +40281,7 @@
     "nivelo": 1,
     "fakoj": [
       "socia",
-      "titolo"
+      "titola"
     ],
     "tradukoj": {
       "en": "universal title of politeness and respect"
@@ -40305,7 +40324,7 @@
       "ĝenerala"
     ],
     "tradukoj": {
-      "en": "move"
+      "en": "move (sth)"
     }
   },
   {
@@ -40537,8 +40556,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "nutmeg"
@@ -40656,8 +40675,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "ĝenerala",
-      "besta"
+      "besta",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "muzzle, snout"
@@ -40880,8 +40899,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "kuraca",
-      "ĥemia"
+      "ĥemia",
+      "kuraca"
     ],
     "vidu": "narkot’aĵ’",
     "tradukoj": {
@@ -40962,8 +40981,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "matematika",
       "ĝenerala",
+      "matematika",
       "nombro"
     ],
     "tradukoj": {
@@ -40994,6 +41013,19 @@
     ],
     "tradukoj": {
       "en": "nave (long narrow central hall of a church)"
+    }
+  },
+  {
+    "radiko": "navig'",
+    "speco": "a",
+    "fonto": "n",
+    "bona": true,
+    "nivelo": 2,
+    "fakoj": [
+      "ĝenerala"
+    ],
+    "tradukoj": {
+      "en": "navigation"
     }
   },
   {
@@ -41030,8 +41062,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala",
-      "adverbo"
+      "adverbo",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "no, not"
@@ -41163,8 +41195,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "konjunkcio",
-      "ĝenerala"
+      "ĝenerala",
+      "konjunkcio"
     ],
     "tradukoj": {
       "en": "neither, nor"
@@ -41203,9 +41235,9 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "adjektivo",
       "ĝenerala",
-      "tabelvorto",
-      "adjektivo"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "not any kind of"
@@ -41218,9 +41250,9 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "adverbo",
       "ĝenerala",
-      "tabelvorto",
-      "adverbo"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "for no reason"
@@ -41233,9 +41265,9 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "adverbo",
       "ĝenerala",
-      "tabelvorto",
-      "adverbo"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "never"
@@ -41248,9 +41280,9 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "adverbo",
       "ĝenerala",
-      "tabelvorto",
-      "adverbo"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "nowhere"
@@ -41263,9 +41295,9 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "adverbo",
       "ĝenerala",
-      "tabelvorto",
-      "adverbo"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "in no way, not anyhow, by no means"
@@ -41278,9 +41310,9 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "adjektivo",
       "ĝenerala",
-      "tabelvorto",
-      "adjektivo"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "no one’s"
@@ -41294,8 +41326,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto",
-      "substantivo"
+      "substantivo",
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "nothing"
@@ -41308,9 +41340,9 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "adverbo",
       "ĝenerala",
-      "tabelvorto",
-      "adverbo"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "none, no amount"
@@ -41323,10 +41355,10 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala",
-      "tabelvorto",
       "adjektivo",
-      "substantivo"
+      "ĝenerala",
+      "substantivo",
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "nobody"
@@ -41457,8 +41489,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "ĝenerala",
-      "fizika"
+      "fizika",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "neutral"
@@ -41484,8 +41516,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "pronomo",
-      "ĝenerala"
+      "ĝenerala",
+      "pronomo"
     ],
     "tradukoj": {
       "en": "we"
@@ -41618,7 +41650,7 @@
     "nivelo": 1,
     "fakoj": [
       "ĥemia",
-      "ŝtofo"
+      "ŝtofa"
     ],
     "tradukoj": {
       "en": "nylon"
@@ -41684,8 +41716,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "sufikso",
-      "ĝenerala"
+      "ĝenerala",
+      "sufikso"
     ],
     "tradukoj": {
       "en": "diminutive of female names"
@@ -42055,8 +42087,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "nut"
@@ -42069,8 +42101,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "matematika",
       "ĝenerala",
+      "matematika",
       "nombro"
     ],
     "tradukoj": {
@@ -42100,6 +42132,7 @@
     "fakoj": [
       "ĝenerala"
     ],
+    "vidu": "mon'er'",
     "tradukoj": {
       "en": "numismatic (relating to coin collecting)"
     }
@@ -42111,8 +42144,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala",
-      "adverbo"
+      "adverbo",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "now"
@@ -42126,7 +42159,7 @@
     "nivelo": 3,
     "fakoj": [
       "religia",
-      "titolo"
+      "titola"
     ],
     "tradukoj": {
       "en": "nuncio (papal ambassador)"
@@ -42139,8 +42172,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala",
-      "adverbo"
+      "adverbo",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "only (adverb)"
@@ -42259,8 +42292,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "sufikso",
-      "ĝenerala"
+      "ĝenerala",
+      "sufikso"
     ],
     "tradukoj": {
       "en": "...fold, times"
@@ -42549,8 +42582,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "matematika",
       "ĝenerala",
+      "matematika",
       "nombro"
     ],
     "tradukoj": {
@@ -42616,8 +42649,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "cranberry (plant)"
@@ -42804,8 +42837,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "olive (fruit of olive tree)"
@@ -42884,8 +42917,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "sufikso",
-      "ĝenerala"
+      "ĝenerala",
+      "sufikso"
     ],
     "tradukoj": {
       "en": "fraction"
@@ -42911,8 +42944,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "pronomo",
-      "ĝenerala"
+      "ĝenerala",
+      "pronomo"
     ],
     "tradukoj": {
       "en": "one, people, they"
@@ -42964,8 +42997,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "sufikso",
-      "ĝenerala"
+      "ĝenerala",
+      "sufikso"
     ],
     "tradukoj": {
       "en": "future active participle marker"
@@ -42978,8 +43011,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "sufikso",
-      "ĝenerala"
+      "ĝenerala",
+      "sufikso"
     ],
     "tradukoj": {
       "en": "marks collective numerals"
@@ -43005,8 +43038,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "teatra",
-      "muzika"
+      "muzika",
+      "teatra"
     ],
     "tradukoj": {
       "en": "opera"
@@ -43125,8 +43158,8 @@
     "bona": false,
     "nivelo": 2,
     "fakoj": [
-      "ĝenerala",
-      "filozofa"
+      "filozofa",
+      "ĝenerala"
     ],
     "vidu": "jes'ism'",
     "tradukoj": {
@@ -43140,8 +43173,8 @@
     "bona": false,
     "nivelo": 2,
     "fakoj": [
-      "ĝenerala",
-      "filozofa"
+      "filozofa",
+      "ĝenerala"
     ],
     "vidu": "jes'ist'",
     "tradukoj": {
@@ -43182,8 +43215,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "orange (fruit)"
@@ -43210,8 +43243,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "ĝenerala",
-      "fizika"
+      "fizika",
+      "ĝenerala"
     ],
     "vidu": "ĉirkaŭ’iri’",
     "tradukoj": {
@@ -43642,8 +43675,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "sufikso",
-      "ĝenerala"
+      "ĝenerala",
+      "sufikso"
     ],
     "tradukoj": {
       "en": "future passive participle marker"
@@ -43657,8 +43690,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "viva",
-      "manĝa"
+      "manĝa",
+      "viva"
     ],
     "tradukoj": {
       "en": "egg"
@@ -44162,8 +44195,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "manĝa",
-      "kuira"
+      "kuira",
+      "manĝa"
     ],
     "tradukoj": {
       "en": "bread"
@@ -44336,7 +44369,7 @@
     "nivelo": 2,
     "fakoj": [
       "religia",
-      "titolo"
+      "titola"
     ],
     "tradukoj": {
       "en": "pope"
@@ -44401,8 +44434,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "materiala"
+      "materiala",
+      "planta"
     ],
     "tradukoj": {
       "en": "papyrus"
@@ -45047,8 +45080,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "parsnip (plant)"
@@ -45062,7 +45095,7 @@
     "nivelo": 2,
     "fakoj": [
       "religia",
-      "titolo"
+      "titola"
     ],
     "tradukoj": {
       "en": "clergyman, minister, pastor"
@@ -45101,8 +45134,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "ĝenerala",
-      "grafika"
+      "grafika",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "crayon"
@@ -45421,7 +45454,7 @@
     "nivelo": 3,
     "fakoj": [
       "leĝa",
-      "titolo"
+      "titola"
     ],
     "tradukoj": {
       "en": "an official sent to carry out the orders of a judge, etc."
@@ -45486,8 +45519,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "manĝa",
-      "kuira"
+      "kuira",
+      "manĝa"
     ],
     "tradukoj": {
       "en": "pickle in brine, salt (vb.)"
@@ -45799,8 +45832,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "prepozicio",
-      "ĝenerala"
+      "ĝenerala",
+      "prepozicio"
     ],
     "tradukoj": {
       "en": "through, by means of"
@@ -46064,8 +46097,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "peach"
@@ -46104,8 +46137,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "ĝenerala",
       "grafika",
+      "ĝenerala",
       "matematika"
     ],
     "tradukoj": {
@@ -46356,8 +46389,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "muzika",
-      "ilo"
+      "ilo",
+      "muzika"
     ],
     "tradukoj": {
       "en": "piano"
@@ -46449,8 +46482,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "popola",
-      "mita"
+      "mita",
+      "popola"
     ],
     "tradukoj": {
       "en": "pygmy"
@@ -46490,8 +46523,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "milita",
-      "luda"
+      "luda",
+      "milita"
     ],
     "tradukoj": {
       "en": "picket, sentry (military); piquet (cards)"
@@ -46677,8 +46710,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "metia",
-      "ilo"
+      "ilo",
+      "metia"
     ],
     "tradukoj": {
       "en": "pick-axe"
@@ -46718,8 +46751,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "pepper"
@@ -46745,8 +46778,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "pear"
@@ -46853,8 +46886,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "pistachio (nut)"
@@ -46906,8 +46939,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "ĝenerala",
-      "fizika"
+      "fizika",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "pivot, axis, fulcrum"
@@ -47077,8 +47110,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "plantain (plant)"
@@ -47105,8 +47138,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "ĝenerala",
-      "fizika"
+      "fizika",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "plastic, easily shaped and molded"
@@ -47210,8 +47243,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala",
-      "adverbo"
+      "adverbo",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "most"
@@ -47315,8 +47348,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala",
-      "adverbo"
+      "adverbo",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "more"
@@ -47381,8 +47414,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala",
-      "adverbo"
+      "adverbo",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "farther, further"
@@ -47408,8 +47441,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "ĝenerala",
-      "besta"
+      "besta",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "pen; feather"
@@ -47542,8 +47575,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "prepozicio",
-      "ĝenerala"
+      "ĝenerala",
+      "prepozicio"
     ],
     "tradukoj": {
       "en": "at the rate of"
@@ -47876,8 +47909,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "apple"
@@ -47996,8 +48029,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "prepozicio",
-      "ĝenerala"
+      "ĝenerala",
+      "prepozicio"
     ],
     "tradukoj": {
       "en": "for"
@@ -48063,8 +48096,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "leek (plant)"
@@ -48181,8 +48214,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "prepozicio",
-      "ĝenerala"
+      "ĝenerala",
+      "prepozicio"
     ],
     "tradukoj": {
       "en": "after, behind"
@@ -48328,8 +48361,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "ĝenerala",
       "fizika",
+      "ĝenerala",
       "matematika"
     ],
     "tradukoj": {
@@ -48343,8 +48376,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "prefikso",
-      "ĝenerala"
+      "ĝenerala",
+      "prefikso"
     ],
     "tradukoj": {
       "en": "great-, fore-, ancient"
@@ -48387,7 +48420,7 @@
       "ĝenerala"
     ],
     "tradukoj": {
-      "en": "right, correct (to be right)"
+      "en": "be correct"
     }
   },
   {
@@ -48452,7 +48485,7 @@
     "nivelo": 3,
     "fakoj": [
       "socia",
-      "titolo"
+      "titola"
     ],
     "tradukoj": {
       "en": "prefect (an official)"
@@ -48652,8 +48685,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala",
-      "adverbo"
+      "adverbo",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "almost"
@@ -48732,8 +48765,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "prepozicio",
-      "ĝenerala"
+      "ĝenerala",
+      "prepozicio"
     ],
     "tradukoj": {
       "en": "beyond, past, by"
@@ -48798,8 +48831,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "prepozicio",
-      "ĝenerala"
+      "ĝenerala",
+      "prepozicio"
     ],
     "tradukoj": {
       "en": "concerning, about"
@@ -48839,7 +48872,7 @@
     "nivelo": 2,
     "fakoj": [
       "socia",
-      "titolo"
+      "titola"
     ],
     "vidu": "nobel’ monarĥ’",
     "tradukoj": {
@@ -48880,7 +48913,7 @@
     "nivelo": 2,
     "fakoj": [
       "religia",
-      "titolo"
+      "titola"
     ],
     "tradukoj": {
       "en": "prior (of a monastery)"
@@ -48932,8 +48965,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "prepozicio",
-      "ĝenerala"
+      "ĝenerala",
+      "prepozicio"
     ],
     "tradukoj": {
       "en": "because, on account of, for the sake of"
@@ -49397,7 +49430,7 @@
       "ĝenerala"
     ],
     "tradukoj": {
-      "en": "own (one’s own)"
+      "en": "one's own"
     }
   },
   {
@@ -49712,8 +49745,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "plum"
@@ -49964,8 +49997,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "pulse"
@@ -50292,8 +50325,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "rhubarb"
@@ -50320,7 +50353,7 @@
     "nivelo": 2,
     "fakoj": [
       "religia",
-      "titolo"
+      "titola"
     ],
     "tradukoj": {
       "en": "rabbi"
@@ -50413,8 +50446,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "ĝenerala",
-      "fizika"
+      "fizika",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "radar"
@@ -50427,8 +50460,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "ĝenerala",
-      "fizika"
+      "fizika",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "ray, beam; radiation"
@@ -50483,8 +50516,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "kuraca",
-      "fizika"
+      "fizika",
+      "kuraca"
     ],
     "tradukoj": {
       "en": "to photograph by X-rays"
@@ -50497,8 +50530,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "radish"
@@ -50682,8 +50715,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "turnip"
@@ -50841,8 +50874,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "prefikso",
-      "ĝenerala"
+      "ĝenerala",
+      "prefikso"
     ],
     "tradukoj": {
       "en": "again, back"
@@ -50855,8 +50888,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "ĝenerala",
-      "fizika"
+      "fizika",
+      "ĝenerala"
     ],
     "vidu": "re'ag', re'efik'",
     "tradukoj": {
@@ -51203,7 +51236,7 @@
     "nivelo": 1,
     "fakoj": [
       "socia",
-      "titolo"
+      "titola"
     ],
     "vidu": "monarĥ'",
     "tradukoj": {
@@ -51338,7 +51371,7 @@
     "nivelo": 2,
     "fakoj": [
       "ĝenerala",
-      "titolo"
+      "titola"
     ],
     "tradukoj": {
       "en": "rector, chancellor (of a college, etc.)"
@@ -51762,7 +51795,7 @@
     "nivelo": 2,
     "fakoj": [
       "ĝenerala",
-      "titolo"
+      "titola"
     ],
     "tradukoj": {
       "en": "inspector-general"
@@ -51947,8 +51980,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "currant (fruit)"
@@ -52358,8 +52391,8 @@
     "nivelo": 1,
     "fakoj": [
       "ĝenerala",
-      "muzika",
-      "lingvarta"
+      "lingvarta",
+      "muzika"
     ],
     "tradukoj": {
       "en": "rhythm"
@@ -52401,6 +52434,7 @@
     "fakoj": [
       "ĝenerala"
     ],
+    "vidu": "klin'salut'",
     "tradukoj": {
       "en": "bow, curtsey"
     }
@@ -52426,8 +52460,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "rice"
@@ -52561,8 +52595,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "muzika",
-      "lingvarta"
+      "lingvarta",
+      "muzika"
     ],
     "tradukoj": {
       "en": "romantic song, ballad"
@@ -52679,8 +52713,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "rosemary (plant)"
@@ -52693,8 +52727,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "manĝa",
-      "kuira"
+      "kuira",
+      "manĝa"
     ],
     "tradukoj": {
       "en": "roast"
@@ -52771,7 +52805,7 @@
     "speco": "k",
     "fonto": "f",
     "bona": true,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "religia"
     ],
@@ -52800,8 +52834,8 @@
     "nivelo": 2,
     "fakoj": [
       "ĝenerala",
-      "vesta",
-      "ŝtofa"
+      "ŝtofa",
+      "vesta"
     ],
     "tradukoj": {
       "en": "ribbon, band"
@@ -52853,8 +52887,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "blackberry (plant)"
@@ -53091,8 +53125,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "saffron (plant)"
@@ -53161,7 +53195,7 @@
       "ĝenerala"
     ],
     "tradukoj": {
-      "en": "sack"
+      "en": "bag, sack"
     }
   },
   {
@@ -53237,8 +53271,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "ĝenerala",
-      "ekonomia"
+      "ekonomia",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "salary, wages"
@@ -53408,8 +53442,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "sage (plant)"
@@ -53686,7 +53720,7 @@
     "nivelo": 2,
     "fakoj": [
       "socia",
-      "titolo"
+      "titola"
     ],
     "vidu": "regn’estr’",
     "tradukoj": {
@@ -53700,8 +53734,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "ĝenerala",
       "fizika",
+      "ĝenerala",
       "ĥemia"
     ],
     "tradukoj": {
@@ -53770,7 +53804,7 @@
       "ĝenerala"
     ],
     "tradukoj": {
-      "en": "know"
+      "en": "know (information, etc)"
     }
   },
   {
@@ -53806,8 +53840,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "konjunkcio",
-      "ĝenerala"
+      "ĝenerala",
+      "konjunkcio"
     ],
     "tradukoj": {
       "en": "if"
@@ -53833,8 +53867,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "konjunkcio",
-      "ĝenerala"
+      "ĝenerala",
+      "konjunkcio"
     ],
     "tradukoj": {
       "en": "but"
@@ -53901,8 +53935,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "rye"
@@ -54022,8 +54056,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "tempa",
       "mezura",
+      "tempa",
       "unuo"
     ],
     "tradukoj": {
@@ -54129,8 +54163,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "tempa",
-      "mezura"
+      "mezura",
+      "tempa"
     ],
     "tradukoj": {
       "en": "week"
@@ -54156,8 +54190,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "prepozicio",
-      "ĝenerala"
+      "ĝenerala",
+      "prepozicio"
     ],
     "tradukoj": {
       "en": "without"
@@ -54274,8 +54308,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "matematika",
       "ĝenerala",
+      "matematika",
       "nombro"
     ],
     "tradukoj": {
@@ -54395,7 +54429,7 @@
     "nivelo": 2,
     "fakoj": [
       "milita",
-      "titolo"
+      "titola"
     ],
     "vidu": "oficir’",
     "tradukoj": {
@@ -54501,8 +54535,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "matematika",
       "ĝenerala",
+      "matematika",
       "nombro"
     ],
     "tradukoj": {
@@ -54556,8 +54590,7 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tempa",
-      "terena"
+      "tempa"
     ],
     "tradukoj": {
       "en": "season"
@@ -54609,8 +54642,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "pronomo",
-      "ĝenerala"
+      "ĝenerala",
+      "pronomo"
     ],
     "tradukoj": {
       "en": "one’s self"
@@ -54805,7 +54838,7 @@
     "speco": "k",
     "fonto": "a",
     "bona": true,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
@@ -54991,8 +55024,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "religia",
-      "konstrua"
+      "konstrua",
+      "religia"
     ],
     "tradukoj": {
       "en": "synagogue"
@@ -55218,8 +55251,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "manĝa",
-      "kuira"
+      "kuira",
+      "manĝa"
     ],
     "tradukoj": {
       "en": "syrup"
@@ -55268,7 +55301,7 @@
     "radiko": "situaci'",
     "speco": "k",
     "fonto": "f",
-    "bona": true,
+    "bona": false,
     "nivelo": 2,
     "fakoj": [
       "ĝenerala"
@@ -55312,8 +55345,8 @@
     "nivelo": 1,
     "fakoj": [
       "ĝenerala",
-      "muzika",
-      "mezura"
+      "mezura",
+      "muzika"
     ],
     "tradukoj": {
       "en": "scale (measure, musical, etc.)"
@@ -55549,8 +55582,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "ĝenerala",
-      "grafika"
+      "grafika",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "sketch, draft, outline"
@@ -56089,8 +56122,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "ĝenerala",
       "fizika",
+      "ĝenerala",
       "ĥemia"
     ],
     "tradukoj": {
@@ -56565,8 +56598,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "ĝenerala",
-      "fizika"
+      "fizika",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "spectrum"
@@ -56684,8 +56717,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "spinach"
@@ -57244,6 +57277,7 @@
     "fakoj": [
       "ŝtofa"
     ],
+    "vidu": "kudr'",
     "tradukoj": {
       "en": "to quilt"
     }
@@ -57646,7 +57680,7 @@
     "speco": "a",
     "fonto": "a",
     "bona": true,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
@@ -57830,8 +57864,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "prepozicio",
-      "ĝenerala"
+      "ĝenerala",
+      "prepozicio"
     ],
     "tradukoj": {
       "en": "under, beneath, below"
@@ -58104,7 +58138,7 @@
     "speco": "k",
     "fonto": "f",
     "bona": true,
-    "nivelo": 0,
+    "nivelo": 1,
     "fakoj": [
       "ĝenerala",
       "planta"
@@ -58146,8 +58180,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "sugar"
@@ -58187,7 +58221,7 @@
     "nivelo": 2,
     "fakoj": [
       "socia",
-      "titolo"
+      "titola"
     ],
     "vidu": "regn’estr’",
     "tradukoj": {
@@ -58241,8 +58275,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "prepozicio",
-      "ĝenerala"
+      "ĝenerala",
+      "prepozicio"
     ],
     "tradukoj": {
       "en": "over, above"
@@ -58320,8 +58354,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "prepozicio",
-      "ĝenerala"
+      "ĝenerala",
+      "prepozicio"
     ],
     "tradukoj": {
       "en": "upon, on"
@@ -58414,8 +58448,8 @@
     "bona": true,
     "nivelo": 3,
     "fakoj": [
-      "vesta",
-      "religia"
+      "religia",
+      "vesta"
     ],
     "tradukoj": {
       "en": "cassock (clerical garment)"
@@ -58507,7 +58541,7 @@
     "nivelo": 2,
     "fakoj": [
       "socia",
-      "titolo"
+      "titola"
     ],
     "vidu": "reĝ’ regn’estr’",
     "tradukoj": {
@@ -58655,7 +58689,7 @@
       "ĝenerala"
     ],
     "tradukoj": {
-      "en": "change, exchange"
+      "en": "change, exchange (sth)"
     }
   },
   {
@@ -58728,7 +58762,7 @@
     "speco": "a",
     "fonto": "f",
     "bona": true,
-    "nivelo": 2,
+    "nivelo": 0,
     "fakoj": [
       "ĝenerala"
     ],
@@ -58783,8 +58817,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "chives"
@@ -58810,8 +58844,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "pronomo",
-      "ĝenerala"
+      "ĝenerala",
+      "pronomo"
     ],
     "tradukoj": {
       "en": "she"
@@ -58905,8 +58939,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "vetura",
-      "ĝenerala"
+      "ĝenerala",
+      "vetura"
     ],
     "tradukoj": {
       "en": "ship"
@@ -59088,7 +59122,7 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
@@ -59101,7 +59135,7 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
@@ -59129,8 +59163,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "metia",
-      "ilo"
+      "ilo",
+      "metia"
     ],
     "vidu": "plug’il’et’",
     "tradukoj": {
@@ -59552,8 +59586,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "tempa",
       "ĝenerala",
+      "tempa",
       "unuo"
     ],
     "tradukoj": {
@@ -60213,8 +60247,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "ĝenerala",
-      "elektronika"
+      "elektronika",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "telephone"
@@ -60227,8 +60261,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "ĝenerala",
-      "elektronika"
+      "elektronika",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "telegraph (system)"
@@ -60531,8 +60565,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "socia",
-      "religia"
+      "religia",
+      "socia"
     ],
     "tradukoj": {
       "en": "theocracy"
@@ -60545,8 +60579,8 @@
     "bona": false,
     "nivelo": 2,
     "fakoj": [
-      "socia",
-      "religia"
+      "religia",
+      "socia"
     ],
     "tradukoj": {
       "en": "theocracy"
@@ -60762,8 +60796,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "potato"
@@ -60895,9 +60929,9 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "adjektivo",
       "ĝenerala",
-      "tabelvorto",
-      "adjektivo"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "such, that kind of"
@@ -60910,9 +60944,9 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "adverbo",
       "ĝenerala",
-      "tabelvorto",
-      "adverbo"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "therefore, for that reason"
@@ -60925,9 +60959,9 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "adverbo",
       "ĝenerala",
-      "tabelvorto",
-      "adverbo"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "then"
@@ -60967,9 +61001,9 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "adverbo",
       "ĝenerala",
-      "tabelvorto",
-      "adverbo"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "there"
@@ -60982,9 +61016,9 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "adverbo",
       "ĝenerala",
-      "tabelvorto",
-      "adverbo"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "thus, so; in that way"
@@ -60997,9 +61031,9 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "adjektivo",
       "ĝenerala",
-      "tabelvorto",
-      "adjektivo"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "that one’s"
@@ -61090,8 +61124,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "thyme"
@@ -61183,8 +61217,8 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
-      "tabelvorto",
-      "substantivo"
+      "substantivo",
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "that (thing)"
@@ -61197,9 +61231,9 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "adverbo",
       "ĝenerala",
-      "tabelvorto",
-      "adverbo"
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "so much, that quantity"
@@ -61304,10 +61338,10 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala",
-      "tabelvorto",
       "adjektivo",
-      "substantivo"
+      "ĝenerala",
+      "substantivo",
+      "tabelvorto"
     ],
     "tradukoj": {
       "en": "that (one) (person or thing)"
@@ -61372,8 +61406,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "tomato"
@@ -61496,6 +61530,19 @@
     ],
     "tradukoj": {
       "en": "topaz"
+    }
+  },
+  {
+    "radiko": "topog'",
+    "speco": "k",
+    "fonto": "a",
+    "bona": false,
+    "nivelo": 2,
+    "fakoj": [
+      "ĝenerala"
+    ],
+    "tradukoj": {
+      "en": "topography"
     }
   },
   {
@@ -61651,8 +61698,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "manĝa",
-      "kuira"
+      "kuira",
+      "manĝa"
     ],
     "tradukoj": {
       "en": "tart, fruit pie"
@@ -61691,8 +61738,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "prepozicio",
-      "ĝenerala"
+      "ĝenerala",
+      "prepozicio"
     ],
     "tradukoj": {
       "en": "through (place)"
@@ -61926,8 +61973,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "prepozicio",
-      "ĝenerala"
+      "ĝenerala",
+      "prepozicio"
     ],
     "tradukoj": {
       "en": "across"
@@ -62005,8 +62052,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala",
-      "adverbo"
+      "adverbo",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "very"
@@ -62123,8 +62170,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "matematika",
       "ĝenerala",
+      "matematika",
       "nombro"
     ],
     "tradukoj": {
@@ -62164,8 +62211,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "socia",
-      "leĝa"
+      "leĝa",
+      "socia"
     ],
     "tradukoj": {
       "en": "tribunal, court of justice"
@@ -62270,8 +62317,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "wheat"
@@ -62389,8 +62436,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "socia",
-      "mebla"
+      "mebla",
+      "socia"
     ],
     "tradukoj": {
       "en": "throne"
@@ -62403,8 +62450,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "lingvarta",
-      "lingva"
+      "lingva",
+      "lingvarta"
     ],
     "tradukoj": {
       "en": "figure of speech"
@@ -62508,8 +62555,8 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "metia",
-      "ilo"
+      "ilo",
+      "metia"
     ],
     "tradukoj": {
       "en": "trowel"
@@ -62667,8 +62714,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "ĝenerala",
-      "adverbo"
+      "adverbo",
+      "ĝenerala"
     ],
     "tradukoj": {
       "en": "immediately"
@@ -63051,8 +63098,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "sufikso",
-      "ĝenerala"
+      "ĝenerala",
+      "sufikso"
     ],
     "tradukoj": {
       "en": "container"
@@ -63079,8 +63126,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "sufikso",
-      "ĝenerala"
+      "ĝenerala",
+      "sufikso"
     ],
     "tradukoj": {
       "en": "person noted for. . ."
@@ -63132,9 +63179,9 @@
     "bona": true,
     "nivelo": 3,
     "fakoj": [
+      "korpa",
       "mezura",
-      "unuo",
-      "korpa"
+      "unuo"
     ],
     "vidu": "metr’",
     "tradukoj": {
@@ -63161,8 +63208,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "sufikso",
-      "ĝenerala"
+      "ĝenerala",
+      "sufikso"
     ],
     "tradukoj": {
       "en": "this suffix with no fixed meaning"
@@ -63309,8 +63356,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "matematika",
       "ĝenerala",
+      "matematika",
       "nombro"
     ],
     "tradukoj": {
@@ -63795,8 +63842,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "ĝenerala",
       "besta",
+      "ĝenerala",
       "mita"
     ],
     "tradukoj": {
@@ -63862,8 +63909,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "vanilla (plant and spice)"
@@ -64456,6 +64503,7 @@
     "fakoj": [
       "leĝa"
     ],
+    "vidu": "decid'",
     "tradukoj": {
       "en": "verdict"
     }
@@ -64678,8 +64726,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "tempa",
-      "ĝenerala"
+      "ĝenerala",
+      "tempa"
     ],
     "tradukoj": {
       "en": "evening"
@@ -64720,6 +64768,7 @@
     "fakoj": [
       "ĝenerala"
     ],
+    "vidu": "antaŭ'ĉambr'",
     "tradukoj": {
       "en": "vestibule, lobby"
     }
@@ -64838,8 +64887,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "pronomo",
-      "ĝenerala"
+      "ĝenerala",
+      "pronomo"
     ],
     "tradukoj": {
       "en": "you"
@@ -65388,11 +65437,12 @@
     "radiko": "vivisekci'",
     "speco": "k",
     "fonto": "a",
-    "bona": true,
+    "bona": false,
     "nivelo": 2,
     "fakoj": [
       "ĝenerala"
     ],
+    "vidu": "viv'sekc'",
     "tradukoj": {
       "en": "vivisection, dissection of a living animal"
     }
@@ -65666,8 +65716,8 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "lingva",
-      "ĝenerala"
+      "ĝenerala",
+      "lingva"
     ],
     "tradukoj": {
       "en": "word"
@@ -65864,8 +65914,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "planta",
-      "manĝa"
+      "manĝa",
+      "planta"
     ],
     "tradukoj": {
       "en": "ginger (plant and spice)"
@@ -65943,8 +65993,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "vesta",
-      "ĝenerala"
+      "ĝenerala",
+      "vesta"
     ],
     "tradukoj": {
       "en": "belt, girdle, waistband"
@@ -65969,7 +66019,7 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],

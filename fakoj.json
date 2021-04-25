@@ -28,6 +28,10 @@
     "pri": "konjunkcioj"
   },
   {
+    "nomo": "nombro",
+    "pri": "nombroj"
+  },
+  {
     "nomo": "prefikso",
     "pri": "vortoj plej ofte uzata kiel prefiksoj"
   },
