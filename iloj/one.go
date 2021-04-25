@@ -5,6 +5,7 @@ import (
 	"encoding/csv"
 	"encoding/json"
 	"errors"
+	"flag"
 	"fmt"
 	"io"
 	"log"
@@ -267,6 +268,15 @@ func changePunc(l []Entry) []Entry {
 	})
 }
 
+func sortFakoj(l []Entry) []Entry {
+	return transform(l, func(e Entry) Entry {
+		sort.Slice(e.Fakoj, func(i, j int) bool {
+			return rootLess(e.Fakoj[i], e.Fakoj[j])
+		})
+		return e
+	})
+}
+
 type entryPred func(Entry) bool
 
 func filter(l []Entry, p entryPred) []Entry {
@@ -345,13 +355,33 @@ func writeEntries(spec string, l []Entry) error {
 	}
 }
 
+var fako = flag.String("fako", "", "filtri laŭ fako")
+var prefikso = flag.String("prefikso", "", "filtri laŭ prefikso")
+
+var helpa = flag.Bool("help", false, "por helpo")
+
+// var helpb = flag.Bool("h", false, "por helpo")
+
+func usage() {
+	fmt.Fprintf(os.Stdout, "Usage: %s [args] <in> <out>\nTurn <in> into <out>.\n\nUse eg. -.json for stdin/out.\n\n", os.Args[0])
+	flag.PrintDefaults()
+}
+
 func main() {
-	if len(os.Args) != 3 {
-		fmt.Fprintf(os.Stderr, "Usage: %s <in> <out>\n", os.Args[0])
+	flag.Parse()
+
+	if *helpa {
+		usage()
+		os.Exit(0)
+	}
+
+	args := flag.Args()
+	if len(args) != 2 {
+		fmt.Fprintf(os.Stderr, "%[1]s: invocation error\nTry '%[1]s --help' for more information.\n", os.Args[0])
 		os.Exit(1)
 	}
 
-	inspec, outspec := os.Args[1], os.Args[2]
+	inspec, outspec := args[0], args[1]
 
 	l, err := readEntries(inspec)
 	if err != nil {
@@ -361,8 +391,13 @@ func main() {
 
 	// l = markFundamento(l)
 	// l = changePunc(l)
-	// l = filterFako(l, fako)
-	// l = filterPrefix(l, prefix)
+	l = sortFakoj(l)
+	if *fako != "" {
+		l = filterFako(l, *fako)
+	}
+	if *prefikso != "" {
+		l = filterPrefix(l, *prefikso)
+	}
 	l = sortEntries(l)
 
 	err = writeEntries(outspec, l)
