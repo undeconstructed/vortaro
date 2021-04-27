@@ -6,8 +6,7 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "adjektivo",
-      "finaĵo"
+      "adjektivo"
     ],
     "tradukoj": {
       "en": "adjective marker"
@@ -15,12 +14,12 @@
   },
   {
     "radiko": "a",
-    "speco": "e",
+    "speco": "n",
     "fonto": "f",
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "litero"
+      "litera"
     ],
     "tradukoj": {
       "en": "letter “a”"
@@ -3203,11 +3202,12 @@
     "speco": "k",
     "fonto": "a",
     "bona": true,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
-      "ĝenerala"
+      "ĝenerala",
+      "lingvarta"
     ],
-    "vidu": "tekst'ar'",
+    "vidu": "tekst'",
     "tradukoj": {
       "en": "anthology"
     }
@@ -3230,11 +3230,11 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
-    "vidu": "hom'stud'ist'",
+    "vidu": "hom'",
     "tradukoj": {
       "en": "anthropologist"
     }
@@ -3244,11 +3244,11 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
-    "vidu": "hom'stud'",
+    "vidu": "hom'",
     "tradukoj": {
       "en": "anthropology"
     }
@@ -3955,6 +3955,19 @@
     }
   },
   {
+    "radiko": "arĥe'",
+    "speco": "a",
+    "fonto": "n",
+    "bona": false,
+    "nivelo": 2,
+    "fakoj": [
+      "ĝenerala"
+    ],
+    "tradukoj": {
+      "en": "ancient human history"
+    }
+  },
+  {
     "radiko": "arĥaik'",
     "speco": "a",
     "fonto": "a",
@@ -3985,12 +3998,12 @@
     "radiko": "arĥeolog'",
     "speco": "a",
     "fonto": "a",
-    "bona": true,
-    "nivelo": 2,
+    "bona": false,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
-    "vidu": "antikav'stud'ist'",
+    "vidu": "arĥe'",
     "tradukoj": {
       "en": "archeologist"
     }
@@ -3999,12 +4012,12 @@
     "radiko": "arĥeologi'",
     "speco": "k",
     "fonto": "a",
-    "bona": true,
-    "nivelo": 2,
+    "bona": false,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
-    "vidu": "antikv'stud'",
+    "vidu": "arĥe'",
     "tradukoj": {
       "en": "archeology"
     }
@@ -4014,25 +4027,25 @@
     "speco": "k",
     "fonto": "a",
     "bona": true,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "terena"
     ],
-    "vidu": "insul'ar'",
+    "vidu": "insul'",
     "tradukoj": {
       "en": "archipelago"
     }
   },
   {
     "radiko": "arĥitekt'",
-    "speco": "a",
+    "speco": "k",
     "fonto": "a",
-    "bona": true,
-    "nivelo": 1,
+    "bona": false,
+    "nivelo": 2,
     "fakoj": [
       "ĝenerala"
     ],
-    "vidu": "konstru'art'ist'",
+    "vidu": "konstru' art'",
     "tradukoj": {
       "en": "architect"
     }
@@ -4041,12 +4054,12 @@
     "radiko": "arĥitektur'",
     "speco": "k",
     "fonto": "f",
-    "bona": true,
+    "bona": false,
     "nivelo": 2,
     "fakoj": [
       "ĝenerala"
     ],
-    "vidu": "konstru'art'",
+    "vidu": "konstru' art'",
     "tradukoj": {
       "en": "archtecture"
     }
@@ -4095,7 +4108,7 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "socia"
     ],
@@ -4176,10 +4189,10 @@
   },
   {
     "radiko": "arkeolog'",
-    "speco": "a",
+    "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
@@ -4193,7 +4206,7 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
@@ -4207,7 +4220,7 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "terena"
     ],
@@ -4504,7 +4517,6 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "finaĵo",
       "verbo"
     ],
     "tradukoj": {
@@ -4782,7 +4794,7 @@
     "speco": "k",
     "fonto": "a",
     "bona": true,
-    "nivelo": 2,
+    "nivelo": 1,
     "fakoj": [
       "ĝenerala"
     ],
@@ -4792,10 +4804,10 @@
   },
   {
     "radiko": "astrolog'",
-    "speco": "a",
+    "speco": "k",
     "fonto": "a",
-    "bona": true,
-    "nivelo": 2,
+    "bona": false,
+    "nivelo": 3,
     "fakoj": [
       "religia"
     ],
@@ -4808,7 +4820,7 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "religia"
     ],
@@ -4818,14 +4830,14 @@
   },
   {
     "radiko": "astronom'",
-    "speco": "a",
+    "speco": "k",
     "fonto": "a",
-    "bona": true,
+    "bona": false,
     "nivelo": 2,
     "fakoj": [
       "fizika"
     ],
-    "vidu": "astro'stud'ist",
+    "vidu": "astro'",
     "tradukoj": {
       "en": "astronomer"
     }
@@ -4839,7 +4851,7 @@
     "fakoj": [
       "fizika"
     ],
-    "vidu": "astro'stud",
+    "vidu": "astro'",
     "tradukoj": {
       "en": "astronomy"
     }
@@ -7139,14 +7151,14 @@
     "radiko": "biolog'",
     "speco": "k",
     "fonto": "a",
-    "bona": true,
+    "bona": false,
     "nivelo": 2,
     "fakoj": [
       "ĝenerala"
     ],
-    "vidu": "viv'stud'",
+    "vidu": "viv'",
     "tradukoj": {
-      "en": "biology"
+      "en": "biologist"
     }
   },
   {
@@ -7158,7 +7170,7 @@
     "fakoj": [
       "ĝenerala"
     ],
-    "vidu": "biolog' viv'stud'",
+    "vidu": "viv'",
     "tradukoj": {
       "en": "biology"
     }
@@ -7482,12 +7494,12 @@
   },
   {
     "radiko": "bo",
-    "speco": "e",
+    "speco": "n",
     "fonto": "a",
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "litero"
+      "litera"
     ],
     "tradukoj": {
       "en": "letter “b”"
@@ -9723,12 +9735,12 @@
   },
   {
     "radiko": "co",
-    "speco": "e",
+    "speco": "n",
     "fonto": "a",
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "litero"
+      "litera"
     ],
     "tradukoj": {
       "en": "letter “c”"
@@ -11230,11 +11242,11 @@
   {
     "radiko": "delt'",
     "speco": "k",
-    "fonto": "a",
+    "fonto": "n",
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "litero",
+      "litera",
       "terena"
     ],
     "tradukoj": {
@@ -12667,12 +12679,12 @@
   },
   {
     "radiko": "do",
-    "speco": "e",
+    "speco": "n",
     "fonto": "f",
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "litero"
+      "litera"
     ],
     "tradukoj": {
       "en": "letter “d”"
@@ -13298,8 +13310,7 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "adverbo",
-      "finaĵo"
+      "adverbo"
     ],
     "tradukoj": {
       "en": "adverb marker"
@@ -13307,12 +13318,12 @@
   },
   {
     "radiko": "e",
-    "speco": "e",
+    "speco": "n",
     "fonto": "f",
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "litero"
+      "litera"
     ],
     "tradukoj": {
       "en": "letter “e”"
@@ -13710,7 +13721,7 @@
     "speco": "k",
     "fonto": "a",
     "bona": true,
-    "nivelo": 1,
+    "nivelo": 2,
     "fakoj": [
       "ĝenerala"
     ],
@@ -14694,16 +14705,16 @@
   },
   {
     "radiko": "entomolog'",
-    "speco": "a",
+    "speco": "k",
     "fonto": "a",
-    "bona": true,
-    "nivelo": 2,
+    "bona": false,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
-    "vidu": "insekt'stud''",
+    "vidu": "insekt'",
     "tradukoj": {
-      "en": "entomology"
+      "en": "entomologist"
     }
   },
   {
@@ -14711,11 +14722,11 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
-    "vidu": "insekt'stud'",
+    "vidu": "insekt'",
     "tradukoj": {
       "en": "entomology"
     }
@@ -15080,7 +15091,7 @@
     "speco": "k",
     "fonto": "a",
     "bona": true,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
@@ -15474,14 +15485,97 @@
     "radiko": "etimolog'",
     "speco": "a",
     "fonto": "a",
-    "bona": true,
+    "bona": false,
     "nivelo": 2,
     "fakoj": [
       "lingva"
     ],
     "vidu": "vort'stud'",
     "tradukoj": {
-      "en": "etymology (study of word origins)"
+      "en": "etymologist"
+    }
+  },
+  {
+    "radiko": "etimolog'",
+    "speco": "a",
+    "fonto": "a",
+    "bona": false,
+    "nivelo": 2,
+    "fakoj": [
+      "lingva"
+    ],
+    "vidu": "vort'stud'",
+    "tradukoj": {
+      "en": "etymologist"
+    }
+  },
+  {
+    "radiko": "etimolog'",
+    "speco": "a",
+    "fonto": "a",
+    "bona": false,
+    "nivelo": 2,
+    "fakoj": [
+      "lingva"
+    ],
+    "vidu": "vort'stud'",
+    "tradukoj": {
+      "en": "etymologist"
+    }
+  },
+  {
+    "radiko": "etimolog'",
+    "speco": "a",
+    "fonto": "a",
+    "bona": false,
+    "nivelo": 2,
+    "fakoj": [
+      "lingva"
+    ],
+    "vidu": "vort'stud'",
+    "tradukoj": {
+      "en": "etymologist"
+    }
+  },
+  {
+    "radiko": "etimolog'",
+    "speco": "a",
+    "fonto": "a",
+    "bona": false,
+    "nivelo": 2,
+    "fakoj": [
+      "lingva"
+    ],
+    "vidu": "vort'stud'",
+    "tradukoj": {
+      "en": "etymologist"
+    }
+  },
+  {
+    "radiko": "etim'",
+    "speco": "k",
+    "fonto": "n",
+    "bona": true,
+    "nivelo": 2,
+    "fakoj": [
+      "lingva"
+    ],
+    "tradukoj": {
+      "en": "older form of a word"
+    }
+  },
+  {
+    "radiko": "etimolog'",
+    "speco": "k",
+    "fonto": "a",
+    "bona": false,
+    "nivelo": 3,
+    "fakoj": [
+      "lingva"
+    ],
+    "vidu": "etim'",
+    "tradukoj": {
+      "en": "etymologist"
     }
   },
   {
@@ -15489,25 +15583,26 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "lingva"
     ],
+    "vidu": "etim'",
     "tradukoj": {
-      "en": "etymology (study of word origins)"
+      "en": "etymology"
     }
   },
   {
     "radiko": "etiolog'",
-    "speco": "a",
+    "speco": "k",
     "fonto": "a",
-    "bona": true,
-    "nivelo": 2,
+    "bona": false,
+    "nivelo": 3,
     "fakoj": [
       "kuraca"
     ],
     "tradukoj": {
-      "en": "etiology (study of the causes of disease)"
+      "en": "etiologist"
     }
   },
   {
@@ -15515,12 +15610,12 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "kuraca"
     ],
     "tradukoj": {
-      "en": "etiology (study of the causes of disease)"
+      "en": "etiology"
     }
   },
   {
@@ -15538,7 +15633,7 @@
   },
   {
     "radiko": "etn'",
-    "speco": "k",
+    "speco": "a",
     "fonto": "a",
     "bona": true,
     "nivelo": 2,
@@ -15551,16 +15646,15 @@
   },
   {
     "radiko": "etnograf'",
-    "speco": "a",
+    "speco": "k",
     "fonto": "a",
     "bona": false,
     "nivelo": 2,
     "fakoj": [
       "ĝenerala"
     ],
-    "vidu": "etno'stud'",
     "tradukoj": {
-      "en": "ethnography (systematic recording of human cultures)"
+      "en": "ethnographer"
     }
   },
   {
@@ -15568,13 +15662,25 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
-    "vidu": "etno'stud'",
     "tradukoj": {
-      "en": "ethnography (systematic recording of human cultures)"
+      "en": "ethnography"
+    }
+  },
+  {
+    "radiko": "etnolog'",
+    "speco": "k",
+    "fonto": "a",
+    "bona": false,
+    "nivelo": 3,
+    "fakoj": [
+      "ĝenerala"
+    ],
+    "tradukoj": {
+      "en": "ethnologer"
     }
   },
   {
@@ -15582,11 +15688,10 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
-    "vidu": "etno'stud'",
     "tradukoj": {
       "en": "ethnology"
     }
@@ -17228,7 +17333,7 @@
       "ĝenerala",
       "teatra"
     ],
-    "vidu": "kin'aĵ'",
+    "vidu": "kin' fot'",
     "tradukoj": {
       "en": "film (as of a movie or photograph)"
     }
@@ -17237,13 +17342,13 @@
     "radiko": "filolog'",
     "speco": "a",
     "fonto": "a",
-    "bona": true,
+    "bona": false,
     "nivelo": 3,
     "fakoj": [
       "lingvarta"
     ],
     "tradukoj": {
-      "en": "philology (study of literature)"
+      "en": "philologist"
     }
   },
   {
@@ -17256,15 +17361,15 @@
       "lingvarta"
     ],
     "tradukoj": {
-      "en": "philology (study of literature)"
+      "en": "philology"
     }
   },
   {
     "radiko": "filozof'",
-    "speco": "a",
+    "speco": "k",
     "fonto": "a",
-    "bona": true,
-    "nivelo": 1,
+    "bona": false,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
@@ -17277,7 +17382,7 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
@@ -17420,13 +17525,13 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "kuraca"
     ],
-    "vidu": "viv'stud'",
+    "vidu": "viv'",
     "tradukoj": {
-      "en": "physiology (study of living systems)"
+      "en": "physiologist"
     }
   },
   {
@@ -17434,11 +17539,11 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "kuraca"
     ],
-    "vidu": "korp'stud'",
+    "vidu": "korp'",
     "tradukoj": {
       "en": "physiology"
     }
@@ -17448,13 +17553,13 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
     "vidu": "vizaĝ'",
     "tradukoj": {
-      "en": "physionomy (facial characteristics and expressions)"
+      "en": "physionomy"
     }
   },
   {
@@ -17788,12 +17893,12 @@
   },
   {
     "radiko": "fo",
-    "speco": "e",
+    "speco": "n",
     "fonto": "a",
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "litero"
+      "litera"
     ],
     "tradukoj": {
       "en": "letter “f”"
@@ -19598,15 +19703,15 @@
   },
   {
     "radiko": "genealog'",
-    "speco": "a",
+    "speco": "k",
     "fonto": "a",
-    "bona": true,
-    "nivelo": 2,
+    "bona": false,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
     "tradukoj": {
-      "en": "genealogy (study of family history)"
+      "en": "genealogist"
     }
   },
   {
@@ -19614,7 +19719,7 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
@@ -19786,16 +19891,16 @@
   },
   {
     "radiko": "geolog'",
-    "speco": "a",
+    "speco": "k",
     "fonto": "a",
-    "bona": true,
-    "nivelo": 2,
+    "bona": false,
+    "nivelo": 3,
     "fakoj": [
       "fizika",
       "terena"
     ],
     "tradukoj": {
-      "en": "geology (study of planetry stucture)"
+      "en": "geologist"
     }
   },
   {
@@ -19803,7 +19908,7 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "fizika",
       "terena"
@@ -20285,12 +20390,12 @@
   },
   {
     "radiko": "go",
-    "speco": "e",
+    "speco": "n",
     "fonto": "a",
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "litero"
+      "litera"
     ],
     "tradukoj": {
       "en": "letter “g”"
@@ -20444,16 +20549,16 @@
   },
   {
     "radiko": "grafolog'",
-    "speco": "a",
+    "speco": "k",
     "fonto": "a",
-    "bona": true,
-    "nivelo": 2,
+    "bona": false,
+    "nivelo": 3,
     "fakoj": [
       "lingva"
     ],
-    "vidu": "man'skrib'stud'",
+    "vidu": "skrib'",
     "tradukoj": {
-      "en": "graphology (study of handwriting)"
+      "en": "graphologist"
     }
   },
   {
@@ -20461,13 +20566,13 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "lingva"
     ],
-    "vidu": "man'skrib'stud'",
+    "vidu": "skrib'",
     "tradukoj": {
-      "en": "graphology (study of handwriting)"
+      "en": "graphology"
     }
   },
   {
@@ -21335,12 +21440,12 @@
   },
   {
     "radiko": "ĝo",
-    "speco": "e",
+    "speco": "n",
     "fonto": "a",
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "litero"
+      "litera"
     ],
     "tradukoj": {
       "en": "letter “ĝ”"
@@ -22527,12 +22632,12 @@
   },
   {
     "radiko": "ho",
-    "speco": "e",
+    "speco": "n",
     "fonto": "a",
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "litero"
+      "litera"
     ],
     "tradukoj": {
       "en": "letter “h”"
@@ -23068,12 +23173,12 @@
   },
   {
     "radiko": "ĥo",
-    "speco": "e",
+    "speco": "n",
     "fonto": "a",
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "litero"
+      "litera"
     ],
     "tradukoj": {
       "en": "letter “ĥ”"
@@ -23112,7 +23217,6 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "finaĵo",
       "verbo"
     ],
     "tradukoj": {
@@ -23121,12 +23225,12 @@
   },
   {
     "radiko": "i",
-    "speco": "e",
+    "speco": "n",
     "fonto": "f",
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "litero"
+      "litera"
     ],
     "tradukoj": {
       "en": "letter “i”"
@@ -23289,12 +23393,12 @@
     "radiko": "ideologi'",
     "speco": "k",
     "fonto": "a",
-    "bona": true,
-    "nivelo": 2,
+    "bona": false,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
-    "vidu": "ism’",
+    "vidu": "ism’ ide'",
     "tradukoj": {
       "en": "ideology"
     }
@@ -23465,12 +23569,12 @@
   },
   {
     "radiko": "iks'",
-    "speco": "k",
+    "speco": "n",
     "fonto": "a",
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "litero"
+      "litera"
     ],
     "tradukoj": {
       "en": "letter “x”"
@@ -24956,12 +25060,12 @@
   },
   {
     "radiko": "ipsilon'",
-    "speco": "k",
+    "speco": "n",
     "fonto": "a",
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "litero"
+      "litera"
     ],
     "tradukoj": {
       "en": "letter “y”"
@@ -25065,7 +25169,6 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "finaĵo",
       "verbo"
     ],
     "tradukoj": {
@@ -25215,7 +25318,6 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "finaĵo"
     ],
     "tradukoj": {
       "en": "plural marker"
@@ -25400,12 +25502,12 @@
   },
   {
     "radiko": "jo",
-    "speco": "e",
+    "speco": "n",
     "fonto": "a",
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "litero"
+      "litera"
     ],
     "tradukoj": {
       "en": "letter “j”"
@@ -25796,12 +25898,12 @@
   },
   {
     "radiko": "ĵo",
-    "speco": "e",
+    "speco": "n",
     "fonto": "a",
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "litero"
+      "litera"
     ],
     "tradukoj": {
       "en": "letter “ĵ”"
@@ -29298,12 +29400,12 @@
   },
   {
     "radiko": "ko",
-    "speco": "e",
+    "speco": "n",
     "fonto": "a",
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "litero"
+      "litera"
     ],
     "tradukoj": {
       "en": "letter “k”"
@@ -31168,13 +31270,13 @@
     "radiko": "konservatori'",
     "speco": "k",
     "fonto": "a",
-    "bona": false,
+    "bona": true,
     "nivelo": 2,
     "fakoj": [
       "ĝenerala",
       "muzika"
     ],
-    "vidu": "art'lern'ej'",
+    "vidu": "art' lern'",
     "tradukoj": {
       "en": "conservatory (of music, etc.)"
     }
@@ -32201,8 +32303,9 @@
     "fakoj": [
       "fizika"
     ],
+    "vidu": "kosm'",
     "tradukoj": {
-      "en": "cosmogony (origin of the Universe)"
+      "en": "cosmogony"
     }
   },
   {
@@ -32210,12 +32313,13 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "fizika"
     ],
+    "vidu": "kosm'",
     "tradukoj": {
-      "en": "cosmographer (practitioner of cosmograph)"
+      "en": "cosmographer"
     }
   },
   {
@@ -32223,12 +32327,13 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
+    "vidu": "kosm'",
     "tradukoj": {
-      "en": "cosmography (general description of the world or Universe as a whole)"
+      "en": "cosmography"
     }
   },
   {
@@ -33064,11 +33169,11 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
-    "vidu": "laŭ'temp'",
+    "vidu": "temp'",
     "tradukoj": {
       "en": "chronology"
     }
@@ -33082,7 +33187,7 @@
     "fakoj": [
       "fizika"
     ],
-    "vidu": "temp'mezur'il' horloĝ'",
+    "vidu": "temp' mezur' il' horloĝ'",
     "tradukoj": {
       "en": "chronometer"
     }
@@ -33245,12 +33350,12 @@
   },
   {
     "radiko": "ku'",
-    "speco": "k",
+    "speco": "n",
     "fonto": "a",
     "bona": true,
-    "nivelo": 1,
+    "nivelo": 2,
     "fakoj": [
-      "litero"
+      "litera"
     ],
     "tradukoj": {
       "en": "letter “q”"
@@ -35858,12 +35963,12 @@
   },
   {
     "radiko": "lo",
-    "speco": "e",
+    "speco": "n",
     "fonto": "a",
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "litero"
+      "litera"
     ],
     "tradukoj": {
       "en": "letter “l”"
@@ -38667,16 +38772,16 @@
   },
   {
     "radiko": "meteorolog'",
-    "speco": "a",
+    "speco": "k",
     "fonto": "a",
-    "bona": true,
-    "nivelo": 2,
+    "bona": false,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
     "vidu": "veter'",
     "tradukoj": {
-      "en": "meteorology"
+      "en": "meteorologist"
     }
   },
   {
@@ -38684,7 +38789,7 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
@@ -39195,13 +39300,13 @@
     "speco": "a",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
     "vidu": "mineral'stud'ist'",
     "tradukoj": {
-      "en": "minerology (study of minerals)"
+      "en": "minerologist"
     }
   },
   {
@@ -39209,7 +39314,7 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
@@ -39554,16 +39659,16 @@
   },
   {
     "radiko": "mitolog'",
-    "speco": "a",
+    "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
-    "vidu": "mit'stud'",
+    "vidu": "mit'",
     "tradukoj": {
-      "en": "mythology"
+      "en": "mythologer"
     }
   },
   {
@@ -39571,11 +39676,11 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
-    "vidu": "mit'stud'",
+    "vidu": "mit'",
     "tradukoj": {
       "en": "mythology"
     }
@@ -39622,12 +39727,12 @@
   },
   {
     "radiko": "mo",
-    "speco": "e",
+    "speco": "n",
     "fonto": "a",
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "litero"
+      "litera"
     ],
     "tradukoj": {
       "en": "letter “m”"
@@ -40702,7 +40807,6 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "finaĵo"
     ],
     "tradukoj": {
       "en": "accusative (target) marker"
@@ -41725,12 +41829,12 @@
   },
   {
     "radiko": "no",
-    "speco": "e",
+    "speco": "n",
     "fonto": "a",
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "litero"
+      "litera"
     ],
     "tradukoj": {
       "en": "letter “n”"
@@ -42199,7 +42303,6 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "finaĵo",
       "substantivo"
     ],
     "tradukoj": {
@@ -42208,12 +42311,12 @@
   },
   {
     "radiko": "o",
-    "speco": "e",
+    "speco": "n",
     "fonto": "f",
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "litero"
+      "litera"
     ],
     "tradukoj": {
       "en": "letter “o”"
@@ -43518,16 +43621,16 @@
   },
   {
     "radiko": "ornitolog'",
-    "speco": "a",
+    "speco": "k",
     "fonto": "a",
-    "bona": true,
-    "nivelo": 2,
+    "bona": false,
+    "nivelo": 3,
     "fakoj": [
       "besta"
     ],
     "vidu": "bird'stud'",
     "tradukoj": {
-      "en": "ornithology (study of birds)"
+      "en": "ornithologist"
     }
   },
   {
@@ -43535,11 +43638,11 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "besta"
     ],
-    "vidu": "bird'stud'",
+    "vidu": "bird'",
     "tradukoj": {
       "en": "ornithology (study of birds)"
     }
@@ -43549,11 +43652,11 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "terena"
     ],
-    "vidu": "mont'stud'",
+    "vidu": "mont'",
     "tradukoj": {
       "en": "orography (geography of mountains)"
     }
@@ -43607,7 +43710,6 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "finaĵo",
       "verbo"
     ],
     "tradukoj": {
@@ -44047,11 +44149,11 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
-    "vidu": "paleon'stud'",
+    "vidu": "paleon'",
     "tradukoj": {
       "en": "paleontologist"
     }
@@ -44061,13 +44163,13 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
-    "vidu": "paleon'stud'",
+    "vidu": "paleon'",
     "tradukoj": {
-      "en": "paleontology (study of ancient life from fossils)"
+      "en": "paleontology"
     }
   },
   {
@@ -45173,11 +45275,11 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "kuraca"
     ],
-    "vidu": "mal'san'stud'ist'",
+    "vidu": "san'",
     "tradukoj": {
       "en": "pathologist"
     }
@@ -45187,13 +45289,13 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "kuraca"
     ],
-    "vidu": "mal'san'stud'",
+    "vidu": "san'",
     "tradukoj": {
-      "en": "pathology (study of diseases)"
+      "en": "pathology"
     }
   },
   {
@@ -47584,12 +47686,12 @@
   },
   {
     "radiko": "po",
-    "speco": "e",
+    "speco": "n",
     "fonto": "f",
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "litero"
+      "litera"
     ],
     "tradukoj": {
       "en": "letter “p”"
@@ -49823,26 +49925,26 @@
     "radiko": "psikolog'",
     "speco": "k",
     "fonto": "a",
-    "bona": true,
-    "nivelo": 2,
+    "bona": false,
+    "nivelo": 3,
     "fakoj": [
       "kuraca"
     ],
-    "vidu": "mens'stud’",
+    "vidu": "mens'",
     "tradukoj": {
-      "en": "psychology"
+      "en": "psychologist"
     }
   },
   {
     "radiko": "psikologi'",
     "speco": "k",
     "fonto": "a",
-    "bona": true,
-    "nivelo": 2,
+    "bona": false,
+    "nivelo": 3,
     "fakoj": [
       "kuraca"
     ],
-    "vidu": "mens'stud'",
+    "vidu": "mens'",
     "tradukoj": {
       "en": "psychology"
     }
@@ -52469,12 +52571,12 @@
   },
   {
     "radiko": "ro",
-    "speco": "e",
+    "speco": "n",
     "fonto": "a",
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "litero"
+      "litera"
     ],
     "tradukoj": {
       "en": "letter “r”"
@@ -55839,12 +55941,12 @@
   },
   {
     "radiko": "so",
-    "speco": "e",
+    "speco": "n",
     "fonto": "a",
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "litero"
+      "litera"
     ],
     "tradukoj": {
       "en": "letter “s”"
@@ -55909,11 +56011,11 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
-    "vidu": "soci'stud'ist'",
+    "vidu": "soci'",
     "tradukoj": {
       "en": "sociologist"
     }
@@ -55923,11 +56025,11 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
-    "vidu": "soci'stud'",
+    "vidu": "soci'",
     "tradukoj": {
       "en": "sociology"
     }
@@ -59039,12 +59141,12 @@
   },
   {
     "radiko": "ŝo",
-    "speco": "e",
+    "speco": "n",
     "fonto": "a",
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "litero"
+      "litera"
     ],
     "tradukoj": {
       "en": "letter “ŝ”"
@@ -60590,26 +60692,26 @@
     "radiko": "teolog'",
     "speco": "k",
     "fonto": "a",
-    "bona": true,
-    "nivelo": 2,
+    "bona": false,
+    "nivelo": 3,
     "fakoj": [
       "religia"
     ],
-    "vidu": "theology",
+    "vidu": "religi'",
     "tradukoj": {
-      "en": "theology"
+      "en": "theologist"
     }
   },
   {
     "radiko": "teologi'",
     "speco": "k",
     "fonto": "a",
-    "bona": true,
-    "nivelo": 2,
+    "bona": false,
+    "nivelo": 3,
     "fakoj": [
       "religia"
     ],
-    "vidu": "religi'stud'",
+    "vidu": "religi'",
     "tradukoj": {
       "en": "theology"
     }
@@ -61349,12 +61451,12 @@
   },
   {
     "radiko": "to",
-    "speco": "e",
+    "speco": "n",
     "fonto": "a",
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "litero"
+      "litera"
     ],
     "tradukoj": {
       "en": "letter “t”"
@@ -61534,15 +61636,15 @@
   },
   {
     "radiko": "topog'",
-    "speco": "k",
-    "fonto": "a",
+    "speco": "a",
+    "fonto": "n",
     "bona": false,
     "nivelo": 2,
     "fakoj": [
       "ĝenerala"
     ],
     "tradukoj": {
-      "en": "topography"
+      "en": "topographic"
     }
   },
   {
@@ -61550,12 +61652,12 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
     "tradukoj": {
-      "en": "topography"
+      "en": "topographer"
     }
   },
   {
@@ -61563,7 +61665,7 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
@@ -63071,7 +63173,6 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "finaĵo",
       "verbo"
     ],
     "tradukoj": {
@@ -63080,12 +63181,12 @@
   },
   {
     "radiko": "u",
-    "speco": "e",
+    "speco": "n",
     "fonto": "f",
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "litero"
+      "litera"
     ],
     "tradukoj": {
       "en": "letter “u”"
@@ -63501,7 +63602,6 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "finaĵo",
       "verbo"
     ],
     "tradukoj": {
@@ -63614,12 +63714,12 @@
   },
   {
     "radiko": "ŭo",
-    "speco": "e",
+    "speco": "n",
     "fonto": "a",
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "litero"
+      "litera"
     ],
     "tradukoj": {
       "en": "letter “ŭ”"
@@ -64084,6 +64184,20 @@
     ],
     "tradukoj": {
       "en": "Washington"
+    }
+  },
+  {
+    "radiko": "vav'",
+    "speco": "n",
+    "fonto": "n",
+    "bona": true,
+    "nivelo": 2,
+    "fakoj": [
+      "litera",
+      "terena"
+    ],
+    "tradukoj": {
+      "en": "letter w"
     }
   },
   {
@@ -65515,12 +65629,12 @@
   },
   {
     "radiko": "vo",
-    "speco": "e",
+    "speco": "n",
     "fonto": "a",
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "litero"
+      "litera"
     ],
     "tradukoj": {
       "en": "letter “v”"
@@ -65962,12 +66076,12 @@
   },
   {
     "radiko": "zo",
-    "speco": "e",
+    "speco": "n",
     "fonto": "a",
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "litero"
+      "litera"
     ],
     "tradukoj": {
       "en": "letter “z”"
@@ -66005,11 +66119,11 @@
     "speco": "k",
     "fonto": "a",
     "bona": false,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
-    "vidu": "best'stud'ist'",
+    "vidu": "best'",
     "tradukoj": {
       "en": "zoologist"
     }
@@ -66023,7 +66137,7 @@
     "fakoj": [
       "ĝenerala"
     ],
-    "vidu": "best'stud'",
+    "vidu": "best'",
     "tradukoj": {
       "en": "zoology"
     }
