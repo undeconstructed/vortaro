@@ -29,13 +29,13 @@
     "radiko": "abat'",
     "speco": "k",
     "fonto": "f",
-    "bona": true,
+    "bona": false,
     "nivelo": 3,
     "fakoj": [
       "religia",
       "titola"
     ],
-    "vidu": "monaĥ'ej'estr'",
+    "vidu": "monaĥ' estr'",
     "tradukoj": {
       "en": "abbot"
     }
@@ -49,7 +49,7 @@
     "fakoj": [
       "socia"
     ],
-    "vidu": "eks'iĝ', rezign'",
+    "vidu": "eks' iĝ' rezign'",
     "tradukoj": {
       "en": "abdicate"
     }
@@ -59,7 +59,7 @@
     "speco": "k",
     "fonto": "f",
     "bona": true,
-    "nivelo": 0,
+    "nivelo": 1,
     "fakoj": [
       "besta"
     ],
@@ -488,7 +488,7 @@
     "speco": "a",
     "fonto": "f",
     "bona": true,
-    "nivelo": 0,
+    "nivelo": 1,
     "fakoj": [
       "ĝenerala"
     ],
@@ -2531,7 +2531,7 @@
     "speco": "a",
     "fonto": "f",
     "bona": true,
-    "nivelo": 0,
+    "nivelo": 1,
     "fakoj": [
       "ĝenerala"
     ],
@@ -3508,7 +3508,8 @@
     "bona": true,
     "nivelo": 3,
     "fakoj": [
-      "fizika"
+      "fizika",
+      "kosma"
     ],
     "tradukoj": {
       "en": "apogee"
@@ -4328,8 +4329,8 @@
     "radiko": "armen'",
     "speco": "a",
     "fonto": "a",
+    "nivelo": 1,
     "bona": true,
-    "nivelo": 2,
     "fakoj": [
       "popola"
     ],
@@ -5287,7 +5288,7 @@
     "speco": "k",
     "fonto": "a",
     "bona": true,
-    "nivelo": 0,
+    "nivelo": 1,
     "fakoj": [
       "vetura"
     ],
@@ -5425,7 +5426,7 @@
     "speco": "k",
     "fonto": "a",
     "bona": true,
-    "nivelo": 0,
+    "nivelo": 1,
     "fakoj": [
       "ĝenerala"
     ],
@@ -6017,7 +6018,7 @@
     "speco": "k",
     "fonto": "a",
     "bona": true,
-    "nivelo": 0,
+    "nivelo": 1,
     "fakoj": [
       "manĝa",
       "planta"
@@ -6860,6 +6861,7 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
+      "besta",
       "ĝenerala"
     ],
     "tradukoj": {
@@ -10161,7 +10163,7 @@
     "speco": "k",
     "fonto": "f",
     "bona": true,
-    "nivelo": 0,
+    "nivelo": 1,
     "fakoj": [
       "besta"
     ],
@@ -10482,7 +10484,7 @@
     "speco": "k",
     "fonto": "f",
     "bona": true,
-    "nivelo": 0,
+    "nivelo": 1,
     "fakoj": [
       "manĝa"
     ],
@@ -14240,7 +14242,7 @@
     "speco": "k",
     "fonto": "f",
     "bona": true,
-    "nivelo": 0,
+    "nivelo": 1,
     "fakoj": [
       "besta"
     ],
@@ -14620,6 +14622,19 @@
     ],
     "tradukoj": {
       "en": "in (when followed by the accusative—into)"
+    }
+  },
+  {
+    "radiko": "pedi'",
+    "speco": "k",
+    "fonto": "n",
+    "bona": true,
+    "nivelo": 2,
+    "fakoj": [
+      "ĝenerala"
+    ],
+    "tradukoj": {
+      "en": "encyclopedia"
     }
   },
   {
@@ -15479,76 +15494,6 @@
     ],
     "tradukoj": {
       "en": "etiquette"
-    }
-  },
-  {
-    "radiko": "etimolog'",
-    "speco": "a",
-    "fonto": "a",
-    "bona": false,
-    "nivelo": 2,
-    "fakoj": [
-      "lingva"
-    ],
-    "vidu": "vort'stud'",
-    "tradukoj": {
-      "en": "etymologist"
-    }
-  },
-  {
-    "radiko": "etimolog'",
-    "speco": "a",
-    "fonto": "a",
-    "bona": false,
-    "nivelo": 2,
-    "fakoj": [
-      "lingva"
-    ],
-    "vidu": "vort'stud'",
-    "tradukoj": {
-      "en": "etymologist"
-    }
-  },
-  {
-    "radiko": "etimolog'",
-    "speco": "a",
-    "fonto": "a",
-    "bona": false,
-    "nivelo": 2,
-    "fakoj": [
-      "lingva"
-    ],
-    "vidu": "vort'stud'",
-    "tradukoj": {
-      "en": "etymologist"
-    }
-  },
-  {
-    "radiko": "etimolog'",
-    "speco": "a",
-    "fonto": "a",
-    "bona": false,
-    "nivelo": 2,
-    "fakoj": [
-      "lingva"
-    ],
-    "vidu": "vort'stud'",
-    "tradukoj": {
-      "en": "etymologist"
-    }
-  },
-  {
-    "radiko": "etimolog'",
-    "speco": "a",
-    "fonto": "a",
-    "bona": false,
-    "nivelo": 2,
-    "fakoj": [
-      "lingva"
-    ],
-    "vidu": "vort'stud'",
-    "tradukoj": {
-      "en": "etymologist"
     }
   },
   {
@@ -18863,6 +18808,7 @@
     "nivelo": 0,
     "fakoj": [
       "ĝenerala",
+      "manĝa",
       "planta"
     ],
     "tradukoj": {
@@ -19259,7 +19205,7 @@
     "speco": "k",
     "fonto": "a",
     "bona": true,
-    "nivelo": 2,
+    "nivelo": 1,
     "fakoj": [
       "kosma"
     ],
@@ -19865,7 +19811,7 @@
     "radiko": "geograf'",
     "speco": "k",
     "fonto": "a",
-    "bona": true,
+    "bona": false,
     "nivelo": 2,
     "fakoj": [
       "terena"
@@ -19879,7 +19825,7 @@
     "radiko": "geografi'",
     "speco": "k",
     "fonto": "a",
-    "bona": true,
+    "bona": false,
     "nivelo": 2,
     "fakoj": [
       "terena"
@@ -26139,7 +26085,7 @@
     "speco": "k",
     "fonto": "f",
     "bona": true,
-    "nivelo": 0,
+    "nivelo": 1,
     "fakoj": [
       "manĝa",
       "planta"
@@ -26350,8 +26296,9 @@
     "speco": "a",
     "fonto": "f",
     "bona": true,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
+      "metia",
       "vetura"
     ],
     "tradukoj": {
@@ -26482,12 +26429,12 @@
     "speco": "k",
     "fonto": "f",
     "bona": true,
-    "nivelo": 0,
+    "nivelo": 1,
     "fakoj": [
       "vesta"
     ],
     "tradukoj": {
-      "en": "trousers, pants, slacks"
+      "en": "underpants"
     }
   },
   {
@@ -29087,7 +29034,7 @@
     "speco": "k",
     "fonto": "f",
     "bona": true,
-    "nivelo": 0,
+    "nivelo": 1,
     "fakoj": [
       "ĝenerala"
     ],
@@ -34196,7 +34143,7 @@
     "speco": "k",
     "fonto": "a",
     "bona": true,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
@@ -35873,7 +35820,7 @@
     "radiko": "litograf'",
     "speco": "k",
     "fonto": "a",
-    "bona": true,
+    "bona": false,
     "nivelo": 2,
     "fakoj": [
       "grafika"
@@ -35886,7 +35833,7 @@
     "radiko": "litografi'",
     "speco": "k",
     "fonto": "a",
-    "bona": true,
+    "bona": false,
     "nivelo": 2,
     "fakoj": [
       "grafika"
@@ -37738,7 +37685,8 @@
     "nivelo": 2,
     "fakoj": [
       "ĝenerala",
-      "konstrua"
+      "konstrua",
+      "metia"
     ],
     "tradukoj": {
       "en": "to build with stone"
@@ -38761,7 +38709,7 @@
     "radiko": "meteor'",
     "speco": "k",
     "fonto": "a",
-    "bona": true,
+    "bona": false,
     "nivelo": 2,
     "fakoj": [
       "kosma"
@@ -41181,7 +41129,7 @@
     "nivelo": 1,
     "fakoj": [
       "ĝenerala",
-      "vetura"
+      "vetera"
     ],
     "tradukoj": {
       "en": "fog"
@@ -42189,7 +42137,7 @@
     "speco": "k",
     "fonto": "f",
     "bona": true,
-    "nivelo": 0,
+    "nivelo": 1,
     "fakoj": [
       "manĝa",
       "planta"
@@ -46491,7 +46439,6 @@
     "bona": true,
     "nivelo": 2,
     "fakoj": [
-      "ilo",
       "muzika"
     ],
     "tradukoj": {
@@ -47649,7 +47596,7 @@
     "speco": "a",
     "fonto": "f",
     "bona": true,
-    "nivelo": 0,
+    "nivelo": 1,
     "fakoj": [
       "vetera"
     ],
@@ -48009,7 +47956,7 @@
     "speco": "k",
     "fonto": "f",
     "bona": true,
-    "nivelo": 0,
+    "nivelo": 1,
     "fakoj": [
       "manĝa",
       "planta"
@@ -48223,7 +48170,7 @@
     "speco": "k",
     "fonto": "f",
     "bona": true,
-    "nivelo": 0,
+    "nivelo": 1,
     "fakoj": [
       "besta"
     ],
@@ -56292,8 +56239,7 @@
     "bona": true,
     "nivelo": 0,
     "fakoj": [
-      "tempa",
-      "terena"
+      "tempa"
     ],
     "tradukoj": {
       "en": "summer"
@@ -58280,7 +58226,7 @@
     "speco": "k",
     "fonto": "f",
     "bona": true,
-    "nivelo": 0,
+    "nivelo": 1,
     "fakoj": [
       "manĝa",
       "planta"
@@ -58627,7 +58573,7 @@
     "speco": "k",
     "fonto": "f",
     "bona": true,
-    "nivelo": 0,
+    "nivelo": 1,
     "fakoj": [
       "besta"
     ],
@@ -60185,7 +60131,7 @@
     "speco": "k",
     "fonto": "f",
     "bona": true,
-    "nivelo": 0,
+    "nivelo": 1,
     "fakoj": [
       "manĝa",
       "planta"
@@ -60664,14 +60610,14 @@
     "radiko": "teokrat'",
     "speco": "k",
     "fonto": "a",
-    "bona": true,
+    "bona": false,
     "nivelo": 2,
     "fakoj": [
       "religia",
       "socia"
     ],
     "tradukoj": {
-      "en": "theocracy"
+      "en": "theocrat"
     }
   },
   {
@@ -61172,7 +61118,7 @@
     "speco": "k",
     "fonto": "f",
     "bona": true,
-    "nivelo": 0,
+    "nivelo": 1,
     "fakoj": [
       "besta"
     ],
@@ -61506,7 +61452,7 @@
     "speco": "k",
     "fonto": "a",
     "bona": true,
-    "nivelo": 0,
+    "nivelo": 1,
     "fakoj": [
       "manĝa",
       "planta"
@@ -61572,7 +61518,7 @@
     "speco": "k",
     "fonto": "f",
     "bona": true,
-    "nivelo": 0,
+    "nivelo": 1,
     "fakoj": [
       "vetera"
     ],
@@ -61971,7 +61917,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "ĝenerala"
+      "ĝenerala",
+      "vetura"
     ],
     "tradukoj": {
       "en": "train, series of objects in a line"
@@ -63417,7 +63364,8 @@
     "bona": true,
     "nivelo": 1,
     "fakoj": [
-      "ĝenerala"
+      "ĝenerala",
+      "kosma"
     ],
     "tradukoj": {
       "en": "universe"
@@ -64191,7 +64139,7 @@
     "speco": "n",
     "fonto": "n",
     "bona": true,
-    "nivelo": 2,
+    "nivelo": 1,
     "fakoj": [
       "litera",
       "terena"
@@ -64496,7 +64444,7 @@
     "speco": "k",
     "fonto": "f",
     "bona": true,
-    "nivelo": 0,
+    "nivelo": 1,
     "fakoj": [
       "vetera"
     ],
@@ -64640,7 +64588,7 @@
     "speco": "a",
     "fonto": "f",
     "bona": true,
-    "nivelo": 0,
+    "nivelo": 1,
     "fakoj": [
       "ĝenerala",
       "lingvarta"
