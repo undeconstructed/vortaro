@@ -34009,7 +34009,7 @@
     "speco": "k",
     "fonto": "f",
     "bona": true,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "muzika"
     ],
@@ -34130,7 +34130,7 @@
     "speco": "k",
     "fonto": "a",
     "bona": true,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "muzika"
     ],
@@ -57358,9 +57358,9 @@
     }
   },
   {
-    "radiko": "stenograf'",
+    "radiko": "stenogr'",
     "speco": "a",
-    "fonto": "a",
+    "fonto": "n",
     "bona": true,
     "nivelo": 2,
     "fakoj": [
@@ -57368,6 +57368,19 @@
     ],
     "tradukoj": {
       "en": "stenography"
+    }
+  },
+  {
+    "radiko": "stenograf'",
+    "speco": "a",
+    "fonto": "a",
+    "bona": false,
+    "nivelo": 2,
+    "fakoj": [
+      "ĝenerala"
+    ],
+    "tradukoj": {
+      "en": "stenographer"
     }
   },
   {
@@ -58653,7 +58666,7 @@
     "speco": "k",
     "fonto": "f",
     "bona": true,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "ĝenerala"
     ],
@@ -64615,7 +64628,7 @@
     "speco": "k",
     "fonto": "f",
     "bona": true,
-    "nivelo": 2,
+    "nivelo": 3,
     "fakoj": [
       "manĝa"
     ],
